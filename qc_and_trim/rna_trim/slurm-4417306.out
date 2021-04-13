@@ -1,0 +1,19 @@
+	trimmomatic 0.36 loaded, see 'module help trimmomatic/0.36' for more information.
+TrimmomaticPE: Started with arguments:
+ -threads 4 -basein /scratch/4417306/SRR4342137.1.fastq.gz -baseout /scratch/4417306/SRR4342137_filtered.fastaq.gz ILLUMINACLIP:/sw/apps/bioinfo/trimmomatic/0.36/snowy/adapters/TruSeq3-PE.fa:2:30:10 LEADING:6 TRAILING:6 SLIDINGWINDOW:4:15 AVGQUAL:20 MINLEN:30
+Using templated Input files: /scratch/4417306/SRR4342137.1.fastq.gz /scratch/4417306/SRR4342137.2.fastq.gz
+Using templated Output files: /scratch/4417306/SRR4342137_filtered.fastaq_1P.gz /scratch/4417306/SRR4342137_filtered.fastaq_1U.gz /scratch/4417306/SRR4342137_filtered.fastaq_2P.gz /scratch/4417306/SRR4342137_filtered.fastaq_2U.gz
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 1304686 Both Surviving: 846970 (64.92%) Forward Only Surviving: 233437 (17.89%) Reverse Only Surviving: 3523 (0.27%) Dropped: 220756 (16.92%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -basein /scratch/4417306/SRR4342139.1.fastq.gz -baseout /scratch/4417306/SRR4342139_filtered.fastaq.gz ILLUMINACLIP:/sw/apps/bioinfo/trimmomatic/0.36/snowy/adapters/TruSeq3-PE.fa:2:30:10 LEADING:6 TRAILING:6 SLIDINGWINDOW:4:15 AVGQUAL:20 MINLEN:30
+Using templated Input files: /scratch/4417306/SRR4342139.1.fastq.gz /scratch/4417306/SRR4342139.2.fastq.gz
+Using templated Output files: /scratch/4417306/SRR4342139_filtered.fastaq_1P.gz /scratch/4417306/SRR4342139_filtered.fastaq_1U.gz /scratch/4417306/SRR4342139_filtered.fastaq_2P.gz /scratch/4417306/SRR4342139_filtered.fastaq_2U.gz
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 1213040 Both Surviving: 710284 (58.55%) Forward Only Surviving: 202812 (16.72%) Reverse Only Surviving: 2617 (0.22%) Dropped: 297327 (24.51%)
+TrimmomaticPE: Completed successfully
