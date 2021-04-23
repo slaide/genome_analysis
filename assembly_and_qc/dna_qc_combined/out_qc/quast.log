@@ -1,0 +1,61 @@
+/sw/apps/bioinfo/quast/5.0.2/rackham/bin/quast.py -t 2 -o /scratch/4469557/out_qc /scratch/4469557/in/combined.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.21.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.2
+  CPUs number: 16
+
+Started: 2021-04-21 01:33:53
+
+Logging to /scratch/4469557/out_qc/quast.log
+
+CWD: /domus/h1/phennig/genome_analysis/assembly_and_qc
+Main parameters: 
+  MODE: default, threads: 2, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /scratch/4469557/in/combined.contigs.fa ==> combined.contigs
+
+2021-04-21 01:34:10
+Running Basic statistics processor...
+  Contig files: 
+    combined.contigs
+  Calculating N50 and L50...
+    combined.contigs, N50 = 1358, L50 = 37129, Total length = 231305256, GC % = 47.76, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /scratch/4469557/out_qc/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /scratch/4469557/out_qc/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /scratch/4469557/out_qc/basic_stats/GC_content_plot.pdf
+  Drawing combined.contigs GC content plot...
+    saved to /scratch/4469557/out_qc/basic_stats/combined.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-04-21 01:34:31
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-04-21 01:34:38
+RESULTS:
+  Text versions of total report are saved to /scratch/4469557/out_qc/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /scratch/4469557/out_qc/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /scratch/4469557/out_qc/report.html
+  PDF version (tables and plots) is saved to /scratch/4469557/out_qc/report.pdf
+  Icarus (contig browser) is saved to /scratch/4469557/out_qc/icarus.html
+  Log is saved to /scratch/4469557/out_qc/quast.log
+
+Finished: 2021-04-21 01:34:38
+Elapsed time: 0:00:45.151331
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
