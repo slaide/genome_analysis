@@ -1,0 +1,20 @@
+$ metabat -t 1 -v -i ../assembly_and_qc/dna_assembly_combined/out_as/combined.contigs.fa -o binned_contigs
+MetaBAT 2 (v2.12.1) using minContig 2500, minCV 1.0, minCVSum 1.0, maxP 95%, minS 60, and maxEdges 200.
+[00:00:02] Number of target contigs: 13327 of large (>= 2500) and 48182 of small ones (>=1000 & <2500).
+[00:00:26] Finished TNF calculation.
+[00:00:28] Preparing TNF Graph Building [pTNF = 95.8; 8519 / 13327 (P = 63.92%)]
+[00:35:15] Finished Preparing TNF Graph Building [pTNF = 84.50]
+[00:36:36] Finished Building TNF Graph (12617 vertices and 684208 edges) [46.5Gb / 125.7Gb]
+
+[00:36:36] Building SCR Graph and Binning (2533 vertices and 8461 edges) [P = 19.00%; 46.3Gb / 125.7Gb]
+[00:36:36] Building SCR Graph and Binning (3799 vertices and 12433 edges) [P = 28.50%; 46.3Gb / 125.7Gb]
+[00:36:36] Building SCR Graph and Binning (5065 vertices and 16214 edges) [P = 38.00%; 46.3Gb / 125.7Gb]
+[00:36:36] Building SCR Graph and Binning (6331 vertices and 19611 edges) [P = 47.50%; 46.3Gb / 125.7Gb]
+[00:36:36] Building SCR Graph and Binning (7597 vertices and 23698 edges) [P = 57.00%; 46.3Gb / 125.7Gb]
+[00:36:37] Building SCR Graph and Binning (8863 vertices and 29946 edges) [P = 66.50%; 46.3Gb / 125.7Gb]
+[00:36:37] Building SCR Graph and Binning (10129 vertices and 38610 edges) [P = 76.00%; 46.3Gb / 125.7Gb]
+[00:36:37] Building SCR Graph and Binning (11395 vertices and 50823 edges) [P = 85.50%; 46.3Gb / 125.7Gb]
+[00:36:37] Building SCR Graph and Binning (12617 vertices and 75074 edges) [P = 95.00%; 46.3Gb / 125.7Gb]
+
+[00:36:38] 92.73% (67943318 bases) of large (>=2500) and 0.00% (0 bases) of small (<2500) contigs were binned.
+26 bins (67943318 bases in total) formed.

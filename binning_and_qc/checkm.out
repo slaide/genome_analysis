@@ -1,0 +1,106 @@
+Several complimentary python scripts are available with pplacer/1.1.alpha19. 'module help pplacer/1.1.alpha19' for more information
+
+*******************************************************************************
+ [CheckM - tree] Placing bins in reference genome tree.
+*******************************************************************************
+
+  Identifying marker genes in 26 bins with 4 threads:
+    Finished processing 26 of 26 (100.00%) bins.
+  Saving HMM info to file.
+
+  Calculating genome statistics for 26 bins with 4 threads:
+    Finished processing 26 of 26 (100.00%) bins.
+
+  Extracting marker genes to align.
+  Parsing HMM hits to marker genes:
+    Finished parsing hits for 26 of 26 (100.00%) bins.
+  Extracting 43 HMMs with 4 threads:
+    Finished extracting 43 of 43 (100.00%) HMMs.
+  Aligning 43 marker genes with 4 threads:
+    Finished aligning 43 of 43 (100.00%) marker genes.
+
+  Reading marker alignment files.
+  Concatenating alignments.
+  Placing 26 bins into the genome tree with pplacer (be patient).
+
+  { Current stage: 0:05:55.554 || Total: 0:05:55.554 }
+
+*******************************************************************************
+ [CheckM - lineage_set] Inferring lineage-specific marker sets.
+*******************************************************************************
+
+  Reading HMM info from file.
+  Parsing HMM hits to marker genes:
+    Finished parsing hits for 26 of 26 (100.00%) bins.
+
+  Determining marker sets for each genome bin.
+    Finished processing 26 of 26 (100.00%) bins (current: binned_contigs_9).
+
+  Marker set written to: binning_qc_out/lineage.ms
+
+  { Current stage: 0:00:06.693 || Total: 0:06:02.247 }
+
+*******************************************************************************
+ [CheckM - analyze] Identifying marker genes in bins.
+*******************************************************************************
+
+  Identifying marker genes in 26 bins with 4 threads:
+    Finished processing 26 of 26 (100.00%) bins.
+  Saving HMM info to file.
+
+  { Current stage: 0:07:15.136 || Total: 0:13:17.384 }
+
+  Parsing HMM hits to marker genes:
+    Finished parsing hits for 26 of 26 (100.00%) bins.
+  Aligning marker genes with multiple hits in a single bin:
+    Finished processing 26 of 26 (100.00%) bins.
+
+  { Current stage: 0:00:27.919 || Total: 0:13:45.303 }
+
+  Calculating genome statistics for 26 bins with 4 threads:
+    Finished processing 26 of 26 (100.00%) bins.
+
+  { Current stage: 0:00:01.126 || Total: 0:13:46.429 }
+
+*******************************************************************************
+ [CheckM - qa] Tabulating genome statistics.
+*******************************************************************************
+
+  Calculating AAI between multi-copy marker genes.
+
+  Reading HMM info from file.
+  Parsing HMM hits to marker genes:
+    Finished parsing hits for 26 of 26 (100.00%) bins.
+
+
+  { Current stage: 0:00:11.237 || Total: 0:13:57.667 }
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Bin Id                       Marker lineage            # genomes   # markers   # marker sets    0     1    2    3    4    5+   Completeness   Contamination   Strain heterogeneity
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  binned_contigs_11             root (UID1)                 5656         56            24         0     0    0    0    1    55      100.00          779.11              3.40
+  binned_contigs_18   c__Gammaproteobacteria (UID4274)      112         577           287         25   544   7    1    0    0       98.48            1.90              10.00
+  binned_contigs_19         k__Bacteria (UID203)            5449        104            58         1     12   30   48   10   3       98.28           141.70             49.62
+  binned_contigs_10        k__Bacteria (UID2565)            2921        142            87         3    139   0    0    0    0       97.63            0.00               0.00
+  binned_contigs_25         k__Bacteria (UID203)            5449        104            58         3     32   48   20   1    0       94.83           62.74              46.49
+  binned_contigs_21        k__Bacteria (UID1453)            901         171           117         10   156   5    0    0    0       92.31            3.85               0.00
+  binned_contigs_3         k__Bacteria (UID3187)            2258        188           117         19   165   4    0    0    0       86.22            2.56              25.00
+  binned_contigs_8           k__Archaea (UID2)              207         145           103         18    31   38   37   13   8       84.95           127.79             45.94
+  binned_contigs_6          k__Bacteria (UID203)            5449        104            58         11    55   38   0    0    0       84.33           35.90              28.95
+  binned_contigs_7         k__Bacteria (UID2495)            2993        147            91         21   126   0    0    0    0       81.32            0.00               0.00
+  binned_contigs_16        k__Bacteria (UID2495)            2993        147            91         35   111   1    0    0    0       77.63            0.10               0.00
+  binned_contigs_12          k__Archaea (UID2)              207         149           107         33    60   48   8    0    0       74.61           40.68              52.78
+  binned_contigs_5      p__Actinobacteria (UID1454)         732         199           116         50   143   6    0    0    0       73.35            2.52              66.67
+  binned_contigs_9     f__Rhodobacteraceae (UID3340)         84         568           330        154   401   13   0    0    0       69.73            2.27              84.62
+  binned_contigs_24       p__Euryarchaeota (UID3)           148         188           125         46   142   0    0    0    0       69.20            0.00               0.00
+  binned_contigs_1          k__Bacteria (UID203)            5449        103            57         23    53   23   3    1    0       68.98           26.40              65.79
+  binned_contigs_13        k__Bacteria (UID2495)            2993        147            91         35   111   1    0    0    0       68.93            1.10              100.00
+  binned_contigs_20        k__Bacteria (UID1453)            901         171           117         48   121   2    0    0    0       67.44            0.71               0.00
+  binned_contigs_14     o__Actinomycetales (UID1663)        488         310           185        105   199   6    0    0    0       65.39            1.35              16.67
+  binned_contigs_22         k__Bacteria (UID203)            5449        104            58         70    33   1    0    0    0       46.33            1.72               0.00
+  binned_contigs_17         k__Bacteria (UID203)            5449        104            58         71    33   0    0    0    0       44.44            0.00               0.00
+  binned_contigs_26         k__Bacteria (UID203)            5449        104            58         77    22   4    1    0    0       39.66           10.34              57.14
+  binned_contigs_4       p__Cyanobacteria (UID2143)         129         472           368        313   158   1    0    0    0       33.90            0.27               0.00
+  binned_contigs_15        k__Bacteria (UID2565)            2921        140            85        108    31   1    0    0    0       19.93            1.18               0.00
+  binned_contigs_2        p__Euryarchaeota (UID3)           148         188           125        154    34   0    0    0    0       15.77            0.00               0.00
+  binned_contigs_23         k__Bacteria (UID203)            5449        102            56         99    3    0    0    0    0        3.57            0.00               0.00
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
