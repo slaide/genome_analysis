@@ -1,0 +1,4 @@
+bin_18	d__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__?.f__?.g__?.s__?.t__?
+bin_15	d__Bacteria.p__Planctomycetes.c__Planctomycetacia.o__Pirellulales.f__Pirellulaceae.g__?.s__?.t__?
+bin_10	d__Bacteria.p__Planctomycetes.c__Planctomycetacia.o__Pirellulales.f__Pirellulaceae.g__?.s__?.t__?
+bin_4	d__Bacteria.p__Cyanobacteria.c__Synechococcophycidae.o__Synechococcales.f__Synechococcaceae.g__?.s__?.t__?
