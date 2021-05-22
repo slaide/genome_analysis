@@ -1,0 +1,528 @@
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:02:41 CEST 2021
+running samtools view -b -o sample1_bin18.bam ../rna_mapping/map_sample1_bin18.sam
+running samtools view -b -o sample2_bin18.bam ../rna_mapping/map_sample2_bin18.sam
+concatenating bam files
+Mon May 17 20:03:29 CEST 2021
+running samtools cat -o bin18_concat.bam sample1_bin18.bam sample2_bin18.bam
+sorting concatenated bam file
+Mon May 17 20:03:31 CEST 2021
+running samtools index bin18_concat_sorted.bam
+counting reads
+Mon May 17 20:04:26 CEST 2021
+running htseq-count -d , -c bin_18_expression.csv -i ID -t CDS -r pos bin18_concat_sorted.bam ../annotation/prokka_out/bin_18/bin_18_nofa.gff
+5090 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:06:25 CEST 2021
+running samtools view -b -o sample1_bin10.bam ../rna_mapping/map_sample1_bin10.sam
+running samtools view -b -o sample2_bin10.bam ../rna_mapping/map_sample2_bin10.sam
+concatenating bam files
+Mon May 17 20:07:12 CEST 2021
+running samtools cat -o bin10_concat.bam sample1_bin10.bam sample2_bin10.bam
+sorting concatenated bam file
+Mon May 17 20:07:15 CEST 2021
+running samtools index bin10_concat_sorted.bam
+counting reads
+Mon May 17 20:08:09 CEST 2021
+running htseq-count -d , -c bin_10_expression.csv -i ID -t CDS -r pos bin10_concat_sorted.bam ../annotation/prokka_out/bin_10/bin_10_nofa.gff
+5806 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:10:07 CEST 2021
+running samtools view -b -o sample1_bin21.bam ../rna_mapping/map_sample1_bin21.sam
+running samtools view -b -o sample2_bin21.bam ../rna_mapping/map_sample2_bin21.sam
+concatenating bam files
+Mon May 17 20:10:54 CEST 2021
+running samtools cat -o bin21_concat.bam sample1_bin21.bam sample2_bin21.bam
+sorting concatenated bam file
+Mon May 17 20:10:56 CEST 2021
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+running samtools index bin21_concat_sorted.bam
+counting reads
+Mon May 17 20:12:13 CEST 2021
+running htseq-count -d , -c bin_21_expression.csv -i ID -t CDS -r pos bin21_concat_sorted.bam ../annotation/prokka_out/bin_21/bin_21_nofa.gff
+3732 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:14:13 CEST 2021
+running samtools view -b -o sample1_bin3.bam ../rna_mapping/map_sample1_bin3.sam
+running samtools view -b -o sample2_bin3.bam ../rna_mapping/map_sample2_bin3.sam
+concatenating bam files
+Mon May 17 20:15:00 CEST 2021
+running samtools cat -o bin3_concat.bam sample1_bin3.bam sample2_bin3.bam
+sorting concatenated bam file
+Mon May 17 20:15:02 CEST 2021
+running samtools index bin3_concat_sorted.bam
+counting reads
+Mon May 17 20:15:57 CEST 2021
+running htseq-count -d , -c bin_3_expression.csv -i ID -t CDS -r pos bin3_concat_sorted.bam ../annotation/prokka_out/bin_3/bin_3_nofa.gff
+4975 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:17:57 CEST 2021
+running samtools view -b -o sample1_bin7.bam ../rna_mapping/map_sample1_bin7.sam
+running samtools view -b -o sample2_bin7.bam ../rna_mapping/map_sample2_bin7.sam
+concatenating bam files
+Mon May 17 20:18:45 CEST 2021
+running samtools cat -o bin7_concat.bam sample1_bin7.bam sample2_bin7.bam
+sorting concatenated bam file
+Mon May 17 20:18:47 CEST 2021
+running samtools index bin7_concat_sorted.bam
+counting reads
+Mon May 17 20:19:43 CEST 2021
+running htseq-count -d , -c bin_7_expression.csv -i ID -t CDS -r pos bin7_concat_sorted.bam ../annotation/prokka_out/bin_7/bin_7_nofa.gff
+2938 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:21:40 CEST 2021
+running samtools view -b -o sample1_bin16.bam ../rna_mapping/map_sample1_bin16.sam
+running samtools view -b -o sample2_bin16.bam ../rna_mapping/map_sample2_bin16.sam
+concatenating bam files
+Mon May 17 20:22:27 CEST 2021
+running samtools cat -o bin16_concat.bam sample1_bin16.bam sample2_bin16.bam
+sorting concatenated bam file
+Mon May 17 20:22:30 CEST 2021
+running samtools index bin16_concat_sorted.bam
+counting reads
+Mon May 17 20:23:24 CEST 2021
+running htseq-count -d , -c bin_16_expression.csv -i ID -t CDS -r pos bin16_concat_sorted.bam ../annotation/prokka_out/bin_16/bin_16_nofa.gff
+3942 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:25:22 CEST 2021
+running samtools view -b -o sample1_bin5.bam ../rna_mapping/map_sample1_bin5.sam
+running samtools view -b -o sample2_bin5.bam ../rna_mapping/map_sample2_bin5.sam
+concatenating bam files
+Mon May 17 20:26:09 CEST 2021
+running samtools cat -o bin5_concat.bam sample1_bin5.bam sample2_bin5.bam
+sorting concatenated bam file
+Mon May 17 20:26:12 CEST 2021
+running samtools index bin5_concat_sorted.bam
+counting reads
+Mon May 17 20:27:06 CEST 2021
+running htseq-count -d , -c bin_5_expression.csv -i ID -t CDS -r pos bin5_concat_sorted.bam ../annotation/prokka_out/bin_5/bin_5_nofa.gff
+2816 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:29:02 CEST 2021
+running samtools view -b -o sample1_bin9.bam ../rna_mapping/map_sample1_bin9.sam
+running samtools view -b -o sample2_bin9.bam ../rna_mapping/map_sample2_bin9.sam
+concatenating bam files
+Mon May 17 20:29:49 CEST 2021
+running samtools cat -o bin9_concat.bam sample1_bin9.bam sample2_bin9.bam
+sorting concatenated bam file
+Mon May 17 20:29:51 CEST 2021
+running samtools index bin9_concat_sorted.bam
+counting reads
+Mon May 17 20:30:46 CEST 2021
+running htseq-count -d , -c bin_9_expression.csv -i ID -t CDS -r pos bin9_concat_sorted.bam ../annotation/prokka_out/bin_9/bin_9_nofa.gff
+3682 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:32:41 CEST 2021
+running samtools view -b -o sample1_bin24.bam ../rna_mapping/map_sample1_bin24.sam
+running samtools view -b -o sample2_bin24.bam ../rna_mapping/map_sample2_bin24.sam
+concatenating bam files
+Mon May 17 20:33:28 CEST 2021
+running samtools cat -o bin24_concat.bam sample1_bin24.bam sample2_bin24.bam
+sorting concatenated bam file
+Mon May 17 20:33:30 CEST 2021
+running samtools index bin24_concat_sorted.bam
+counting reads
+Mon May 17 20:34:27 CEST 2021
+running htseq-count -d , -c bin_24_expression.csv -i ID -t CDS -r pos bin24_concat_sorted.bam ../annotation/prokka_out/bin_24/bin_24_nofa.gff
+2418 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:36:24 CEST 2021
+running samtools view -b -o sample1_bin13.bam ../rna_mapping/map_sample1_bin13.sam
+running samtools view -b -o sample2_bin13.bam ../rna_mapping/map_sample2_bin13.sam
+concatenating bam files
+Mon May 17 20:37:11 CEST 2021
+running samtools cat -o bin13_concat.bam sample1_bin13.bam sample2_bin13.bam
+sorting concatenated bam file
+Mon May 17 20:37:14 CEST 2021
+running samtools index bin13_concat_sorted.bam
+counting reads
+Mon May 17 20:38:09 CEST 2021
+running htseq-count -d , -c bin_13_expression.csv -i ID -t CDS -r pos bin13_concat_sorted.bam ../annotation/prokka_out/bin_13/bin_13_nofa.gff
+2640 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:40:09 CEST 2021
+running samtools view -b -o sample1_bin20.bam ../rna_mapping/map_sample1_bin20.sam
+running samtools view -b -o sample2_bin20.bam ../rna_mapping/map_sample2_bin20.sam
+concatenating bam files
+Mon May 17 20:40:55 CEST 2021
+running samtools cat -o bin20_concat.bam sample1_bin20.bam sample2_bin20.bam
+sorting concatenated bam file
+Mon May 17 20:40:58 CEST 2021
+running samtools index bin20_concat_sorted.bam
+counting reads
+Mon May 17 20:41:53 CEST 2021
+running htseq-count -d , -c bin_20_expression.csv -i ID -t CDS -r pos bin20_concat_sorted.bam ../annotation/prokka_out/bin_20/bin_20_nofa.gff
+3174 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:43:48 CEST 2021
+running samtools view -b -o sample1_bin14.bam ../rna_mapping/map_sample1_bin14.sam
+running samtools view -b -o sample2_bin14.bam ../rna_mapping/map_sample2_bin14.sam
+concatenating bam files
+Mon May 17 20:44:35 CEST 2021
+running samtools cat -o bin14_concat.bam sample1_bin14.bam sample2_bin14.bam
+sorting concatenated bam file
+Mon May 17 20:44:37 CEST 2021
+running samtools index bin14_concat_sorted.bam
+counting reads
+Mon May 17 20:45:32 CEST 2021
+running htseq-count -d , -c bin_14_expression.csv -i ID -t CDS -r pos bin14_concat_sorted.bam ../annotation/prokka_out/bin_14/bin_14_nofa.gff
+4136 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:47:31 CEST 2021
+running samtools view -b -o sample1_bin22.bam ../rna_mapping/map_sample1_bin22.sam
+running samtools view -b -o sample2_bin22.bam ../rna_mapping/map_sample2_bin22.sam
+concatenating bam files
+Mon May 17 20:48:18 CEST 2021
+running samtools cat -o bin22_concat.bam sample1_bin22.bam sample2_bin22.bam
+sorting concatenated bam file
+Mon May 17 20:48:20 CEST 2021
+running samtools index bin22_concat_sorted.bam
+counting reads
+Mon May 17 20:49:15 CEST 2021
+running htseq-count -d , -c bin_22_expression.csv -i ID -t CDS -r pos bin22_concat_sorted.bam ../annotation/prokka_out/bin_22/bin_22_nofa.gff
+3490 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:51:15 CEST 2021
+running samtools view -b -o sample1_bin17.bam ../rna_mapping/map_sample1_bin17.sam
+running samtools view -b -o sample2_bin17.bam ../rna_mapping/map_sample2_bin17.sam
+concatenating bam files
+Mon May 17 20:52:03 CEST 2021
+running samtools cat -o bin17_concat.bam sample1_bin17.bam sample2_bin17.bam
+sorting concatenated bam file
+Mon May 17 20:52:06 CEST 2021
+running samtools index bin17_concat_sorted.bam
+counting reads
+Mon May 17 20:53:01 CEST 2021
+running htseq-count -d , -c bin_17_expression.csv -i ID -t CDS -r pos bin17_concat_sorted.bam ../annotation/prokka_out/bin_17/bin_17_nofa.gff
+3022 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:54:59 CEST 2021
+running samtools view -b -o sample1_bin4.bam ../rna_mapping/map_sample1_bin4.sam
+running samtools view -b -o sample2_bin4.bam ../rna_mapping/map_sample2_bin4.sam
+concatenating bam files
+Mon May 17 20:55:45 CEST 2021
+running samtools cat -o bin4_concat.bam sample1_bin4.bam sample2_bin4.bam
+sorting concatenated bam file
+Mon May 17 20:55:48 CEST 2021
+running samtools index bin4_concat_sorted.bam
+counting reads
+Mon May 17 20:56:41 CEST 2021
+running htseq-count -d , -c bin_4_expression.csv -i ID -t CDS -r pos bin4_concat_sorted.bam ../annotation/prokka_out/bin_4/bin_4_nofa.gff
+1782 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 20:58:35 CEST 2021
+running samtools view -b -o sample1_bin15.bam ../rna_mapping/map_sample1_bin15.sam
+running samtools view -b -o sample2_bin15.bam ../rna_mapping/map_sample2_bin15.sam
+concatenating bam files
+Mon May 17 20:59:21 CEST 2021
+running samtools cat -o bin15_concat.bam sample1_bin15.bam sample2_bin15.bam
+sorting concatenated bam file
+Mon May 17 20:59:24 CEST 2021
+running samtools index bin15_concat_sorted.bam
+counting reads
+Mon May 17 21:00:18 CEST 2021
+running htseq-count -d , -c bin_15_expression.csv -i ID -t CDS -r pos bin15_concat_sorted.bam ../annotation/prokka_out/bin_15/bin_15_nofa.gff
+1904 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
+concatenated and sorted mapped rna reads not present. creating.
+converting sam to bam files
+Mon May 17 21:02:10 CEST 2021
+running samtools view -b -o sample1_bin2.bam ../rna_mapping/map_sample1_bin2.sam
+running samtools view -b -o sample2_bin2.bam ../rna_mapping/map_sample2_bin2.sam
+concatenating bam files
+Mon May 17 21:02:56 CEST 2021
+running samtools cat -o bin2_concat.bam sample1_bin2.bam sample2_bin2.bam
+sorting concatenated bam file
+Mon May 17 21:02:58 CEST 2021
+running samtools index bin2_concat_sorted.bam
+counting reads
+Mon May 17 21:03:54 CEST 2021
+running htseq-count -d , -c bin_2_expression.csv -i ID -t CDS -r pos bin2_concat_sorted.bam ../annotation/prokka_out/bin_2/bin_2_nofa.gff
+1160 GFF lines processed.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+700000 alignment record pairs processed.
+800000 alignment record pairs processed.
+900000 alignment record pairs processed.
+1000000 alignment record pairs processed.
+1100000 alignment record pairs processed.
+1200000 alignment record pairs processed.
+1300000 alignment record pairs processed.
+1400000 alignment record pairs processed.
+1500000 alignment record pairs processed.
+1557254 alignment pairs processed.
