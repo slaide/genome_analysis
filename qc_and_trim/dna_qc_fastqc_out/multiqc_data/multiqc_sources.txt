@@ -1,5 +1,0 @@
-Module	Section	Sample Name	Source
-FastQC	all_sections	SRR4342129_2.paired	/domus/h1/phennig/genome_analysis/qc_and_trim/dna_qc_fastqc_out/SRR4342129_2.paired.trimmed_fastqc.zip
-FastQC	all_sections	SRR4342133_1.paired	/domus/h1/phennig/genome_analysis/qc_and_trim/dna_qc_fastqc_out/SRR4342133_1.paired.trimmed_fastqc.zip
-FastQC	all_sections	SRR4342133_2.paired	/domus/h1/phennig/genome_analysis/qc_and_trim/dna_qc_fastqc_out/SRR4342133_2.paired.trimmed_fastqc.zip
-FastQC	all_sections	SRR4342129_1.paired	/domus/h1/phennig/genome_analysis/qc_and_trim/dna_qc_fastqc_out/SRR4342129_1.paired.trimmed_fastqc.zip
