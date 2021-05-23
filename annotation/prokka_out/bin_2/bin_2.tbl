@@ -1,0 +1,4261 @@
+>Feature k105_182407
+88	963	gene
+			locus_tag	NEBLGDEC_00001
+88	963	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00001
+			product	hypothetical protein
+2013	967	gene
+			locus_tag	NEBLGDEC_00002
+2013	967	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00002
+			product	hypothetical protein
+2785	2588	gene
+			locus_tag	NEBLGDEC_00003
+2785	2588	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00003
+			product	hypothetical protein
+>Feature k105_184694
+107	469	gene
+			locus_tag	NEBLGDEC_00004
+107	469	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00004
+			product	hypothetical protein
+520	1224	gene
+			locus_tag	NEBLGDEC_00005
+520	1224	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00005
+			product	hypothetical protein
+1264	2556	gene
+			locus_tag	NEBLGDEC_00006
+1264	2556	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00006
+			product	hypothetical protein
+3511	2540	gene
+			locus_tag	NEBLGDEC_00007
+3511	2540	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00007
+			product	hypothetical protein
+>Feature k105_189692
+666	37	gene
+			locus_tag	NEBLGDEC_00008
+666	37	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00008
+			product	hypothetical protein
+755	1066	gene
+			locus_tag	NEBLGDEC_00009
+755	1066	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00009
+			product	hypothetical protein
+1205	1411	gene
+			locus_tag	NEBLGDEC_00010
+1205	1411	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00010
+			product	hypothetical protein
+2420	1746	gene
+			locus_tag	NEBLGDEC_00011
+2420	1746	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00011
+			product	hypothetical protein
+3486	2425	gene
+			locus_tag	NEBLGDEC_00012
+3486	2425	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00012
+			product	hypothetical protein
+>Feature k105_190408
+3	1850	gene
+			gene	msbA
+			locus_tag	NEBLGDEC_00013
+3	1850	CDS
+			EC_number	7.5.2.6
+			db_xref	COG:COG1132
+			gene	msbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63359
+			locus_tag	NEBLGDEC_00013
+			product	Lipid A export ATP-binding/permease protein MsbA
+1855	2673	gene
+			locus_tag	NEBLGDEC_00014
+1855	2673	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00014
+			product	hypothetical protein
+3264	2668	gene
+			locus_tag	NEBLGDEC_00015
+3264	2668	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00015
+			product	hypothetical protein
+>Feature k105_191409
+89	394	gene
+			gene	accC
+			locus_tag	NEBLGDEC_00016
+89	394	CDS
+			EC_number	6.3.4.14
+			db_xref	COG:COG0439
+			gene	accC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37798
+			locus_tag	NEBLGDEC_00016
+			product	Biotin carboxylase
+406	1371	gene
+			gene	RBKS
+			locus_tag	NEBLGDEC_00017
+406	1371	CDS
+			EC_number	2.7.1.15
+			gene	RBKS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01987
+			locus_tag	NEBLGDEC_00017
+			product	Ribokinase
+3095	1368	gene
+			locus_tag	NEBLGDEC_00018
+3095	1368	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00018
+			product	hypothetical protein
+3513	3190	gene
+			locus_tag	NEBLGDEC_00019
+3513	3190	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00019
+			product	hypothetical protein
+>Feature k105_192848
+296	1672	gene
+			locus_tag	NEBLGDEC_00020
+296	1672	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00020
+			product	hypothetical protein
+1804	1685	gene
+			locus_tag	NEBLGDEC_00021
+1804	1685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00021
+			product	hypothetical protein
+2494	1862	gene
+			locus_tag	NEBLGDEC_00022
+2494	1862	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00022
+			product	hypothetical protein
+>Feature k105_193470
+142	1353	gene
+			locus_tag	NEBLGDEC_00023
+142	1353	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00023
+			product	hypothetical protein
+1612	2202	gene
+			locus_tag	NEBLGDEC_00024
+1612	2202	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00024
+			product	hypothetical protein
+2227	2544	gene
+			locus_tag	NEBLGDEC_00025
+2227	2544	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00025
+			product	hypothetical protein
+2606	2788	gene
+			locus_tag	NEBLGDEC_00026
+2606	2788	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00026
+			product	hypothetical protein
+3134	2940	gene
+			locus_tag	NEBLGDEC_00027
+3134	2940	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00027
+			product	hypothetical protein
+>Feature k105_195853
+250	3303	gene
+			gene	mngB
+			locus_tag	NEBLGDEC_00028
+250	3303	CDS
+			EC_number	3.2.1.-
+			db_xref	COG:COG0383
+			gene	mngB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54746
+			locus_tag	NEBLGDEC_00028
+			product	Mannosylglycerate hydrolase
+>Feature k105_15424
+258	1127	gene
+			locus_tag	NEBLGDEC_00029
+258	1127	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00029
+			product	hypothetical protein
+1138	1488	gene
+			locus_tag	NEBLGDEC_00030
+1138	1488	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00030
+			product	hypothetical protein
+2210	1497	gene
+			locus_tag	NEBLGDEC_00031
+2210	1497	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00031
+			product	hypothetical protein
+2249	2977	gene
+			locus_tag	NEBLGDEC_00032
+2249	2977	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00032
+			product	hypothetical protein
+3535	2978	gene
+			gene	orn
+			locus_tag	NEBLGDEC_00033
+3535	2978	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1949
+			gene	orn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A784
+			locus_tag	NEBLGDEC_00033
+			product	Oligoribonuclease
+3594	4919	gene
+			gene	entS
+			locus_tag	NEBLGDEC_00034
+3594	4919	CDS
+			gene	entS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01436
+			locus_tag	NEBLGDEC_00034
+			product	Enterobactin exporter EntS
+6114	5314	gene
+			locus_tag	NEBLGDEC_00035
+6114	5314	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00035
+			product	hypothetical protein
+6128	6550	gene
+			locus_tag	NEBLGDEC_00036
+6128	6550	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00036
+			product	hypothetical protein
+>Feature k105_15518
+1795	65	gene
+			locus_tag	NEBLGDEC_00037
+1795	65	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00037
+			product	hypothetical protein
+3094	1979	gene
+			locus_tag	NEBLGDEC_00038
+3094	1979	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00038
+			product	hypothetical protein
+>Feature k105_197547
+95	1078	gene
+			gene	purM
+			locus_tag	NEBLGDEC_00039
+95	1078	CDS
+			EC_number	6.3.3.1
+			db_xref	COG:COG0150
+			gene	purM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5L3D0
+			locus_tag	NEBLGDEC_00039
+			product	Phosphoribosylformylglycinamidine cyclo-ligase
+1114	2400	gene
+			locus_tag	NEBLGDEC_00040
+1114	2400	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00040
+			product	hypothetical protein
+>Feature k105_16145
+75	581	gene
+			locus_tag	NEBLGDEC_00041
+75	581	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00041
+			product	hypothetical protein
+622	1101	gene
+			locus_tag	NEBLGDEC_00042
+622	1101	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00042
+			product	hypothetical protein
+1098	2345	gene
+			gene	aspC_1
+			locus_tag	NEBLGDEC_00043
+1098	2345	CDS
+			EC_number	2.6.1.1
+			db_xref	COG:COG0436
+			gene	aspC_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQ91
+			locus_tag	NEBLGDEC_00043
+			product	putative aspartate aminotransferase
+>Feature k105_17082
+38	181	gene
+			locus_tag	NEBLGDEC_00044
+38	181	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A6L4
+			locus_tag	NEBLGDEC_00044
+			note	UPF0051 protein SA0778
+			product	hypothetical protein
+198	1295	gene
+			locus_tag	NEBLGDEC_00045
+198	1295	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WFP5
+			locus_tag	NEBLGDEC_00045
+			note	UPF0051 protein Rv1462
+			product	hypothetical protein
+1358	2584	gene
+			gene	csd
+			locus_tag	NEBLGDEC_00046
+1358	2584	CDS
+			EC_number	2.8.1.7
+			gene	csd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q55793
+			locus_tag	NEBLGDEC_00046
+			product	putative cysteine desulfurase
+2589	3005	gene
+			gene	sufE
+			locus_tag	NEBLGDEC_00047
+2589	3005	CDS
+			db_xref	COG:COG2166
+			gene	sufE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZPQ1
+			locus_tag	NEBLGDEC_00047
+			product	Cysteine desulfuration protein SufE
+3009	3311	gene
+			gene	sufT
+			locus_tag	NEBLGDEC_00048
+3009	3311	CDS
+			gene	sufT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H2XI17
+			locus_tag	NEBLGDEC_00048
+			product	Fe-S protein maturation auxiliary factor SufT
+3511	3314	gene
+			locus_tag	NEBLGDEC_00049
+3511	3314	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00049
+			product	hypothetical protein
+4383	3514	gene
+			gene	folD
+			locus_tag	NEBLGDEC_00050
+4383	3514	CDS
+			gene	folD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A697
+			locus_tag	NEBLGDEC_00050
+			product	Bifunctional protein FolD protein
+>Feature k105_20632
+1366	77	gene
+			gene	truD
+			locus_tag	NEBLGDEC_00051
+1366	77	CDS
+			EC_number	5.4.99.27
+			gene	truD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01082
+			locus_tag	NEBLGDEC_00051
+			product	tRNA pseudouridine synthase D
+2684	1320	gene
+			locus_tag	NEBLGDEC_00052
+2684	1320	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00052
+			product	hypothetical protein
+2763	3506	gene
+			locus_tag	NEBLGDEC_00053
+2763	3506	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00053
+			product	hypothetical protein
+3781	4302	gene
+			locus_tag	NEBLGDEC_00054
+3781	4302	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00054
+			product	hypothetical protein
+4752	4306	gene
+			gene	yhaH
+			locus_tag	NEBLGDEC_00055
+4752	4306	CDS
+			db_xref	COG:COG3152
+			gene	yhaH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64590
+			locus_tag	NEBLGDEC_00055
+			product	Inner membrane protein YhaH
+>Feature k105_204944
+725	87	gene
+			locus_tag	NEBLGDEC_00056
+725	87	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00056
+			product	hypothetical protein
+1556	726	gene
+			gene	icmF
+			locus_tag	NEBLGDEC_00057
+1556	726	CDS
+			EC_number	5.4.99.13
+			gene	icmF
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02050
+			locus_tag	NEBLGDEC_00057
+			product	Fused isobutyryl-CoA mutase
+1960	1559	gene
+			gene	mcm
+			locus_tag	NEBLGDEC_00058
+1960	1559	CDS
+			EC_number	5.4.99.2
+			db_xref	COG:COG1884
+			gene	mcm
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q3J4D7
+			locus_tag	NEBLGDEC_00058
+			product	Methylmalonyl-CoA mutase
+2733	1963	gene
+			locus_tag	NEBLGDEC_00059
+2733	1963	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00059
+			product	hypothetical protein
+3057	2911	gene
+			locus_tag	NEBLGDEC_00060
+3057	2911	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00060
+			product	hypothetical protein
+>Feature k105_206570
+451	783	gene
+			locus_tag	NEBLGDEC_00061
+451	783	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00061
+			product	hypothetical protein
+907	1182	gene
+			locus_tag	NEBLGDEC_00062
+907	1182	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00062
+			product	hypothetical protein
+2090	1626	gene
+			locus_tag	NEBLGDEC_00063
+2090	1626	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00063
+			product	hypothetical protein
+2969	2148	gene
+			locus_tag	NEBLGDEC_00064
+2969	2148	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00064
+			product	hypothetical protein
+3970	2975	gene
+			gene	pseB
+			locus_tag	NEBLGDEC_00065
+3970	2975	CDS
+			EC_number	4.2.1.115
+			db_xref	COG:COG1086
+			gene	pseB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O25511
+			locus_tag	NEBLGDEC_00065
+			product	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+4250	4086	gene
+			locus_tag	NEBLGDEC_00066
+4250	4086	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00066
+			product	hypothetical protein
+>Feature k105_24891
+67	573	gene
+			locus_tag	NEBLGDEC_00067
+67	573	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00067
+			product	hypothetical protein
+1099	1272	gene
+			locus_tag	NEBLGDEC_00068
+1099	1272	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00068
+			product	hypothetical protein
+2236	1379	gene
+			locus_tag	NEBLGDEC_00069
+2236	1379	CDS
+			EC_number	1.-.-.-
+			db_xref	COG:COG0656
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QV09
+			locus_tag	NEBLGDEC_00069
+			product	putative oxidoreductase/MSMEI_2346
+2549	2280	gene
+			locus_tag	NEBLGDEC_00070
+2549	2280	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00070
+			product	hypothetical protein
+3084	2620	gene
+			locus_tag	NEBLGDEC_00071
+3084	2620	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00071
+			product	hypothetical protein
+3366	3178	gene
+			locus_tag	NEBLGDEC_00072
+3366	3178	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00072
+			product	hypothetical protein
+>Feature k105_207464
+1554	151	gene
+			locus_tag	NEBLGDEC_00073
+1554	151	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00073
+			product	hypothetical protein
+2464	1637	gene
+			locus_tag	NEBLGDEC_00074
+2464	1637	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00074
+			product	hypothetical protein
+2704	2620	gene
+			locus_tag	NEBLGDEC_00075
+2704	2620	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00075
+			product	tRNA-Ser(tga)
+3102	2752	gene
+			locus_tag	NEBLGDEC_00076
+3102	2752	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00076
+			product	hypothetical protein
+3516	3112	gene
+			locus_tag	NEBLGDEC_00077
+3516	3112	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00077
+			product	hypothetical protein
+>Feature k105_209760
+985	371	gene
+			locus_tag	NEBLGDEC_00078
+985	371	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00078
+			product	hypothetical protein
+2166	1027	gene
+			locus_tag	NEBLGDEC_00079
+2166	1027	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00079
+			product	hypothetical protein
+2545	2126	gene
+			locus_tag	NEBLGDEC_00080
+2545	2126	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00080
+			product	hypothetical protein
+3607	2627	gene
+			locus_tag	NEBLGDEC_00081
+3607	2627	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00081
+			product	hypothetical protein
+4135	3653	gene
+			locus_tag	NEBLGDEC_00082
+4135	3653	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00082
+			product	hypothetical protein
+>Feature k105_212571
+21	263	gene
+			locus_tag	NEBLGDEC_00083
+21	263	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00083
+			product	hypothetical protein
+2002	260	gene
+			locus_tag	NEBLGDEC_00084
+2002	260	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00084
+			product	hypothetical protein
+2563	2054	gene
+			locus_tag	NEBLGDEC_00085
+2563	2054	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00085
+			product	hypothetical protein
+>Feature k105_32377
+57	1250	gene
+			locus_tag	NEBLGDEC_00086
+57	1250	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00086
+			product	hypothetical protein
+1512	1252	gene
+			locus_tag	NEBLGDEC_00087
+1512	1252	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00087
+			product	hypothetical protein
+1763	1551	gene
+			locus_tag	NEBLGDEC_00088
+1763	1551	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00088
+			product	hypothetical protein
+3375	1750	gene
+			locus_tag	NEBLGDEC_00089
+3375	1750	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00089
+			product	hypothetical protein
+>Feature k105_219381
+71	628	gene
+			locus_tag	NEBLGDEC_00090
+71	628	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00090
+			product	hypothetical protein
+806	907	gene
+			locus_tag	NEBLGDEC_00091
+806	907	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00091
+			product	hypothetical protein
+1136	2206	gene
+			locus_tag	NEBLGDEC_00092
+1136	2206	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00092
+			product	hypothetical protein
+2558	3370	gene
+			locus_tag	NEBLGDEC_00093
+2558	3370	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00093
+			product	hypothetical protein
+5011	4223	gene
+			gene	paaF
+			locus_tag	NEBLGDEC_00094
+5011	4223	CDS
+			EC_number	4.2.1.17
+			db_xref	COG:COG1024
+			gene	paaF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76082
+			locus_tag	NEBLGDEC_00094
+			product	2,3-dehydroadipyl-CoA hydratase
+>Feature k105_37565
+38	1210	gene
+			locus_tag	NEBLGDEC_00095
+38	1210	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00095
+			product	hypothetical protein
+1274	2305	gene
+			locus_tag	NEBLGDEC_00096
+1274	2305	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00096
+			product	hypothetical protein
+2324	2479	gene
+			locus_tag	NEBLGDEC_00097
+2324	2479	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00097
+			product	hypothetical protein
+>Feature k105_219631
+52	849	gene
+			locus_tag	NEBLGDEC_00098
+52	849	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00098
+			product	hypothetical protein
+859	1887	gene
+			locus_tag	NEBLGDEC_00099
+859	1887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00099
+			product	hypothetical protein
+2371	1850	gene
+			locus_tag	NEBLGDEC_00100
+2371	1850	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00100
+			product	hypothetical protein
+3666	2425	gene
+			locus_tag	NEBLGDEC_00101
+3666	2425	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00101
+			product	hypothetical protein
+>Feature k105_219854
+628	1620	gene
+			locus_tag	NEBLGDEC_00102
+628	1620	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00102
+			product	hypothetical protein
+3149	2355	gene
+			gene	arnC
+			locus_tag	NEBLGDEC_00103
+3149	2355	CDS
+			EC_number	2.4.2.53
+			gene	arnC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01164
+			locus_tag	NEBLGDEC_00103
+			product	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+3218	4495	gene
+			locus_tag	NEBLGDEC_00104
+3218	4495	CDS
+			EC_number	2.4.1.11
+			db_xref	COG:COG0438
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WMY9
+			locus_tag	NEBLGDEC_00104
+			product	Glycogen synthase
+>Feature k105_220625
+64	240	gene
+			locus_tag	NEBLGDEC_00105
+64	240	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00105
+			product	hypothetical protein
+668	246	gene
+			gene	lrp
+			locus_tag	NEBLGDEC_00106
+668	246	CDS
+			db_xref	COG:COG1522
+			gene	lrp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACJ0
+			locus_tag	NEBLGDEC_00106
+			product	Leucine-responsive regulatory protein
+858	1259	gene
+			locus_tag	NEBLGDEC_00107
+858	1259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00107
+			product	hypothetical protein
+1317	2570	gene
+			gene	eno
+			locus_tag	NEBLGDEC_00108
+1317	2570	CDS
+			EC_number	4.2.1.11
+			db_xref	COG:COG0148
+			gene	eno
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42848
+			locus_tag	NEBLGDEC_00108
+			product	Enolase
+3412	2576	gene
+			locus_tag	NEBLGDEC_00109
+3412	2576	CDS
+			EC_number	2.6.1.1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23034
+			locus_tag	NEBLGDEC_00109
+			product	Aspartate aminotransferase
+>Feature k105_221823
+823	299	gene
+			locus_tag	NEBLGDEC_00110
+823	299	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00110
+			product	hypothetical protein
+2020	872	gene
+			gene	bcd
+			locus_tag	NEBLGDEC_00111
+2020	872	CDS
+			EC_number	1.3.8.1
+			db_xref	COG:COG1960
+			gene	bcd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52042
+			locus_tag	NEBLGDEC_00111
+			product	Acyl-CoA dehydrogenase, short-chain specific
+3103	2117	gene
+			gene	bfmBAB
+			locus_tag	NEBLGDEC_00112
+3103	2117	CDS
+			EC_number	1.2.4.4
+			db_xref	COG:COG0022
+			gene	bfmBAB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37941
+			locus_tag	NEBLGDEC_00112
+			product	2-oxoisovalerate dehydrogenase subunit beta
+>Feature k105_222078
+70	834	gene
+			locus_tag	NEBLGDEC_00113
+70	834	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00113
+			product	hypothetical protein
+951	1418	gene
+			locus_tag	NEBLGDEC_00114
+951	1418	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00114
+			product	hypothetical protein
+1436	2029	gene
+			locus_tag	NEBLGDEC_00115
+1436	2029	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00115
+			product	hypothetical protein
+2029	2412	gene
+			gene	rpsK
+			locus_tag	NEBLGDEC_00116
+2029	2412	CDS
+			db_xref	COG:COG0100
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R9
+			locus_tag	NEBLGDEC_00116
+			product	30S ribosomal protein S11
+>Feature k105_41390
+229	624	gene
+			locus_tag	NEBLGDEC_00117
+229	624	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00117
+			product	hypothetical protein
+740	1855	gene
+			locus_tag	NEBLGDEC_00118
+740	1855	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00118
+			product	hypothetical protein
+1866	3185	gene
+			locus_tag	NEBLGDEC_00119
+1866	3185	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00119
+			product	hypothetical protein
+3578	3153	gene
+			locus_tag	NEBLGDEC_00120
+3578	3153	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00120
+			product	hypothetical protein
+3900	3589	gene
+			locus_tag	NEBLGDEC_00121
+3900	3589	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00121
+			product	hypothetical protein
+>Feature k105_223805
+65	625	gene
+			locus_tag	NEBLGDEC_00122
+65	625	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00122
+			product	hypothetical protein
+650	973	gene
+			locus_tag	NEBLGDEC_00123
+650	973	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00123
+			product	hypothetical protein
+1735	977	gene
+			locus_tag	NEBLGDEC_00124
+1735	977	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00124
+			product	hypothetical protein
+1790	2932	gene
+			gene	moeA
+			locus_tag	NEBLGDEC_00125
+1790	2932	CDS
+			EC_number	2.10.1.1
+			db_xref	COG:COG0303
+			gene	moeA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12281
+			locus_tag	NEBLGDEC_00125
+			product	Molybdopterin molybdenumtransferase
+2970	5930	gene
+			gene	uvrA
+			locus_tag	NEBLGDEC_00126
+2970	5930	CDS
+			gene	uvrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63383
+			locus_tag	NEBLGDEC_00126
+			product	UvrABC system protein A
+>Feature k105_223951
+20	2875	gene
+			locus_tag	NEBLGDEC_00127
+20	2875	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00127
+			product	hypothetical protein
+>Feature k105_42179
+220	957	gene
+			locus_tag	NEBLGDEC_00128
+220	957	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00128
+			product	hypothetical protein
+2168	954	gene
+			locus_tag	NEBLGDEC_00129
+2168	954	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00129
+			product	hypothetical protein
+2296	2180	gene
+			locus_tag	NEBLGDEC_00130
+2296	2180	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00130
+			product	hypothetical protein
+2627	2286	gene
+			locus_tag	NEBLGDEC_00131
+2627	2286	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00131
+			product	hypothetical protein
+>Feature k105_49160
+119	1567	gene
+			locus_tag	NEBLGDEC_00132
+119	1567	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00132
+			product	hypothetical protein
+3370	1535	gene
+			locus_tag	NEBLGDEC_00133
+3370	1535	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00133
+			product	hypothetical protein
+>Feature k105_49404
+3	170	gene
+			locus_tag	NEBLGDEC_00134
+3	170	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00134
+			product	hypothetical protein
+4366	164	gene
+			locus_tag	NEBLGDEC_00135
+4366	164	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00135
+			product	hypothetical protein
+>Feature k105_232849
+60	785	gene
+			gene	fmt
+			locus_tag	NEBLGDEC_00136
+60	785	CDS
+			EC_number	2.1.2.9
+			gene	fmt
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00182
+			locus_tag	NEBLGDEC_00136
+			product	Methionyl-tRNA formyltransferase
+795	1556	gene
+			gene	fabG
+			locus_tag	NEBLGDEC_00137
+795	1556	CDS
+			EC_number	1.1.1.100
+			gene	fabG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KQH7
+			locus_tag	NEBLGDEC_00137
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+1639	2781	gene
+			locus_tag	NEBLGDEC_00138
+1639	2781	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00138
+			product	hypothetical protein
+>Feature k105_51106
+1590	1114	gene
+			locus_tag	NEBLGDEC_00139
+1590	1114	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00139
+			product	hypothetical protein
+2887	1562	gene
+			locus_tag	NEBLGDEC_00140
+2887	1562	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00140
+			product	hypothetical protein
+>Feature k105_236598
+444	145	gene
+			locus_tag	NEBLGDEC_00141
+444	145	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00141
+			product	hypothetical protein
+823	488	gene
+			gene	rsxB
+			locus_tag	NEBLGDEC_00142
+823	488	CDS
+			EC_number	7.-.-.-
+			gene	rsxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00463
+			locus_tag	NEBLGDEC_00142
+			product	Ion-translocating oxidoreductase complex subunit B
+1105	863	gene
+			locus_tag	NEBLGDEC_00143
+1105	863	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00143
+			product	hypothetical protein
+3380	1098	gene
+			gene	lutA
+			locus_tag	NEBLGDEC_00144
+3380	1098	CDS
+			gene	lutA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02105
+			locus_tag	NEBLGDEC_00144
+			product	Lactate utilization protein A
+>Feature k105_236627
+643	1533	gene
+			locus_tag	NEBLGDEC_00145
+643	1533	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00145
+			product	hypothetical protein
+1725	1946	gene
+			locus_tag	NEBLGDEC_00146
+1725	1946	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00146
+			product	hypothetical protein
+2551	1958	gene
+			locus_tag	NEBLGDEC_00147
+2551	1958	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00147
+			product	hypothetical protein
+3234	2548	gene
+			locus_tag	NEBLGDEC_00148
+3234	2548	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00148
+			product	hypothetical protein
+3577	3224	gene
+			locus_tag	NEBLGDEC_00149
+3577	3224	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00149
+			product	hypothetical protein
+>Feature k105_53971
+1328	162	gene
+			locus_tag	NEBLGDEC_00150
+1328	162	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q75XW3
+			locus_tag	NEBLGDEC_00150
+			product	Ca(2+)/H(+) antiporter
+2367	1369	gene
+			locus_tag	NEBLGDEC_00151
+2367	1369	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00151
+			product	hypothetical protein
+3639	2377	gene
+			locus_tag	NEBLGDEC_00152
+3639	2377	CDS
+			EC_number	3.5.4.32
+			db_xref	COG:COG0402
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9I6Z0
+			locus_tag	NEBLGDEC_00152
+			product	8-oxoguanine deaminase
+4335	3646	gene
+			locus_tag	NEBLGDEC_00153
+4335	3646	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XDZ5
+			locus_tag	NEBLGDEC_00153
+			product	putative protein
+>Feature k105_54085
+63	704	gene
+			locus_tag	NEBLGDEC_00154
+63	704	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00154
+			product	hypothetical protein
+3022	701	gene
+			locus_tag	NEBLGDEC_00155
+3022	701	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00155
+			product	hypothetical protein
+>Feature k105_57697
+67	3255	gene
+			locus_tag	NEBLGDEC_00156
+67	3255	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00156
+			product	hypothetical protein
+>Feature k105_58320
+2543	489	gene
+			gene	TOP6B
+			locus_tag	NEBLGDEC_00157
+2543	489	CDS
+			EC_number	5.6.2.2
+			gene	TOP6B
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00322
+			locus_tag	NEBLGDEC_00157
+			product	DNA topoisomerase 6 subunit B
+3355	2630	gene
+			locus_tag	NEBLGDEC_00158
+3355	2630	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00158
+			product	hypothetical protein
+5354	3360	gene
+			gene	leuC
+			locus_tag	NEBLGDEC_00159
+5354	3360	CDS
+			EC_number	4.2.1.33
+			gene	leuC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01027
+			locus_tag	NEBLGDEC_00159
+			product	3-isopropylmalate dehydratase large subunit
+>Feature k105_60026
+154	1983	gene
+			locus_tag	NEBLGDEC_00160
+154	1983	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00160
+			product	hypothetical protein
+2013	2189	gene
+			locus_tag	NEBLGDEC_00161
+2013	2189	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00161
+			product	hypothetical protein
+3073	4218	gene
+			locus_tag	NEBLGDEC_00162
+3073	4218	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00162
+			product	hypothetical protein
+4417	5763	gene
+			locus_tag	NEBLGDEC_00163
+4417	5763	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00163
+			product	hypothetical protein
+>Feature k105_62779
+82	627	gene
+			gene	lacA
+			locus_tag	NEBLGDEC_00164
+82	627	CDS
+			EC_number	2.3.1.18
+			db_xref	COG:COG0110
+			gene	lacA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07464
+			locus_tag	NEBLGDEC_00164
+			product	Galactoside O-acetyltransferase
+1434	601	gene
+			gene	psd
+			locus_tag	NEBLGDEC_00165
+1434	601	CDS
+			EC_number	4.1.1.65
+			db_xref	COG:COG0688
+			gene	psd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WHQ5
+			locus_tag	NEBLGDEC_00165
+			product	Phosphatidylserine decarboxylase proenzyme
+2051	1440	gene
+			locus_tag	NEBLGDEC_00166
+2051	1440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00166
+			product	hypothetical protein
+3547	2135	gene
+			locus_tag	NEBLGDEC_00167
+3547	2135	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00167
+			product	hypothetical protein
+3650	4255	gene
+			gene	tam
+			locus_tag	NEBLGDEC_00168
+3650	4255	CDS
+			EC_number	2.1.1.144
+			gene	tam
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00560
+			locus_tag	NEBLGDEC_00168
+			product	Trans-aconitate 2-methyltransferase
+4666	4238	gene
+			locus_tag	NEBLGDEC_00169
+4666	4238	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00169
+			product	hypothetical protein
+>Feature k105_65919
+450	61	gene
+			locus_tag	NEBLGDEC_00170
+450	61	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00170
+			product	hypothetical protein
+969	460	gene
+			locus_tag	NEBLGDEC_00171
+969	460	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00171
+			product	hypothetical protein
+3790	1034	gene
+			gene	copA
+			locus_tag	NEBLGDEC_00172
+3790	1034	CDS
+			EC_number	7.2.2.8
+			db_xref	COG:COG2217
+			gene	copA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32220
+			locus_tag	NEBLGDEC_00172
+			product	Copper-exporting P-type ATPase
+3846	4598	gene
+			gene	ycsE
+			locus_tag	NEBLGDEC_00173
+3846	4598	CDS
+			EC_number	3.1.3.104
+			gene	ycsE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42962
+			locus_tag	NEBLGDEC_00173
+			product	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+>Feature k105_67630
+81	827	gene
+			locus_tag	NEBLGDEC_00174
+81	827	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00174
+			product	hypothetical protein
+927	853	gene
+			locus_tag	NEBLGDEC_00175
+927	853	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00175
+			product	tRNA-Phe(gaa)
+1799	978	gene
+			gene	rph
+			locus_tag	NEBLGDEC_00176
+1799	978	CDS
+			EC_number	2.7.7.56
+			db_xref	COG:COG0689
+			gene	rph
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q81LA9
+			locus_tag	NEBLGDEC_00176
+			product	Ribonuclease PH
+2410	1826	gene
+			gene	mog
+			locus_tag	NEBLGDEC_00177
+2410	1826	CDS
+			EC_number	2.7.7.75
+			db_xref	COG:COG0521
+			gene	mog
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9ZL45
+			locus_tag	NEBLGDEC_00177
+			product	Molybdopterin adenylyltransferase
+3027	2428	gene
+			locus_tag	NEBLGDEC_00178
+3027	2428	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00178
+			product	hypothetical protein
+>Feature k105_74902
+44	532	gene
+			locus_tag	NEBLGDEC_00179
+44	532	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00179
+			product	hypothetical protein
+642	893	gene
+			locus_tag	NEBLGDEC_00180
+642	893	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00180
+			product	hypothetical protein
+1839	895	gene
+			gene	ruvB
+			locus_tag	NEBLGDEC_00181
+1839	895	CDS
+			EC_number	3.6.4.12
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00016
+			locus_tag	NEBLGDEC_00181
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+2649	2032	gene
+			locus_tag	NEBLGDEC_00182
+2649	2032	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00182
+			product	hypothetical protein
+>Feature k105_75765
+43	1038	gene
+			gene	obg
+			locus_tag	NEBLGDEC_00183
+43	1038	CDS
+			EC_number	3.6.5.-
+			gene	obg
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01454
+			locus_tag	NEBLGDEC_00183
+			product	GTPase Obg
+1778	1206	gene
+			locus_tag	NEBLGDEC_00184
+1778	1206	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00184
+			product	hypothetical protein
+2130	1810	gene
+			locus_tag	NEBLGDEC_00185
+2130	1810	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00185
+			product	hypothetical protein
+3503	2130	gene
+			gene	pyrH
+			locus_tag	NEBLGDEC_00186
+3503	2130	CDS
+			gene	pyrH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01220_A
+			locus_tag	NEBLGDEC_00186
+			product	Uridylate kinase
+>Feature k105_76564
+2112	625	gene
+			gene	ndhA
+			locus_tag	NEBLGDEC_00187
+2112	625	CDS
+			EC_number	7.1.1.-
+			gene	ndhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01350
+			locus_tag	NEBLGDEC_00187
+			product	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+2584	2123	gene
+			gene	ndhH
+			locus_tag	NEBLGDEC_00188
+2584	2123	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG0649
+			gene	ndhH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DJD9
+			locus_tag	NEBLGDEC_00188
+			product	NAD(P)H-quinone oxidoreductase subunit H
+>Feature k105_76605
+23	1255	gene
+			locus_tag	NEBLGDEC_00189
+23	1255	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00189
+			product	hypothetical protein
+1285	1358	gene
+			locus_tag	NEBLGDEC_00190
+1285	1358	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00190
+			product	tRNA-Gln(ctg)
+2570	1383	gene
+			gene	aceE
+			locus_tag	NEBLGDEC_00191
+2570	1383	CDS
+			EC_number	1.2.4.1
+			db_xref	COG:COG2609
+			gene	aceE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG8
+			locus_tag	NEBLGDEC_00191
+			product	Pyruvate dehydrogenase E1 component
+>Feature k105_76657
+121	375	gene
+			locus_tag	NEBLGDEC_00192
+121	375	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00192
+			product	hypothetical protein
+1664	378	gene
+			locus_tag	NEBLGDEC_00193
+1664	378	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00193
+			product	hypothetical protein
+2924	1674	gene
+			locus_tag	NEBLGDEC_00194
+2924	1674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00194
+			product	hypothetical protein
+3118	2945	gene
+			locus_tag	NEBLGDEC_00195
+3118	2945	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00195
+			product	hypothetical protein
+>Feature k105_76885
+15	509	gene
+			locus_tag	NEBLGDEC_00196
+15	509	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00196
+			product	hypothetical protein
+938	594	gene
+			gene	tatA
+			locus_tag	NEBLGDEC_00197
+938	594	CDS
+			gene	tatA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00236
+			locus_tag	NEBLGDEC_00197
+			product	Sec-independent protein translocase protein TatA
+1208	978	gene
+			locus_tag	NEBLGDEC_00198
+1208	978	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00198
+			product	hypothetical protein
+1262	1960	gene
+			gene	lolD
+			locus_tag	NEBLGDEC_00199
+1262	1960	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1136
+			gene	lolD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75957
+			locus_tag	NEBLGDEC_00199
+			product	Lipoprotein-releasing system ATP-binding protein LolD
+>Feature k105_77817
+1621	1196	gene
+			locus_tag	NEBLGDEC_00200
+1621	1196	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00200
+			product	hypothetical protein
+2276	1830	gene
+			locus_tag	NEBLGDEC_00201
+2276	1830	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00201
+			product	hypothetical protein
+2549	2310	gene
+			locus_tag	NEBLGDEC_00202
+2549	2310	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00202
+			product	hypothetical protein
+>Feature k105_263569
+679	287	gene
+			locus_tag	NEBLGDEC_00203
+679	287	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00203
+			product	hypothetical protein
+868	686	gene
+			locus_tag	NEBLGDEC_00204
+868	686	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00204
+			product	hypothetical protein
+2123	813	gene
+			locus_tag	NEBLGDEC_00205
+2123	813	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00205
+			product	hypothetical protein
+3047	2160	gene
+			locus_tag	NEBLGDEC_00206
+3047	2160	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00206
+			product	hypothetical protein
+>Feature k105_79336
+3	584	gene
+			locus_tag	NEBLGDEC_00207
+3	584	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00207
+			product	hypothetical protein
+569	1174	gene
+			locus_tag	NEBLGDEC_00208
+569	1174	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00208
+			product	hypothetical protein
+1178	2071	gene
+			locus_tag	NEBLGDEC_00209
+1178	2071	CDS
+			EC_number	1.1.1.35
+			db_xref	COG:COG1250
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0AVM2
+			locus_tag	NEBLGDEC_00209
+			product	3-hydroxybutyryl-CoA dehydrogenase
+4377	2074	gene
+			locus_tag	NEBLGDEC_00210
+4377	2074	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00210
+			product	hypothetical protein
+>Feature k105_264188
+170	334	gene
+			locus_tag	NEBLGDEC_00211
+170	334	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00211
+			product	hypothetical protein
+350	1528	gene
+			locus_tag	NEBLGDEC_00212
+350	1528	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00212
+			product	hypothetical protein
+2991	1540	gene
+			locus_tag	NEBLGDEC_00213
+2991	1540	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00213
+			product	hypothetical protein
+>Feature k105_266481
+454	1359	gene
+			gene	amnB
+			locus_tag	NEBLGDEC_00214
+454	1359	CDS
+			EC_number	1.13.11.74
+			gene	amnB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O33477
+			locus_tag	NEBLGDEC_00214
+			product	2-aminophenol 1,6-dioxygenase beta subunit
+2495	1281	gene
+			locus_tag	NEBLGDEC_00215
+2495	1281	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00215
+			product	hypothetical protein
+>Feature k105_266512
+2	1174	gene
+			gene	accA1
+			locus_tag	NEBLGDEC_00216
+2	1174	CDS
+			db_xref	COG:COG4770
+			gene	accA1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WPQ3
+			locus_tag	NEBLGDEC_00216
+			product	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+1184	1618	gene
+			gene	cfiA
+			locus_tag	NEBLGDEC_00217
+1184	1618	CDS
+			EC_number	6.4.1.7
+			db_xref	COG:COG0511
+			gene	cfiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D3DJ41
+			locus_tag	NEBLGDEC_00217
+			product	2-oxoglutarate carboxylase large subunit
+2603	1629	gene
+			gene	serS
+			locus_tag	NEBLGDEC_00218
+2603	1629	CDS
+			EC_number	6.1.1.11
+			db_xref	COG:COG0172
+			gene	serS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O66647
+			locus_tag	NEBLGDEC_00218
+			product	Serine--tRNA ligase
+>Feature k105_82433
+21	782	gene
+			locus_tag	NEBLGDEC_00219
+21	782	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00219
+			product	hypothetical protein
+1194	775	gene
+			locus_tag	NEBLGDEC_00220
+1194	775	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00220
+			product	hypothetical protein
+2092	1202	gene
+			gene	nadK
+			locus_tag	NEBLGDEC_00221
+2092	1202	CDS
+			EC_number	2.7.1.23
+			gene	nadK
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00361
+			locus_tag	NEBLGDEC_00221
+			product	NAD kinase
+2179	2781	gene
+			gene	msrP
+			locus_tag	NEBLGDEC_00222
+2179	2781	CDS
+			EC_number	1.8.5.-
+			gene	msrP
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01206
+			locus_tag	NEBLGDEC_00222
+			product	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+3235	2870	gene
+			locus_tag	NEBLGDEC_00223
+3235	2870	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00223
+			product	hypothetical protein
+3397	3918	gene
+			locus_tag	NEBLGDEC_00224
+3397	3918	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00224
+			product	hypothetical protein
+>Feature k105_267998
+1519	35	gene
+			gene	glmM
+			locus_tag	NEBLGDEC_00225
+1519	35	CDS
+			EC_number	5.4.2.10
+			db_xref	COG:COG1109
+			gene	glmM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WN41
+			locus_tag	NEBLGDEC_00225
+			product	Phosphoglucosamine mutase
+2292	1645	gene
+			gene	glmU
+			locus_tag	NEBLGDEC_00226
+2292	1645	CDS
+			EC_number	2.7.7.23
+			gene	glmU
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01631
+			locus_tag	NEBLGDEC_00226
+			product	Bifunctional protein GlmU
+3985	2345	gene
+			gene	pckA
+			locus_tag	NEBLGDEC_00227
+3985	2345	CDS
+			EC_number	4.1.1.49
+			db_xref	COG:COG1866
+			gene	pckA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5SLL5
+			locus_tag	NEBLGDEC_00227
+			product	Phosphoenolpyruvate carboxykinase (ATP)
+4436	4128	gene
+			locus_tag	NEBLGDEC_00228
+4436	4128	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00228
+			product	hypothetical protein
+>Feature k105_270899
+81	533	gene
+			gene	decR
+			locus_tag	NEBLGDEC_00229
+81	533	CDS
+			db_xref	COG:COG1522
+			gene	decR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACJ5
+			locus_tag	NEBLGDEC_00229
+			product	DNA-binding transcriptional activator DecR
+1116	766	gene
+			locus_tag	NEBLGDEC_00230
+1116	766	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00230
+			product	hypothetical protein
+1605	1276	gene
+			locus_tag	NEBLGDEC_00231
+1605	1276	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00231
+			product	hypothetical protein
+2022	1705	gene
+			locus_tag	NEBLGDEC_00232
+2022	1705	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00232
+			product	hypothetical protein
+2397	2143	gene
+			locus_tag	NEBLGDEC_00233
+2397	2143	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00233
+			product	hypothetical protein
+2697	2434	gene
+			locus_tag	NEBLGDEC_00234
+2697	2434	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00234
+			product	hypothetical protein
+3410	2682	gene
+			locus_tag	NEBLGDEC_00235
+3410	2682	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00235
+			product	hypothetical protein
+>Feature k105_86993
+214	780	gene
+			locus_tag	NEBLGDEC_00236
+214	780	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00236
+			product	hypothetical protein
+832	1926	gene
+			locus_tag	NEBLGDEC_00237
+832	1926	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00237
+			product	hypothetical protein
+2944	1916	gene
+			gene	lysDH
+			locus_tag	NEBLGDEC_00238
+2944	1916	CDS
+			EC_number	1.4.1.18
+			gene	lysDH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9AJC6
+			locus_tag	NEBLGDEC_00238
+			product	Lysine 6-dehydrogenase
+>Feature k105_87988
+1717	353	gene
+			gene	pepP
+			locus_tag	NEBLGDEC_00239
+1717	353	CDS
+			EC_number	3.4.11.9
+			db_xref	COG:COG0006
+			gene	pepP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15034
+			locus_tag	NEBLGDEC_00239
+			product	Xaa-Pro aminopeptidase
+3306	1780	gene
+			locus_tag	NEBLGDEC_00240
+3306	1780	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00240
+			product	hypothetical protein
+>Feature k105_273783
+2	358	gene
+			locus_tag	NEBLGDEC_00241
+2	358	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00241
+			product	hypothetical protein
+812	339	gene
+			locus_tag	NEBLGDEC_00242
+812	339	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00242
+			product	hypothetical protein
+1699	851	gene
+			gene	pqqB
+			locus_tag	NEBLGDEC_00243
+1699	851	CDS
+			gene	pqqB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00653
+			locus_tag	NEBLGDEC_00243
+			product	Coenzyme PQQ synthesis protein B
+>Feature k105_88766
+1073	24	gene
+			locus_tag	NEBLGDEC_00244
+1073	24	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00244
+			product	hypothetical protein
+1270	2064	gene
+			locus_tag	NEBLGDEC_00245
+1270	2064	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00245
+			product	hypothetical protein
+4160	2061	gene
+			gene	ligA
+			locus_tag	NEBLGDEC_00246
+4160	2061	CDS
+			EC_number	6.5.1.2
+			db_xref	COG:COG0272
+			gene	ligA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P49422
+			locus_tag	NEBLGDEC_00246
+			product	DNA ligase
+>Feature k105_89546
+27	692	gene
+			locus_tag	NEBLGDEC_00247
+27	692	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00247
+			product	hypothetical protein
+720	1283	gene
+			locus_tag	NEBLGDEC_00248
+720	1283	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00248
+			product	hypothetical protein
+1440	2351	gene
+			locus_tag	NEBLGDEC_00249
+1440	2351	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A788
+			locus_tag	NEBLGDEC_00249
+			product	putative epimerase/dehydratase
+3786	2353	gene
+			gene	groL
+			locus_tag	NEBLGDEC_00250
+3786	2353	CDS
+			db_xref	COG:COG0459
+			gene	groL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P48212
+			locus_tag	NEBLGDEC_00250
+			product	60 kDa chaperonin
+>Feature k105_92919
+550	1590	gene
+			locus_tag	NEBLGDEC_00251
+550	1590	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00251
+			product	hypothetical protein
+2395	1898	gene
+			locus_tag	NEBLGDEC_00252
+2395	1898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00252
+			product	hypothetical protein
+2710	2471	gene
+			locus_tag	NEBLGDEC_00253
+2710	2471	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00253
+			product	hypothetical protein
+3162	2914	gene
+			locus_tag	NEBLGDEC_00254
+3162	2914	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00254
+			product	hypothetical protein
+>Feature k105_94412
+6	1016	gene
+			gene	gcvT
+			locus_tag	NEBLGDEC_00255
+6	1016	CDS
+			EC_number	2.1.2.10
+			db_xref	COG:COG0404
+			gene	gcvT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54378
+			locus_tag	NEBLGDEC_00255
+			product	Aminomethyltransferase
+1791	1141	gene
+			locus_tag	NEBLGDEC_00256
+1791	1141	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00256
+			product	hypothetical protein
+3240	1852	gene
+			locus_tag	NEBLGDEC_00257
+3240	1852	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00257
+			product	hypothetical protein
+>Feature k105_282074
+625	1776	gene
+			gene	ftsZ_1
+			locus_tag	NEBLGDEC_00258
+625	1776	CDS
+			gene	ftsZ_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00909
+			locus_tag	NEBLGDEC_00258
+			product	Cell division protein FtsZ
+1840	2673	gene
+			locus_tag	NEBLGDEC_00259
+1840	2673	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00259
+			product	hypothetical protein
+2935	2648	gene
+			locus_tag	NEBLGDEC_00260
+2935	2648	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00260
+			product	hypothetical protein
+>Feature k105_95127
+168	455	gene
+			locus_tag	NEBLGDEC_00261
+168	455	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00261
+			product	hypothetical protein
+603	1001	gene
+			locus_tag	NEBLGDEC_00262
+603	1001	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00262
+			product	hypothetical protein
+1059	1898	gene
+			locus_tag	NEBLGDEC_00263
+1059	1898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00263
+			product	hypothetical protein
+3233	2004	gene
+			locus_tag	NEBLGDEC_00264
+3233	2004	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00264
+			product	hypothetical protein
+3566	3324	gene
+			locus_tag	NEBLGDEC_00265
+3566	3324	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00265
+			product	hypothetical protein
+4589	3612	gene
+			locus_tag	NEBLGDEC_00266
+4589	3612	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00266
+			product	hypothetical protein
+>Feature k105_282155
+131	56	gene
+			locus_tag	NEBLGDEC_00267
+131	56	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00267
+			product	tRNA-Asp(gtc)
+481	1275	gene
+			gene	mtnB
+			locus_tag	NEBLGDEC_00268
+481	1275	CDS
+			EC_number	4.2.1.109
+			gene	mtnB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01677
+			locus_tag	NEBLGDEC_00268
+			product	Methylthioribulose-1-phosphate dehydratase
+1322	1912	gene
+			gene	guaA
+			locus_tag	NEBLGDEC_00269
+1322	1912	CDS
+			EC_number	6.3.5.2
+			gene	guaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99105
+			locus_tag	NEBLGDEC_00269
+			product	GMP synthase [glutamine-hydrolyzing]
+1979	2128	gene
+			locus_tag	NEBLGDEC_00270
+1979	2128	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00270
+			product	hypothetical protein
+2175	3317	gene
+			locus_tag	NEBLGDEC_00271
+2175	3317	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00271
+			product	hypothetical protein
+3397	3321	gene
+			locus_tag	NEBLGDEC_00272
+3397	3321	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00272
+			product	tRNA-Arg(cct)
+4158	3952	gene
+			locus_tag	NEBLGDEC_00273
+4158	3952	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00273
+			product	hypothetical protein
+>Feature k105_95406
+45	305	gene
+			locus_tag	NEBLGDEC_00274
+45	305	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00274
+			product	hypothetical protein
+1375	227	gene
+			gene	aspC_2
+			locus_tag	NEBLGDEC_00275
+1375	227	CDS
+			EC_number	2.6.1.1
+			db_xref	COG:COG0436
+			gene	aspC_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9X0Y2
+			locus_tag	NEBLGDEC_00275
+			product	Aspartate aminotransferase
+3410	1401	gene
+			locus_tag	NEBLGDEC_00276
+3410	1401	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00276
+			product	hypothetical protein
+>Feature k105_95873
+190	1050	gene
+			locus_tag	NEBLGDEC_00277
+190	1050	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00277
+			product	hypothetical protein
+1078	1299	gene
+			locus_tag	NEBLGDEC_00278
+1078	1299	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00278
+			product	hypothetical protein
+1672	1866	gene
+			locus_tag	NEBLGDEC_00279
+1672	1866	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00279
+			product	hypothetical protein
+2005	2481	gene
+			locus_tag	NEBLGDEC_00280
+2005	2481	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00280
+			product	hypothetical protein
+2677	3168	gene
+			locus_tag	NEBLGDEC_00281
+2677	3168	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00281
+			product	hypothetical protein
+4859	3405	gene
+			locus_tag	NEBLGDEC_00282
+4859	3405	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00282
+			product	hypothetical protein
+>Feature k105_283676
+649	723	gene
+			locus_tag	NEBLGDEC_00283
+649	723	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00283
+			product	tRNA-Thr(cgt)
+733	1089	gene
+			locus_tag	NEBLGDEC_00284
+733	1089	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00284
+			product	hypothetical protein
+2348	1086	gene
+			gene	pgk/tpi
+			locus_tag	NEBLGDEC_00285
+2348	1086	CDS
+			db_xref	COG:COG0126
+			gene	pgk/tpi
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P36204
+			locus_tag	NEBLGDEC_00285
+			product	Bifunctional PGK/TIM
+>Feature k105_96915
+2582	69	gene
+			locus_tag	NEBLGDEC_00286
+2582	69	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00286
+			product	hypothetical protein
+3565	2597	gene
+			gene	btuD
+			locus_tag	NEBLGDEC_00287
+3565	2597	CDS
+			EC_number	7.6.2.8
+			gene	btuD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01005
+			locus_tag	NEBLGDEC_00287
+			product	Vitamin B12 import ATP-binding protein BtuD
+3650	4351	gene
+			locus_tag	NEBLGDEC_00288
+3650	4351	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00288
+			product	hypothetical protein
+4519	4364	gene
+			locus_tag	NEBLGDEC_00289
+4519	4364	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00289
+			product	hypothetical protein
+>Feature k105_286007
+49	384	gene
+			gene	ndhI
+			locus_tag	NEBLGDEC_00290
+49	384	CDS
+			EC_number	7.1.1.-
+			gene	ndhI
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01351
+			locus_tag	NEBLGDEC_00290
+			product	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+387	695	gene
+			locus_tag	NEBLGDEC_00291
+387	695	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00291
+			product	hypothetical protein
+692	958	gene
+			locus_tag	NEBLGDEC_00292
+692	958	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00292
+			product	hypothetical protein
+955	1257	gene
+			gene	nuoK
+			locus_tag	NEBLGDEC_00293
+955	1257	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG0713
+			gene	nuoK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A1B482
+			locus_tag	NEBLGDEC_00293
+			product	NADH-quinone oxidoreductase subunit K
+1268	3586	gene
+			gene	nuoL
+			locus_tag	NEBLGDEC_00294
+1268	3586	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1009
+			gene	nuoL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WIW1
+			locus_tag	NEBLGDEC_00294
+			product	NADH-quinone oxidoreductase subunit L
+4767	3523	gene
+			locus_tag	NEBLGDEC_00295
+4767	3523	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00295
+			product	hypothetical protein
+4958	4764	gene
+			locus_tag	NEBLGDEC_00296
+4958	4764	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00296
+			product	hypothetical protein
+>Feature k105_287423
+334	47	gene
+			locus_tag	NEBLGDEC_00297
+334	47	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00247
+			locus_tag	NEBLGDEC_00297
+			product	Ferredoxin
+1435	344	gene
+			locus_tag	NEBLGDEC_00298
+1435	344	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00298
+			product	hypothetical protein
+2525	1605	gene
+			gene	rsmA
+			locus_tag	NEBLGDEC_00299
+2525	1605	CDS
+			EC_number	2.1.1.182
+			gene	rsmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00607
+			locus_tag	NEBLGDEC_00299
+			product	Ribosomal RNA small subunit methyltransferase A
+>Feature k105_99707
+68	358	gene
+			locus_tag	NEBLGDEC_00300
+68	358	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00300
+			product	hypothetical protein
+401	1483	gene
+			locus_tag	NEBLGDEC_00301
+401	1483	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00301
+			product	hypothetical protein
+1727	2284	gene
+			locus_tag	NEBLGDEC_00302
+1727	2284	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00302
+			product	hypothetical protein
+3065	2400	gene
+			gene	dnaJ
+			locus_tag	NEBLGDEC_00303
+3065	2400	CDS
+			db_xref	COG:COG0484
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O87778
+			locus_tag	NEBLGDEC_00303
+			product	Chaperone protein DnaJ
+>Feature k105_101024
+53	568	gene
+			locus_tag	NEBLGDEC_00304
+53	568	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00304
+			product	hypothetical protein
+592	1536	gene
+			locus_tag	NEBLGDEC_00305
+592	1536	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00305
+			product	hypothetical protein
+2447	1533	gene
+			locus_tag	NEBLGDEC_00306
+2447	1533	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00306
+			product	hypothetical protein
+2979	2416	gene
+			locus_tag	NEBLGDEC_00307
+2979	2416	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00307
+			product	hypothetical protein
+>Feature k105_289242
+631	1320	gene
+			locus_tag	NEBLGDEC_00308
+631	1320	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00308
+			product	hypothetical protein
+3840	1975	gene
+			locus_tag	NEBLGDEC_00309
+3840	1975	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00309
+			product	hypothetical protein
+>Feature k105_103686
+24	200	gene
+			locus_tag	NEBLGDEC_00310
+24	200	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00310
+			product	hypothetical protein
+246	968	gene
+			locus_tag	NEBLGDEC_00311
+246	968	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00311
+			product	hypothetical protein
+1931	969	gene
+			locus_tag	NEBLGDEC_00312
+1931	969	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00312
+			product	hypothetical protein
+2553	1960	gene
+			locus_tag	NEBLGDEC_00313
+2553	1960	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00313
+			product	hypothetical protein
+4132	2621	gene
+			gene	nuoN
+			locus_tag	NEBLGDEC_00314
+4132	2621	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1007
+			gene	nuoN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WIW9
+			locus_tag	NEBLGDEC_00314
+			product	NADH-quinone oxidoreductase subunit N
+>Feature k105_292215
+766	197	gene
+			gene	apt
+			locus_tag	NEBLGDEC_00315
+766	197	CDS
+			EC_number	2.4.2.7
+			gene	apt
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00004
+			locus_tag	NEBLGDEC_00315
+			product	Adenine phosphoribosyltransferase
+1320	781	gene
+			locus_tag	NEBLGDEC_00316
+1320	781	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00316
+			product	hypothetical protein
+1408	2619	gene
+			locus_tag	NEBLGDEC_00317
+1408	2619	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00317
+			product	hypothetical protein
+3599	2628	gene
+			locus_tag	NEBLGDEC_00318
+3599	2628	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00318
+			product	hypothetical protein
+3745	6411	gene
+			gene	mutS
+			locus_tag	NEBLGDEC_00319
+3745	6411	CDS
+			db_xref	COG:COG0249
+			gene	mutS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1Y0
+			locus_tag	NEBLGDEC_00319
+			product	DNA mismatch repair protein MutS
+>Feature k105_292336
+2	1864	gene
+			locus_tag	NEBLGDEC_00320
+2	1864	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00320
+			product	hypothetical protein
+3040	1934	gene
+			locus_tag	NEBLGDEC_00321
+3040	1934	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00321
+			product	hypothetical protein
+3104	3466	gene
+			locus_tag	NEBLGDEC_00322
+3104	3466	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00322
+			product	hypothetical protein
+3774	3475	gene
+			locus_tag	NEBLGDEC_00323
+3774	3475	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00323
+			product	hypothetical protein
+>Feature k105_105369
+1150	122	gene
+			gene	ttuA
+			locus_tag	NEBLGDEC_00324
+1150	122	CDS
+			EC_number	2.8.1.15
+			db_xref	COG:COG0037
+			gene	ttuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q72LF3
+			locus_tag	NEBLGDEC_00324
+			product	tRNA-5-methyluridine(54) 2-sulfurtransferase
+2183	1284	gene
+			locus_tag	NEBLGDEC_00325
+2183	1284	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00325
+			product	hypothetical protein
+3254	2244	gene
+			locus_tag	NEBLGDEC_00326
+3254	2244	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00326
+			product	hypothetical protein
+>Feature k105_105951
+50	1033	gene
+			gene	mccB
+			locus_tag	NEBLGDEC_00327
+50	1033	CDS
+			EC_number	4.4.1.1
+			db_xref	COG:COG0626
+			gene	mccB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05394
+			locus_tag	NEBLGDEC_00327
+			product	Cystathionine gamma-lyase
+2488	1067	gene
+			locus_tag	NEBLGDEC_00328
+2488	1067	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00328
+			product	hypothetical protein
+>Feature k105_109470
+213	590	gene
+			locus_tag	NEBLGDEC_00329
+213	590	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00329
+			product	hypothetical protein
+1337	522	gene
+			gene	yycJ
+			locus_tag	NEBLGDEC_00330
+1337	522	CDS
+			EC_number	3.-.-.-
+			db_xref	COG:COG1235
+			gene	yycJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:C0SP91
+			locus_tag	NEBLGDEC_00330
+			product	Putative metallo-hydrolase YycJ
+2875	2063	gene
+			locus_tag	NEBLGDEC_00331
+2875	2063	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00331
+			product	hypothetical protein
+>Feature k105_110282
+143	409	gene
+			locus_tag	NEBLGDEC_00332
+143	409	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00332
+			product	hypothetical protein
+623	1264	gene
+			locus_tag	NEBLGDEC_00333
+623	1264	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00333
+			product	hypothetical protein
+1464	1868	gene
+			locus_tag	NEBLGDEC_00334
+1464	1868	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00334
+			product	hypothetical protein
+2689	1871	gene
+			locus_tag	NEBLGDEC_00335
+2689	1871	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00335
+			product	hypothetical protein
+>Feature k105_112063
+564	322	gene
+			locus_tag	NEBLGDEC_00336
+564	322	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00336
+			product	hypothetical protein
+1005	670	gene
+			locus_tag	NEBLGDEC_00337
+1005	670	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00337
+			product	hypothetical protein
+1386	1063	gene
+			locus_tag	NEBLGDEC_00338
+1386	1063	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00338
+			product	hypothetical protein
+1725	1411	gene
+			locus_tag	NEBLGDEC_00339
+1725	1411	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00339
+			product	hypothetical protein
+1796	2221	gene
+			gene	rlmH
+			locus_tag	NEBLGDEC_00340
+1796	2221	CDS
+			EC_number	2.1.1.177
+			gene	rlmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00658
+			locus_tag	NEBLGDEC_00340
+			product	Ribosomal RNA large subunit methyltransferase H
+2757	2227	gene
+			gene	pta
+			locus_tag	NEBLGDEC_00341
+2757	2227	CDS
+			EC_number	2.3.1.8
+			db_xref	COG:COG0280
+			gene	pta
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39646
+			locus_tag	NEBLGDEC_00341
+			product	Phosphate acetyltransferase
+>Feature k105_112469
+28	543	gene
+			gene	aniA
+			locus_tag	NEBLGDEC_00342
+28	543	CDS
+			EC_number	1.7.2.1
+			db_xref	COG:COG2132
+			gene	aniA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q02219
+			locus_tag	NEBLGDEC_00342
+			product	Copper-containing nitrite reductase
+573	1055	gene
+			locus_tag	NEBLGDEC_00343
+573	1055	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00343
+			product	hypothetical protein
+1761	1120	gene
+			locus_tag	NEBLGDEC_00344
+1761	1120	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00344
+			product	hypothetical protein
+1800	2657	gene
+			locus_tag	NEBLGDEC_00345
+1800	2657	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00345
+			product	hypothetical protein
+2657	3397	gene
+			gene	ctaC
+			locus_tag	NEBLGDEC_00346
+2657	3397	CDS
+			EC_number	1.9.3.1
+			db_xref	COG:COG1622
+			gene	ctaC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q04441
+			locus_tag	NEBLGDEC_00346
+			product	Cytochrome c oxidase subunit 2
+3397	5589	gene
+			locus_tag	NEBLGDEC_00347
+3397	5589	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00347
+			product	hypothetical protein
+5675	6346	gene
+			locus_tag	NEBLGDEC_00348
+5675	6346	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00348
+			product	hypothetical protein
+6333	7046	gene
+			locus_tag	NEBLGDEC_00349
+6333	7046	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00349
+			product	hypothetical protein
+7641	6988	gene
+			locus_tag	NEBLGDEC_00350
+7641	6988	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00350
+			product	hypothetical protein
+>Feature k105_302058
+68	847	gene
+			locus_tag	NEBLGDEC_00351
+68	847	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00351
+			product	hypothetical protein
+1952	834	gene
+			locus_tag	NEBLGDEC_00352
+1952	834	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00352
+			product	hypothetical protein
+2626	1952	gene
+			locus_tag	NEBLGDEC_00353
+2626	1952	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00353
+			product	hypothetical protein
+>Feature k105_304793
+152	1261	gene
+			locus_tag	NEBLGDEC_00354
+152	1261	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00354
+			product	hypothetical protein
+1299	4460	gene
+			locus_tag	NEBLGDEC_00355
+1299	4460	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00355
+			product	hypothetical protein
+>Feature k105_305382
+105	353	gene
+			locus_tag	NEBLGDEC_00356
+105	353	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00356
+			product	hypothetical protein
+400	2079	gene
+			locus_tag	NEBLGDEC_00357
+400	2079	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00357
+			product	hypothetical protein
+2679	2197	gene
+			locus_tag	NEBLGDEC_00358
+2679	2197	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00358
+			product	hypothetical protein
+>Feature k105_306125
+10	705	gene
+			locus_tag	NEBLGDEC_00359
+10	705	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00359
+			product	hypothetical protein
+1468	695	gene
+			gene	rfbA
+			locus_tag	NEBLGDEC_00360
+1468	695	CDS
+			EC_number	2.7.7.24
+			db_xref	COG:COG1209
+			gene	rfbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37744
+			locus_tag	NEBLGDEC_00360
+			product	Glucose-1-phosphate thymidylyltransferase 1
+2333	1539	gene
+			locus_tag	NEBLGDEC_00361
+2333	1539	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00361
+			product	hypothetical protein
+2777	2343	gene
+			locus_tag	NEBLGDEC_00362
+2777	2343	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00362
+			product	hypothetical protein
+>Feature k105_308065
+62	349	gene
+			locus_tag	NEBLGDEC_00363
+62	349	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00363
+			product	hypothetical protein
+377	1501	gene
+			gene	ribD
+			locus_tag	NEBLGDEC_00364
+377	1501	CDS
+			db_xref	COG:COG0117
+			gene	ribD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17618
+			locus_tag	NEBLGDEC_00364
+			product	Riboflavin biosynthesis protein RibD
+1477	1839	gene
+			locus_tag	NEBLGDEC_00365
+1477	1839	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00365
+			product	hypothetical protein
+1951	2026	gene
+			locus_tag	NEBLGDEC_00366
+1951	2026	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00366
+			product	tRNA-Arg(tcg)
+3150	2029	gene
+			locus_tag	NEBLGDEC_00367
+3150	2029	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00367
+			product	hypothetical protein
+3662	3384	gene
+			locus_tag	NEBLGDEC_00368
+3662	3384	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00368
+			product	hypothetical protein
+3978	3739	gene
+			locus_tag	NEBLGDEC_00369
+3978	3739	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00369
+			product	hypothetical protein
+>Feature k105_308515
+7	801	gene
+			locus_tag	NEBLGDEC_00370
+7	801	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00370
+			product	hypothetical protein
+1755	802	gene
+			gene	fadM
+			locus_tag	NEBLGDEC_00371
+1755	802	CDS
+			EC_number	1.5.5.2
+			gene	fadM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8RMG1
+			locus_tag	NEBLGDEC_00371
+			product	Proline dehydrogenase 1
+2741	1782	gene
+			locus_tag	NEBLGDEC_00372
+2741	1782	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00372
+			product	hypothetical protein
+>Feature k105_310448
+260	736	gene
+			locus_tag	NEBLGDEC_00373
+260	736	CDS
+			EC_number	4.2.1.150
+			db_xref	COG:COG1024
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0AVM1
+			locus_tag	NEBLGDEC_00373
+			product	Crotonyl-CoA hydratase
+812	1582	gene
+			gene	ybhF
+			locus_tag	NEBLGDEC_00374
+812	1582	CDS
+			db_xref	COG:COG1131
+			gene	ybhF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9U1
+			locus_tag	NEBLGDEC_00374
+			product	putative multidrug ABC transporter ATP-binding protein YbhF
+2742	1798	gene
+			locus_tag	NEBLGDEC_00375
+2742	1798	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00375
+			product	hypothetical protein
+>Feature k105_311219
+62	517	gene
+			locus_tag	NEBLGDEC_00376
+62	517	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00376
+			product	hypothetical protein
+597	1454	gene
+			locus_tag	NEBLGDEC_00377
+597	1454	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00377
+			product	hypothetical protein
+2663	1455	gene
+			locus_tag	NEBLGDEC_00378
+2663	1455	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00378
+			product	hypothetical protein
+>Feature k105_123729
+250	921	gene
+			locus_tag	NEBLGDEC_00379
+250	921	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00379
+			product	hypothetical protein
+2896	923	gene
+			locus_tag	NEBLGDEC_00380
+2896	923	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00380
+			product	hypothetical protein
+3444	2923	gene
+			locus_tag	NEBLGDEC_00381
+3444	2923	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00381
+			product	hypothetical protein
+>Feature k105_315294
+2056	311	gene
+			locus_tag	NEBLGDEC_00382
+2056	311	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00382
+			product	hypothetical protein
+2646	2062	gene
+			locus_tag	NEBLGDEC_00383
+2646	2062	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00383
+			product	hypothetical protein
+>Feature k105_316182
+37	819	gene
+			gene	pchA
+			locus_tag	NEBLGDEC_00384
+37	819	CDS
+			EC_number	1.2.1.96
+			gene	pchA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59702
+			locus_tag	NEBLGDEC_00384
+			product	4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+1022	1879	gene
+			locus_tag	NEBLGDEC_00385
+1022	1879	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00385
+			product	hypothetical protein
+3020	1863	gene
+			locus_tag	NEBLGDEC_00386
+3020	1863	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00386
+			product	hypothetical protein
+>Feature k105_316959
+12	365	gene
+			gene	pyrG
+			locus_tag	NEBLGDEC_00387
+12	365	CDS
+			EC_number	6.3.4.2
+			db_xref	COG:COG0504
+			gene	pyrG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5SIA8
+			locus_tag	NEBLGDEC_00387
+			product	CTP synthase
+1476	367	gene
+			locus_tag	NEBLGDEC_00388
+1476	367	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00388
+			product	hypothetical protein
+2064	2504	gene
+			locus_tag	NEBLGDEC_00389
+2064	2504	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00389
+			product	hypothetical protein
+>Feature k105_125692
+1378	257	gene
+			gene	kynA
+			locus_tag	NEBLGDEC_00390
+1378	257	CDS
+			EC_number	1.13.11.11
+			db_xref	COG:COG3483
+			gene	kynA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8PDA8
+			locus_tag	NEBLGDEC_00390
+			product	Tryptophan 2,3-dioxygenase
+1588	1394	gene
+			locus_tag	NEBLGDEC_00391
+1588	1394	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00391
+			product	hypothetical protein
+1786	2898	gene
+			locus_tag	NEBLGDEC_00392
+1786	2898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00392
+			product	hypothetical protein
+2931	3929	gene
+			locus_tag	NEBLGDEC_00393
+2931	3929	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00393
+			product	hypothetical protein
+4378	3926	gene
+			locus_tag	NEBLGDEC_00394
+4378	3926	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00394
+			product	hypothetical protein
+>Feature k105_318170
+16	711	gene
+			locus_tag	NEBLGDEC_00395
+16	711	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00395
+			product	hypothetical protein
+723	1511	gene
+			gene	yutF
+			locus_tag	NEBLGDEC_00396
+723	1511	CDS
+			EC_number	3.1.3.-
+			db_xref	COG:COG0647
+			gene	yutF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32125
+			locus_tag	NEBLGDEC_00396
+			product	Acid sugar phosphatase
+1576	3024	gene
+			locus_tag	NEBLGDEC_00397
+1576	3024	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00397
+			product	hypothetical protein
+5363	3030	gene
+			gene	ydfJ
+			locus_tag	NEBLGDEC_00398
+5363	3030	CDS
+			db_xref	COG:COG2409
+			gene	ydfJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96687
+			locus_tag	NEBLGDEC_00398
+			product	Membrane protein YdfJ
+7117	5402	gene
+			locus_tag	NEBLGDEC_00399
+7117	5402	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00399
+			product	hypothetical protein
+>Feature k105_319289
+552	1562	gene
+			gene	fda
+			locus_tag	NEBLGDEC_00400
+552	1562	CDS
+			EC_number	4.1.2.13
+			gene	fda
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00729
+			locus_tag	NEBLGDEC_00400
+			product	Fructose-bisphosphate aldolase class 1
+1958	1662	gene
+			locus_tag	NEBLGDEC_00401
+1958	1662	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00401
+			product	hypothetical protein
+>Feature k105_321099
+63	860	gene
+			locus_tag	NEBLGDEC_00402
+63	860	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00402
+			product	hypothetical protein
+1059	3317	gene
+			locus_tag	NEBLGDEC_00403
+1059	3317	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00403
+			product	hypothetical protein
+3517	5076	gene
+			locus_tag	NEBLGDEC_00404
+3517	5076	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00404
+			product	hypothetical protein
+5401	5078	gene
+			gene	trxA
+			locus_tag	NEBLGDEC_00405
+5401	5078	CDS
+			db_xref	COG:COG0526
+			gene	trxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA28
+			locus_tag	NEBLGDEC_00405
+			product	Thioredoxin 1
+5527	6207	gene
+			gene	rpe
+			locus_tag	NEBLGDEC_00406
+5527	6207	CDS
+			EC_number	5.1.3.1
+			gene	rpe
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P74061
+			locus_tag	NEBLGDEC_00406
+			product	Ribulose-phosphate 3-epimerase
+>Feature k105_130367
+1562	351	gene
+			gene	sucC
+			locus_tag	NEBLGDEC_00407
+1562	351	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0045
+			gene	sucC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P80886
+			locus_tag	NEBLGDEC_00407
+			product	Succinate--CoA ligase [ADP-forming] subunit beta
+2392	2120	gene
+			locus_tag	NEBLGDEC_00408
+2392	2120	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00408
+			product	hypothetical protein
+>Feature k105_322406
+226	570	gene
+			locus_tag	NEBLGDEC_00409
+226	570	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00409
+			product	hypothetical protein
+818	997	gene
+			locus_tag	NEBLGDEC_00410
+818	997	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00410
+			product	hypothetical protein
+2846	1278	gene
+			locus_tag	NEBLGDEC_00411
+2846	1278	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00411
+			product	hypothetical protein
+>Feature k105_131252
+320	529	gene
+			locus_tag	NEBLGDEC_00412
+320	529	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00412
+			product	hypothetical protein
+1210	3534	gene
+			gene	bepA
+			locus_tag	NEBLGDEC_00413
+1210	3534	CDS
+			EC_number	3.4.-.-
+			gene	bepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	NEBLGDEC_00413
+			product	Beta-barrel assembly-enhancing protease
+3872	3639	gene
+			locus_tag	NEBLGDEC_00414
+3872	3639	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00414
+			product	hypothetical protein
+>Feature k105_131321
+4	1806	gene
+			gene	rpoB
+			locus_tag	NEBLGDEC_00415
+4	1806	CDS
+			EC_number	2.7.7.6
+			gene	rpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01321
+			locus_tag	NEBLGDEC_00415
+			product	DNA-directed RNA polymerase subunit beta
+3557	1674	gene
+			locus_tag	NEBLGDEC_00416
+3557	1674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00416
+			product	hypothetical protein
+>Feature k105_132316
+47	1108	gene
+			locus_tag	NEBLGDEC_00417
+47	1108	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00417
+			product	hypothetical protein
+1172	1588	gene
+			locus_tag	NEBLGDEC_00418
+1172	1588	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00418
+			product	hypothetical protein
+1851	2072	gene
+			locus_tag	NEBLGDEC_00419
+1851	2072	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00419
+			product	hypothetical protein
+2081	3094	gene
+			locus_tag	NEBLGDEC_00420
+2081	3094	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00420
+			product	hypothetical protein
+3512	4660	gene
+			locus_tag	NEBLGDEC_00421
+3512	4660	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00421
+			product	hypothetical protein
+4931	5083	gene
+			locus_tag	NEBLGDEC_00422
+4931	5083	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00422
+			product	hypothetical protein
+5093	5785	gene
+			locus_tag	NEBLGDEC_00423
+5093	5785	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00423
+			product	hypothetical protein
+5873	7231	gene
+			locus_tag	NEBLGDEC_00424
+5873	7231	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00424
+			product	hypothetical protein
+7286	8395	gene
+			locus_tag	NEBLGDEC_00425
+7286	8395	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00425
+			product	hypothetical protein
+8815	8207	gene
+			gene	pyk
+			locus_tag	NEBLGDEC_00426
+8815	8207	CDS
+			EC_number	2.7.1.40
+			gene	pyk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q02499
+			locus_tag	NEBLGDEC_00426
+			product	Pyruvate kinase
+>Feature k105_324692
+1321	704	gene
+			gene	ntpD
+			locus_tag	NEBLGDEC_00427
+1321	704	CDS
+			gene	ntpD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43435
+			locus_tag	NEBLGDEC_00427
+			product	V-type sodium ATPase subunit D
+2742	1360	gene
+			gene	atpB
+			locus_tag	NEBLGDEC_00428
+2742	1360	CDS
+			db_xref	COG:COG1156
+			gene	atpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q56404
+			locus_tag	NEBLGDEC_00428
+			product	V-type ATP synthase beta chain
+3711	2755	gene
+			gene	atpA
+			locus_tag	NEBLGDEC_00429
+3711	2755	CDS
+			EC_number	7.1.2.2
+			db_xref	COG:COG1155
+			gene	atpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q56403
+			locus_tag	NEBLGDEC_00429
+			product	V-type ATP synthase alpha chain
+>Feature k105_325722
+16	264	gene
+			gene	acrC
+			locus_tag	NEBLGDEC_00430
+16	264	CDS
+			EC_number	1.3.1.95
+			gene	acrC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:G3KIM8
+			locus_tag	NEBLGDEC_00430
+			product	Acryloyl-CoA reductase (NADH)
+768	696	gene
+			locus_tag	NEBLGDEC_00431
+768	696	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00431
+			product	tRNA-Gln(ttg)
+1335	1033	gene
+			locus_tag	NEBLGDEC_00432
+1335	1033	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00432
+			product	hypothetical protein
+3180	1399	gene
+			locus_tag	NEBLGDEC_00433
+3180	1399	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00433
+			product	hypothetical protein
+>Feature k105_327399
+11	211	gene
+			gene	ndk
+			locus_tag	NEBLGDEC_00434
+11	211	CDS
+			EC_number	2.7.4.6
+			gene	ndk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P74494
+			locus_tag	NEBLGDEC_00434
+			product	Nucleoside diphosphate kinase
+264	2060	gene
+			gene	infB
+			locus_tag	NEBLGDEC_00435
+264	2060	CDS
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00100_A
+			locus_tag	NEBLGDEC_00435
+			product	Translation initiation factor IF-2
+2194	3189	gene
+			locus_tag	NEBLGDEC_00436
+2194	3189	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00436
+			product	hypothetical protein
+3293	4234	gene
+			gene	soj_1
+			locus_tag	NEBLGDEC_00437
+3293	4234	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG1192
+			gene	soj_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37522
+			locus_tag	NEBLGDEC_00437
+			product	Sporulation initiation inhibitor protein Soj
+4351	4578	gene
+			locus_tag	NEBLGDEC_00438
+4351	4578	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00438
+			product	hypothetical protein
+4583	4831	gene
+			locus_tag	NEBLGDEC_00439
+4583	4831	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00439
+			product	hypothetical protein
+7197	4834	gene
+			locus_tag	NEBLGDEC_00440
+7197	4834	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00440
+			product	hypothetical protein
+8272	7370	gene
+			locus_tag	NEBLGDEC_00441
+8272	7370	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00441
+			product	hypothetical protein
+>Feature k105_135781
+587	1177	gene
+			locus_tag	NEBLGDEC_00442
+587	1177	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00442
+			product	hypothetical protein
+1828	1160	gene
+			locus_tag	NEBLGDEC_00443
+1828	1160	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00443
+			product	hypothetical protein
+2407	1841	gene
+			gene	mtnA
+			locus_tag	NEBLGDEC_00444
+2407	1841	CDS
+			EC_number	5.3.1.23
+			db_xref	COG:COG0182
+			gene	mtnA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31662
+			locus_tag	NEBLGDEC_00444
+			product	Methylthioribose-1-phosphate isomerase
+>Feature k105_136870
+328	1947	gene
+			locus_tag	NEBLGDEC_00445
+328	1947	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00445
+			product	hypothetical protein
+>Feature k105_137192
+3044	81	gene
+			locus_tag	NEBLGDEC_00446
+3044	81	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00446
+			product	hypothetical protein
+>Feature k105_138160
+77	1	gene
+			locus_tag	NEBLGDEC_00447
+77	1	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00447
+			product	tRNA-Ile(gat)
+724	134	gene
+			locus_tag	NEBLGDEC_00448
+724	134	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00448
+			product	hypothetical protein
+1133	2620	gene
+			gene	argD
+			locus_tag	NEBLGDEC_00449
+1133	2620	CDS
+			EC_number	2.6.1.11
+			db_xref	COG:COG4992
+			gene	argD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P40732
+			locus_tag	NEBLGDEC_00449
+			product	Acetylornithine/succinyldiaminopimelate aminotransferase
+2625	3131	gene
+			locus_tag	NEBLGDEC_00450
+2625	3131	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00450
+			product	hypothetical protein
+3361	3128	gene
+			locus_tag	NEBLGDEC_00451
+3361	3128	CDS
+			EC_number	2.5.-.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00640
+			locus_tag	NEBLGDEC_00451
+			product	Deoxyhypusine synthase-like protein
+>Feature k105_138807
+110	826	gene
+			locus_tag	NEBLGDEC_00452
+110	826	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00452
+			product	hypothetical protein
+869	1639	gene
+			locus_tag	NEBLGDEC_00453
+869	1639	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00453
+			product	hypothetical protein
+>Feature k105_142471
+62	1153	gene
+			locus_tag	NEBLGDEC_00454
+62	1153	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00454
+			product	hypothetical protein
+2744	1164	gene
+			locus_tag	NEBLGDEC_00455
+2744	1164	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00455
+			product	hypothetical protein
+>Feature k105_146352
+99	764	gene
+			locus_tag	NEBLGDEC_00456
+99	764	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00456
+			product	hypothetical protein
+824	1423	gene
+			locus_tag	NEBLGDEC_00457
+824	1423	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00457
+			product	hypothetical protein
+2336	1239	gene
+			locus_tag	NEBLGDEC_00458
+2336	1239	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00458
+			product	hypothetical protein
+>Feature k105_339350
+34	249	gene
+			locus_tag	NEBLGDEC_00459
+34	249	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00459
+			product	hypothetical protein
+521	1144	gene
+			locus_tag	NEBLGDEC_00460
+521	1144	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00460
+			product	hypothetical protein
+1192	2898	gene
+			gene	nadE
+			locus_tag	NEBLGDEC_00461
+1192	2898	CDS
+			EC_number	6.3.5.1
+			db_xref	COG:COG0171
+			gene	nadE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q03638
+			locus_tag	NEBLGDEC_00461
+			product	Glutamine-dependent NAD(+) synthetase
+3701	2892	gene
+			locus_tag	NEBLGDEC_00462
+3701	2892	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00462
+			product	hypothetical protein
+3804	5543	gene
+			locus_tag	NEBLGDEC_00463
+3804	5543	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00463
+			product	hypothetical protein
+>Feature k105_146801
+109	777	gene
+			gene	rutC
+			locus_tag	NEBLGDEC_00464
+109	777	CDS
+			EC_number	1.-.-.-
+			gene	rutC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00831
+			locus_tag	NEBLGDEC_00464
+			product	Putative aminoacrylate peracid reductase RutC
+779	1021	gene
+			locus_tag	NEBLGDEC_00465
+779	1021	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00465
+			product	hypothetical protein
+1018	2412	gene
+			gene	algC
+			locus_tag	NEBLGDEC_00466
+1018	2412	CDS
+			EC_number	5.4.2.2
+			db_xref	COG:COG1109
+			gene	algC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26276
+			locus_tag	NEBLGDEC_00466
+			product	Phosphomannomutase/phosphoglucomutase
+2597	2400	gene
+			locus_tag	NEBLGDEC_00467
+2597	2400	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00467
+			product	hypothetical protein
+>Feature k105_340088
+30	2042	gene
+			locus_tag	NEBLGDEC_00468
+30	2042	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00468
+			product	hypothetical protein
+2060	2713	gene
+			locus_tag	NEBLGDEC_00469
+2060	2713	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00469
+			product	hypothetical protein
+3421	2723	gene
+			gene	purC
+			locus_tag	NEBLGDEC_00470
+3421	2723	CDS
+			EC_number	6.3.2.6
+			db_xref	COG:COG0152
+			gene	purC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:B1MHW4
+			locus_tag	NEBLGDEC_00470
+			product	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+>Feature k105_147101
+1729	419	gene
+			locus_tag	NEBLGDEC_00471
+1729	419	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00471
+			product	hypothetical protein
+2021	2602	gene
+			locus_tag	NEBLGDEC_00472
+2021	2602	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00472
+			product	hypothetical protein
+2832	2596	gene
+			locus_tag	NEBLGDEC_00473
+2832	2596	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00473
+			product	hypothetical protein
+>Feature k105_340284
+598	1071	gene
+			locus_tag	NEBLGDEC_00474
+598	1071	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00474
+			product	hypothetical protein
+1113	1310	gene
+			locus_tag	NEBLGDEC_00475
+1113	1310	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00475
+			product	hypothetical protein
+2413	1307	gene
+			gene	xerC
+			locus_tag	NEBLGDEC_00476
+2413	1307	CDS
+			gene	xerC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	NEBLGDEC_00476
+			product	Tyrosine recombinase XerC
+3828	2566	gene
+			gene	gshB
+			locus_tag	NEBLGDEC_00477
+3828	2566	CDS
+			EC_number	6.3.2.3
+			gene	gshB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00162
+			locus_tag	NEBLGDEC_00477
+			product	Glutathione synthetase
+>Feature k105_341923
+33	662	gene
+			locus_tag	NEBLGDEC_00478
+33	662	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00478
+			product	hypothetical protein
+1455	688	gene
+			locus_tag	NEBLGDEC_00479
+1455	688	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00479
+			product	hypothetical protein
+1546	1743	gene
+			locus_tag	NEBLGDEC_00480
+1546	1743	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00480
+			product	hypothetical protein
+2368	1934	gene
+			locus_tag	NEBLGDEC_00481
+2368	1934	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00481
+			product	hypothetical protein
+2938	2408	gene
+			gene	fumC
+			locus_tag	NEBLGDEC_00482
+2938	2408	CDS
+			EC_number	4.2.1.2
+			db_xref	COG:COG0114
+			gene	fumC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q92PB6
+			locus_tag	NEBLGDEC_00482
+			product	Fumarate hydratase class II
+>Feature k105_150488
+16	153	gene
+			locus_tag	NEBLGDEC_00483
+16	153	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00483
+			product	hypothetical protein
+120	1172	gene
+			locus_tag	NEBLGDEC_00484
+120	1172	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00484
+			product	hypothetical protein
+1120	1293	gene
+			locus_tag	NEBLGDEC_00485
+1120	1293	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00485
+			product	hypothetical protein
+1299	1463	gene
+			locus_tag	NEBLGDEC_00486
+1299	1463	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00486
+			product	hypothetical protein
+1405	1665	gene
+			locus_tag	NEBLGDEC_00487
+1405	1665	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00487
+			product	hypothetical protein
+1620	1766	gene
+			locus_tag	NEBLGDEC_00488
+1620	1766	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00488
+			product	hypothetical protein
+1815	2528	gene
+			locus_tag	NEBLGDEC_00489
+1815	2528	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00489
+			product	hypothetical protein
+2716	2579	gene
+			locus_tag	NEBLGDEC_00490
+2716	2579	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00490
+			product	hypothetical protein
+>Feature k105_150531
+739	410	gene
+			gene	rpsJ
+			locus_tag	NEBLGDEC_00491
+739	410	CDS
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:B1LBP1
+			locus_tag	NEBLGDEC_00491
+			product	30S ribosomal protein S10
+2093	801	gene
+			gene	tuf
+			locus_tag	NEBLGDEC_00492
+2093	801	CDS
+			db_xref	COG:COG0050
+			gene	tuf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22679
+			locus_tag	NEBLGDEC_00492
+			product	Elongation factor Tu
+3411	2251	gene
+			locus_tag	NEBLGDEC_00493
+3411	2251	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00493
+			product	hypothetical protein
+>Feature k105_345294
+216	1352	gene
+			locus_tag	NEBLGDEC_00494
+216	1352	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00494
+			product	hypothetical protein
+2204	1461	gene
+			gene	cinA
+			locus_tag	NEBLGDEC_00495
+2204	1461	CDS
+			gene	cinA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00226_B
+			locus_tag	NEBLGDEC_00495
+			product	Putative competence-damage inducible protein
+2326	2252	gene
+			locus_tag	NEBLGDEC_00496
+2326	2252	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00496
+			product	tRNA-Val(tac)
+>Feature k105_151776
+1140	163	gene
+			locus_tag	NEBLGDEC_00497
+1140	163	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00497
+			product	hypothetical protein
+4783	1133	gene
+			locus_tag	NEBLGDEC_00498
+4783	1133	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00498
+			product	hypothetical protein
+>Feature k105_346847
+115	1248	gene
+			locus_tag	NEBLGDEC_00499
+115	1248	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00499
+			product	hypothetical protein
+1290	1616	gene
+			gene	copR
+			locus_tag	NEBLGDEC_00500
+1290	1616	CDS
+			gene	copR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q02540
+			locus_tag	NEBLGDEC_00500
+			product	Transcriptional activator protein CopR
+2323	1613	gene
+			gene	degU
+			locus_tag	NEBLGDEC_00501
+2323	1613	CDS
+			db_xref	COG:COG2197
+			gene	degU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P13800
+			locus_tag	NEBLGDEC_00501
+			product	Transcriptional regulatory protein DegU
+2756	2457	gene
+			gene	regX3
+			locus_tag	NEBLGDEC_00502
+2756	2457	CDS
+			db_xref	COG:COG0745
+			gene	regX3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9F868
+			locus_tag	NEBLGDEC_00502
+			product	Sensory transduction protein regX3
+>Feature k105_155044
+134	520	gene
+			locus_tag	NEBLGDEC_00503
+134	520	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00503
+			product	hypothetical protein
+517	1419	gene
+			gene	phnE
+			locus_tag	NEBLGDEC_00504
+517	1419	CDS
+			db_xref	COG:COG3639
+			gene	phnE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QQ68
+			locus_tag	NEBLGDEC_00504
+			product	Phosphate-import permease protein PhnE
+1631	1416	gene
+			locus_tag	NEBLGDEC_00505
+1631	1416	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00505
+			product	hypothetical protein
+2782	2868	gene
+			locus_tag	NEBLGDEC_00506
+2782	2868	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	NEBLGDEC_00506
+			product	tRNA-Leu(tag)
+>Feature k105_155671
+60	419	gene
+			locus_tag	NEBLGDEC_00507
+60	419	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00507
+			product	hypothetical protein
+419	1381	gene
+			gene	panE
+			locus_tag	NEBLGDEC_00508
+419	1381	CDS
+			EC_number	1.1.1.169
+			db_xref	COG:COG1893
+			gene	panE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9HW09
+			locus_tag	NEBLGDEC_00508
+			product	2-dehydropantoate 2-reductase
+2520	1378	gene
+			gene	nadB
+			locus_tag	NEBLGDEC_00509
+2520	1378	CDS
+			EC_number	1.4.3.16
+			db_xref	COG:COG0029
+			gene	nadB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZMX9
+			locus_tag	NEBLGDEC_00509
+			product	L-aspartate oxidase
+>Feature k105_158958
+734	18	gene
+			gene	yknY
+			locus_tag	NEBLGDEC_00510
+734	18	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1136
+			gene	yknY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31711
+			locus_tag	NEBLGDEC_00510
+			product	putative ABC transporter ATP-binding protein YknY
+1910	801	gene
+			gene	mshA
+			locus_tag	NEBLGDEC_00511
+1910	801	CDS
+			EC_number	2.4.1.250
+			gene	mshA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01695
+			locus_tag	NEBLGDEC_00511
+			product	D-inositol-3-phosphate glycosyltransferase
+>Feature k105_353600
+23	2908	gene
+			locus_tag	NEBLGDEC_00512
+23	2908	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00512
+			product	hypothetical protein
+>Feature k105_355568
+27	530	gene
+			locus_tag	NEBLGDEC_00513
+27	530	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00513
+			product	hypothetical protein
+588	1397	gene
+			locus_tag	NEBLGDEC_00514
+588	1397	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00514
+			product	hypothetical protein
+3271	1529	gene
+			locus_tag	NEBLGDEC_00515
+3271	1529	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00515
+			product	hypothetical protein
+>Feature k105_161202
+3128	726	gene
+			locus_tag	NEBLGDEC_00516
+3128	726	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00516
+			product	hypothetical protein
+>Feature k105_161839
+69	419	gene
+			gene	pfdA
+			locus_tag	NEBLGDEC_00517
+69	419	CDS
+			gene	pfdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00308
+			locus_tag	NEBLGDEC_00517
+			product	Prefoldin subunit alpha
+429	1805	gene
+			gene	ftsY
+			locus_tag	NEBLGDEC_00518
+429	1805	CDS
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00920
+			locus_tag	NEBLGDEC_00518
+			product	Signal recognition particle receptor FtsY
+1815	2186	gene
+			locus_tag	NEBLGDEC_00519
+1815	2186	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00519
+			product	hypothetical protein
+2246	2902	gene
+			locus_tag	NEBLGDEC_00520
+2246	2902	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00520
+			product	hypothetical protein
+3162	2890	gene
+			locus_tag	NEBLGDEC_00521
+3162	2890	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00521
+			product	hypothetical protein
+3694	3116	gene
+			gene	pyrF
+			locus_tag	NEBLGDEC_00522
+3694	3116	CDS
+			gene	pyrF
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01200_A
+			locus_tag	NEBLGDEC_00522
+			product	Orotidine 5'-phosphate decarboxylase
+>Feature k105_358576
+82	417	gene
+			gene	grxD
+			locus_tag	NEBLGDEC_00523
+82	417	CDS
+			db_xref	COG:COG0278
+			gene	grxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC69
+			locus_tag	NEBLGDEC_00523
+			product	Glutaredoxin 4
+1652	378	gene
+			locus_tag	NEBLGDEC_00524
+1652	378	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00524
+			product	hypothetical protein
+2659	1649	gene
+			locus_tag	NEBLGDEC_00525
+2659	1649	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00525
+			product	hypothetical protein
+>Feature k105_163864
+17	1951	gene
+			locus_tag	NEBLGDEC_00526
+17	1951	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00526
+			product	hypothetical protein
+2542	2030	gene
+			locus_tag	NEBLGDEC_00527
+2542	2030	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00527
+			product	hypothetical protein
+>Feature k105_359271
+89	1138	gene
+			locus_tag	NEBLGDEC_00528
+89	1138	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00528
+			product	hypothetical protein
+1256	1474	gene
+			locus_tag	NEBLGDEC_00529
+1256	1474	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00529
+			product	hypothetical protein
+1573	2247	gene
+			locus_tag	NEBLGDEC_00530
+1573	2247	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00530
+			product	hypothetical protein
+2244	2756	gene
+			locus_tag	NEBLGDEC_00531
+2244	2756	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00531
+			product	hypothetical protein
+2757	3002	gene
+			locus_tag	NEBLGDEC_00532
+2757	3002	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00532
+			product	hypothetical protein
+3757	2999	gene
+			locus_tag	NEBLGDEC_00533
+3757	2999	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00533
+			product	hypothetical protein
+>Feature k105_164436
+106	807	gene
+			locus_tag	NEBLGDEC_00534
+106	807	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00534
+			product	hypothetical protein
+2082	898	gene
+			gene	leuB
+			locus_tag	NEBLGDEC_00535
+2082	898	CDS
+			EC_number	1.1.1.85
+			db_xref	COG:COG0473
+			gene	leuB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30125
+			locus_tag	NEBLGDEC_00535
+			product	3-isopropylmalate dehydrogenase
+2250	2882	gene
+			locus_tag	NEBLGDEC_00536
+2250	2882	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00536
+			product	hypothetical protein
+>Feature k105_167729
+17	565	gene
+			locus_tag	NEBLGDEC_00537
+17	565	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00537
+			product	hypothetical protein
+651	1589	gene
+			gene	soj_2
+			locus_tag	NEBLGDEC_00538
+651	1589	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG1192
+			gene	soj_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37522
+			locus_tag	NEBLGDEC_00538
+			product	Sporulation initiation inhibitor protein Soj
+1599	2051	gene
+			locus_tag	NEBLGDEC_00539
+1599	2051	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00539
+			product	hypothetical protein
+>Feature k105_170103
+435	1010	gene
+			locus_tag	NEBLGDEC_00540
+435	1010	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00540
+			product	hypothetical protein
+2554	1364	gene
+			locus_tag	NEBLGDEC_00541
+2554	1364	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00541
+			product	hypothetical protein
+2774	3256	gene
+			locus_tag	NEBLGDEC_00542
+2774	3256	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00542
+			product	hypothetical protein
+3259	3915	gene
+			locus_tag	NEBLGDEC_00543
+3259	3915	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00543
+			product	hypothetical protein
+3960	4175	gene
+			locus_tag	NEBLGDEC_00544
+3960	4175	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00544
+			product	hypothetical protein
+4185	4784	gene
+			gene	mobA
+			locus_tag	NEBLGDEC_00545
+4185	4784	CDS
+			EC_number	2.7.7.77
+			gene	mobA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00316
+			locus_tag	NEBLGDEC_00545
+			product	Molybdenum cofactor guanylyltransferase
+5361	4747	gene
+			gene	purN
+			locus_tag	NEBLGDEC_00546
+5361	4747	CDS
+			EC_number	2.1.2.2
+			db_xref	COG:COG0299
+			gene	purN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08179
+			locus_tag	NEBLGDEC_00546
+			product	Phosphoribosylglycinamide formyltransferase
+5423	5896	gene
+			locus_tag	NEBLGDEC_00547
+5423	5896	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00547
+			product	hypothetical protein
+7548	5890	gene
+			gene	purH
+			locus_tag	NEBLGDEC_00548
+7548	5890	CDS
+			db_xref	COG:COG0138
+			gene	purH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15639
+			locus_tag	NEBLGDEC_00548
+			product	Bifunctional purine biosynthesis protein PurH
+9310	7730	gene
+			gene	groL1
+			locus_tag	NEBLGDEC_00549
+9310	7730	CDS
+			db_xref	COG:COG0459
+			gene	groL1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P20110
+			locus_tag	NEBLGDEC_00549
+			product	60 kDa chaperonin 1
+10720	9365	gene
+			locus_tag	NEBLGDEC_00550
+10720	9365	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00550
+			product	hypothetical protein
+11161	10775	gene
+			locus_tag	NEBLGDEC_00551
+11161	10775	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00551
+			product	hypothetical protein
+12180	11158	gene
+			gene	iolG
+			locus_tag	NEBLGDEC_00552
+12180	11158	CDS
+			EC_number	1.1.1.369
+			gene	iolG
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01671
+			locus_tag	NEBLGDEC_00552
+			product	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+12234	13436	gene
+			locus_tag	NEBLGDEC_00553
+12234	13436	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00553
+			product	hypothetical protein
+>Feature k105_170603
+94	933	gene
+			locus_tag	NEBLGDEC_00554
+94	933	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00554
+			product	hypothetical protein
+949	1743	gene
+			locus_tag	NEBLGDEC_00555
+949	1743	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00555
+			product	hypothetical protein
+5283	1744	gene
+			locus_tag	NEBLGDEC_00556
+5283	1744	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00556
+			product	hypothetical protein
+5400	6632	gene
+			gene	ftsZ_2
+			locus_tag	NEBLGDEC_00557
+5400	6632	CDS
+			gene	ftsZ_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00909
+			locus_tag	NEBLGDEC_00557
+			product	Cell division protein FtsZ
+6714	6992	gene
+			locus_tag	NEBLGDEC_00558
+6714	6992	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00558
+			product	hypothetical protein
+7014	7880	gene
+			locus_tag	NEBLGDEC_00559
+7014	7880	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00559
+			product	hypothetical protein
+7957	8235	gene
+			locus_tag	NEBLGDEC_00560
+7957	8235	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00560
+			product	hypothetical protein
+8297	8941	gene
+			gene	rplA
+			locus_tag	NEBLGDEC_00561
+8297	8941	CDS
+			db_xref	COG:COG0081
+			gene	rplA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6N4R5
+			locus_tag	NEBLGDEC_00561
+			product	50S ribosomal protein L1
+8938	9954	gene
+			locus_tag	NEBLGDEC_00562
+8938	9954	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00562
+			product	hypothetical protein
+9991	10296	gene
+			locus_tag	NEBLGDEC_00563
+9991	10296	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00563
+			product	hypothetical protein
+>Feature k105_170627
+543	986	gene
+			locus_tag	NEBLGDEC_00564
+543	986	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00564
+			product	hypothetical protein
+1149	2213	gene
+			locus_tag	NEBLGDEC_00565
+1149	2213	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00565
+			product	hypothetical protein
+2977	2300	gene
+			locus_tag	NEBLGDEC_00566
+2977	2300	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00566
+			product	hypothetical protein
+>Feature k105_172488
+1	1212	gene
+			locus_tag	NEBLGDEC_00567
+1	1212	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00567
+			product	hypothetical protein
+1231	1653	gene
+			locus_tag	NEBLGDEC_00568
+1231	1653	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00568
+			product	hypothetical protein
+1706	1855	gene
+			locus_tag	NEBLGDEC_00569
+1706	1855	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00569
+			product	hypothetical protein
+2634	1906	gene
+			locus_tag	NEBLGDEC_00570
+2634	1906	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00570
+			product	hypothetical protein
+>Feature k105_174747
+844	1638	gene
+			locus_tag	NEBLGDEC_00571
+844	1638	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00571
+			product	hypothetical protein
+4158	1639	gene
+			locus_tag	NEBLGDEC_00572
+4158	1639	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00572
+			product	hypothetical protein
+>Feature k105_178371
+14	2491	gene
+			gene	clsB
+			locus_tag	NEBLGDEC_00573
+14	2491	CDS
+			EC_number	2.7.8.-
+			gene	clsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01917
+			locus_tag	NEBLGDEC_00573
+			product	Cardiolipin synthase B
+>Feature k105_178383
+60	1514	gene
+			locus_tag	NEBLGDEC_00574
+60	1514	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00574
+			product	hypothetical protein
+1953	1504	gene
+			locus_tag	NEBLGDEC_00575
+1953	1504	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00575
+			product	hypothetical protein
+2926	1958	gene
+			locus_tag	NEBLGDEC_00576
+2926	1958	CDS
+			db_xref	COG:COG0327
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q57354
+			locus_tag	NEBLGDEC_00576
+			product	GTP cyclohydrolase 1 type 2 
+3361	2936	gene
+			locus_tag	NEBLGDEC_00577
+3361	2936	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00577
+			product	hypothetical protein
+3593	5725	gene
+			locus_tag	NEBLGDEC_00578
+3593	5725	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00578
+			product	hypothetical protein
+6959	5883	gene
+			locus_tag	NEBLGDEC_00579
+6959	5883	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00579
+			product	hypothetical protein
+7790	7347	gene
+			locus_tag	NEBLGDEC_00580
+7790	7347	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NEBLGDEC_00580
+			product	hypothetical protein

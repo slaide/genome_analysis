@@ -1,0 +1,1311 @@
+##gff-version 3
+##sequence-region k105_182407 1 2882
+##sequence-region k105_184694 1 3578
+##sequence-region k105_189692 1 3543
+##sequence-region k105_190408 1 3444
+##sequence-region k105_191409 1 3515
+##sequence-region k105_192848 1 2600
+##sequence-region k105_193470 1 3144
+##sequence-region k105_195853 1 3378
+##sequence-region k105_15424 1 6823
+##sequence-region k105_15518 1 3303
+##sequence-region k105_197547 1 3307
+##sequence-region k105_16145 1 3127
+##sequence-region k105_17082 1 4456
+##sequence-region k105_20632 1 4782
+##sequence-region k105_204944 1 3090
+##sequence-region k105_206570 1 4263
+##sequence-region k105_24891 1 3369
+##sequence-region k105_207464 1 3518
+##sequence-region k105_209760 1 4194
+##sequence-region k105_212571 1 2654
+##sequence-region k105_32377 1 3455
+##sequence-region k105_219381 1 5031
+##sequence-region k105_37565 1 2576
+##sequence-region k105_219631 1 4564
+##sequence-region k105_219854 1 4646
+##sequence-region k105_220625 1 3502
+##sequence-region k105_221823 1 3209
+##sequence-region k105_222078 1 2987
+##sequence-region k105_41390 1 3923
+##sequence-region k105_223805 1 6690
+##sequence-region k105_223951 1 2931
+##sequence-region k105_42179 1 2730
+##sequence-region k105_49160 1 3410
+##sequence-region k105_49404 1 4404
+##sequence-region k105_232849 1 3102
+##sequence-region k105_51106 1 3253
+##sequence-region k105_236598 1 3391
+##sequence-region k105_236627 1 3660
+##sequence-region k105_53971 1 4471
+##sequence-region k105_54085 1 3055
+##sequence-region k105_57697 1 3469
+##sequence-region k105_58320 1 5437
+##sequence-region k105_60026 1 5775
+##sequence-region k105_62779 1 4693
+##sequence-region k105_65919 1 4615
+##sequence-region k105_67630 1 3060
+##sequence-region k105_74902 1 2699
+##sequence-region k105_75765 1 3694
+##sequence-region k105_76564 1 2586
+##sequence-region k105_76605 1 2595
+##sequence-region k105_76657 1 3155
+##sequence-region k105_76885 1 2536
+##sequence-region k105_77817 1 2646
+##sequence-region k105_263569 1 3050
+##sequence-region k105_79336 1 4478
+##sequence-region k105_264188 1 3029
+##sequence-region k105_266481 1 2714
+##sequence-region k105_266512 1 2645
+##sequence-region k105_82433 1 4425
+##sequence-region k105_267998 1 5037
+##sequence-region k105_270899 1 3474
+##sequence-region k105_86993 1 3450
+##sequence-region k105_87988 1 3350
+##sequence-region k105_273783 1 2573
+##sequence-region k105_88766 1 4531
+##sequence-region k105_89546 1 3801
+##sequence-region k105_92919 1 3915
+##sequence-region k105_94412 1 3715
+##sequence-region k105_282074 1 2954
+##sequence-region k105_95127 1 4599
+##sequence-region k105_282155 1 4584
+##sequence-region k105_95406 1 3424
+##sequence-region k105_95873 1 4907
+##sequence-region k105_283676 1 3062
+##sequence-region k105_96915 1 4576
+##sequence-region k105_286007 1 5154
+##sequence-region k105_287423 1 2546
+##sequence-region k105_99707 1 3092
+##sequence-region k105_101024 1 3009
+##sequence-region k105_289242 1 3858
+##sequence-region k105_103686 1 4277
+##sequence-region k105_292215 1 6668
+##sequence-region k105_292336 1 3882
+##sequence-region k105_105369 1 3342
+##sequence-region k105_105951 1 2590
+##sequence-region k105_109470 1 2943
+##sequence-region k105_110282 1 2689
+##sequence-region k105_112063 1 2856
+##sequence-region k105_112469 1 7700
+##sequence-region k105_302058 1 2847
+##sequence-region k105_304793 1 5296
+##sequence-region k105_305382 1 2758
+##sequence-region k105_306125 1 2810
+##sequence-region k105_308065 1 4285
+##sequence-region k105_308515 1 2921
+##sequence-region k105_310448 1 2770
+##sequence-region k105_311219 1 2711
+##sequence-region k105_123729 1 3628
+##sequence-region k105_315294 1 2680
+##sequence-region k105_316182 1 3105
+##sequence-region k105_316959 1 2804
+##sequence-region k105_125692 1 4401
+##sequence-region k105_318170 1 7125
+##sequence-region k105_319289 1 2611
+##sequence-region k105_321099 1 6409
+##sequence-region k105_130367 1 2609
+##sequence-region k105_322406 1 2885
+##sequence-region k105_131252 1 4027
+##sequence-region k105_131321 1 3599
+##sequence-region k105_132316 1 8827
+##sequence-region k105_324692 1 3717
+##sequence-region k105_325722 1 3262
+##sequence-region k105_327399 1 8297
+##sequence-region k105_135781 1 2513
+##sequence-region k105_136870 1 2977
+##sequence-region k105_137192 1 3192
+##sequence-region k105_138160 1 3389
+##sequence-region k105_138807 1 2519
+##sequence-region k105_142471 1 2791
+##sequence-region k105_146352 1 2698
+##sequence-region k105_339350 1 5678
+##sequence-region k105_146801 1 2610
+##sequence-region k105_340088 1 3490
+##sequence-region k105_147101 1 3033
+##sequence-region k105_340284 1 4220
+##sequence-region k105_341923 1 2944
+##sequence-region k105_150488 1 3090
+##sequence-region k105_150531 1 3435
+##sequence-region k105_345294 1 2608
+##sequence-region k105_151776 1 4820
+##sequence-region k105_346847 1 2769
+##sequence-region k105_155044 1 3334
+##sequence-region k105_155671 1 2621
+##sequence-region k105_158958 1 2746
+##sequence-region k105_353600 1 3186
+##sequence-region k105_355568 1 3303
+##sequence-region k105_161202 1 3161
+##sequence-region k105_161839 1 3713
+##sequence-region k105_358576 1 2839
+##sequence-region k105_163864 1 2548
+##sequence-region k105_359271 1 4258
+##sequence-region k105_164436 1 3055
+##sequence-region k105_167729 1 2545
+##sequence-region k105_170103 1 13715
+##sequence-region k105_170603 1 11030
+##sequence-region k105_170627 1 2993
+##sequence-region k105_172488 1 2685
+##sequence-region k105_174747 1 4164
+##sequence-region k105_178371 1 2579
+##sequence-region k105_178383 1 7816
+k105_182407	prokka	gene	88	963	.	+	.	ID=NEBLGDEC_00001_gene;locus_tag=NEBLGDEC_00001
+k105_182407	Prodigal:002006	CDS	88	963	.	+	0	ID=NEBLGDEC_00001;Parent=NEBLGDEC_00001_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00001;product=hypothetical protein
+k105_182407	prokka	gene	967	2013	.	-	.	ID=NEBLGDEC_00002_gene;locus_tag=NEBLGDEC_00002
+k105_182407	Prodigal:002006	CDS	967	2013	.	-	0	ID=NEBLGDEC_00002;Parent=NEBLGDEC_00002_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00002;product=hypothetical protein
+k105_182407	prokka	gene	2588	2785	.	-	.	ID=NEBLGDEC_00003_gene;locus_tag=NEBLGDEC_00003
+k105_182407	Prodigal:002006	CDS	2588	2785	.	-	0	ID=NEBLGDEC_00003;Parent=NEBLGDEC_00003_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00003;product=hypothetical protein
+k105_184694	prokka	gene	107	469	.	+	.	ID=NEBLGDEC_00004_gene;locus_tag=NEBLGDEC_00004
+k105_184694	Prodigal:002006	CDS	107	469	.	+	0	ID=NEBLGDEC_00004;Parent=NEBLGDEC_00004_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00004;product=hypothetical protein
+k105_184694	prokka	gene	520	1224	.	+	.	ID=NEBLGDEC_00005_gene;locus_tag=NEBLGDEC_00005
+k105_184694	Prodigal:002006	CDS	520	1224	.	+	0	ID=NEBLGDEC_00005;Parent=NEBLGDEC_00005_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00005;product=hypothetical protein
+k105_184694	prokka	gene	1264	2556	.	+	.	ID=NEBLGDEC_00006_gene;locus_tag=NEBLGDEC_00006
+k105_184694	Prodigal:002006	CDS	1264	2556	.	+	0	ID=NEBLGDEC_00006;Parent=NEBLGDEC_00006_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00006;product=hypothetical protein
+k105_184694	prokka	gene	2540	3511	.	-	.	ID=NEBLGDEC_00007_gene;locus_tag=NEBLGDEC_00007
+k105_184694	Prodigal:002006	CDS	2540	3511	.	-	0	ID=NEBLGDEC_00007;Parent=NEBLGDEC_00007_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00007;product=hypothetical protein
+k105_189692	prokka	gene	37	666	.	-	.	ID=NEBLGDEC_00008_gene;locus_tag=NEBLGDEC_00008
+k105_189692	Prodigal:002006	CDS	37	666	.	-	0	ID=NEBLGDEC_00008;Parent=NEBLGDEC_00008_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00008;product=hypothetical protein
+k105_189692	prokka	gene	755	1066	.	+	.	ID=NEBLGDEC_00009_gene;locus_tag=NEBLGDEC_00009
+k105_189692	Prodigal:002006	CDS	755	1066	.	+	0	ID=NEBLGDEC_00009;Parent=NEBLGDEC_00009_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00009;product=hypothetical protein
+k105_189692	prokka	gene	1205	1411	.	+	.	ID=NEBLGDEC_00010_gene;locus_tag=NEBLGDEC_00010
+k105_189692	Prodigal:002006	CDS	1205	1411	.	+	0	ID=NEBLGDEC_00010;Parent=NEBLGDEC_00010_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00010;product=hypothetical protein
+k105_189692	prokka	gene	1746	2420	.	-	.	ID=NEBLGDEC_00011_gene;locus_tag=NEBLGDEC_00011
+k105_189692	Prodigal:002006	CDS	1746	2420	.	-	0	ID=NEBLGDEC_00011;Parent=NEBLGDEC_00011_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00011;product=hypothetical protein
+k105_189692	prokka	gene	2425	3486	.	-	.	ID=NEBLGDEC_00012_gene;locus_tag=NEBLGDEC_00012
+k105_189692	Prodigal:002006	CDS	2425	3486	.	-	0	ID=NEBLGDEC_00012;Parent=NEBLGDEC_00012_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00012;product=hypothetical protein
+k105_190408	prokka	gene	3	1850	.	+	.	ID=NEBLGDEC_00013_gene;Name=msbA;gene=msbA;locus_tag=NEBLGDEC_00013
+k105_190408	Prodigal:002006	CDS	3	1850	.	+	0	ID=NEBLGDEC_00013;Parent=NEBLGDEC_00013_gene;eC_number=7.5.2.6;Name=msbA;db_xref=COG:COG1132;gene=msbA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P63359;locus_tag=NEBLGDEC_00013;product=Lipid A export ATP-binding/permease protein MsbA
+k105_190408	prokka	gene	1855	2673	.	+	.	ID=NEBLGDEC_00014_gene;locus_tag=NEBLGDEC_00014
+k105_190408	Prodigal:002006	CDS	1855	2673	.	+	0	ID=NEBLGDEC_00014;Parent=NEBLGDEC_00014_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00014;product=hypothetical protein
+k105_190408	prokka	gene	2668	3264	.	-	.	ID=NEBLGDEC_00015_gene;locus_tag=NEBLGDEC_00015
+k105_190408	Prodigal:002006	CDS	2668	3264	.	-	0	ID=NEBLGDEC_00015;Parent=NEBLGDEC_00015_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00015;product=hypothetical protein
+k105_191409	prokka	gene	89	394	.	+	.	ID=NEBLGDEC_00016_gene;Name=accC;gene=accC;locus_tag=NEBLGDEC_00016
+k105_191409	Prodigal:002006	CDS	89	394	.	+	0	ID=NEBLGDEC_00016;Parent=NEBLGDEC_00016_gene;eC_number=6.3.4.14;Name=accC;db_xref=COG:COG0439;gene=accC;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P37798;locus_tag=NEBLGDEC_00016;product=Biotin carboxylase
+k105_191409	prokka	gene	406	1371	.	+	.	ID=NEBLGDEC_00017_gene;Name=RBKS;gene=RBKS;locus_tag=NEBLGDEC_00017
+k105_191409	Prodigal:002006	CDS	406	1371	.	+	0	ID=NEBLGDEC_00017;Parent=NEBLGDEC_00017_gene;eC_number=2.7.1.15;Name=RBKS;gene=RBKS;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01987;locus_tag=NEBLGDEC_00017;product=Ribokinase
+k105_191409	prokka	gene	1368	3095	.	-	.	ID=NEBLGDEC_00018_gene;locus_tag=NEBLGDEC_00018
+k105_191409	Prodigal:002006	CDS	1368	3095	.	-	0	ID=NEBLGDEC_00018;Parent=NEBLGDEC_00018_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00018;product=hypothetical protein
+k105_191409	prokka	gene	3190	3513	.	-	.	ID=NEBLGDEC_00019_gene;locus_tag=NEBLGDEC_00019
+k105_191409	Prodigal:002006	CDS	3190	3513	.	-	0	ID=NEBLGDEC_00019;Parent=NEBLGDEC_00019_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00019;product=hypothetical protein
+k105_192848	prokka	gene	296	1672	.	+	.	ID=NEBLGDEC_00020_gene;locus_tag=NEBLGDEC_00020
+k105_192848	Prodigal:002006	CDS	296	1672	.	+	0	ID=NEBLGDEC_00020;Parent=NEBLGDEC_00020_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00020;product=hypothetical protein
+k105_192848	prokka	gene	1685	1804	.	-	.	ID=NEBLGDEC_00021_gene;locus_tag=NEBLGDEC_00021
+k105_192848	Prodigal:002006	CDS	1685	1804	.	-	0	ID=NEBLGDEC_00021;Parent=NEBLGDEC_00021_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00021;product=hypothetical protein
+k105_192848	prokka	gene	1862	2494	.	-	.	ID=NEBLGDEC_00022_gene;locus_tag=NEBLGDEC_00022
+k105_192848	Prodigal:002006	CDS	1862	2494	.	-	0	ID=NEBLGDEC_00022;Parent=NEBLGDEC_00022_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00022;product=hypothetical protein
+k105_193470	prokka	gene	142	1353	.	+	.	ID=NEBLGDEC_00023_gene;locus_tag=NEBLGDEC_00023
+k105_193470	Prodigal:002006	CDS	142	1353	.	+	0	ID=NEBLGDEC_00023;Parent=NEBLGDEC_00023_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00023;product=hypothetical protein
+k105_193470	prokka	gene	1612	2202	.	+	.	ID=NEBLGDEC_00024_gene;locus_tag=NEBLGDEC_00024
+k105_193470	Prodigal:002006	CDS	1612	2202	.	+	0	ID=NEBLGDEC_00024;Parent=NEBLGDEC_00024_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00024;product=hypothetical protein
+k105_193470	prokka	gene	2227	2544	.	+	.	ID=NEBLGDEC_00025_gene;locus_tag=NEBLGDEC_00025
+k105_193470	Prodigal:002006	CDS	2227	2544	.	+	0	ID=NEBLGDEC_00025;Parent=NEBLGDEC_00025_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00025;product=hypothetical protein
+k105_193470	prokka	gene	2606	2788	.	+	.	ID=NEBLGDEC_00026_gene;locus_tag=NEBLGDEC_00026
+k105_193470	Prodigal:002006	CDS	2606	2788	.	+	0	ID=NEBLGDEC_00026;Parent=NEBLGDEC_00026_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00026;product=hypothetical protein
+k105_193470	prokka	gene	2940	3134	.	-	.	ID=NEBLGDEC_00027_gene;locus_tag=NEBLGDEC_00027
+k105_193470	Prodigal:002006	CDS	2940	3134	.	-	0	ID=NEBLGDEC_00027;Parent=NEBLGDEC_00027_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00027;product=hypothetical protein
+k105_195853	prokka	gene	250	3303	.	+	.	ID=NEBLGDEC_00028_gene;Name=mngB;gene=mngB;locus_tag=NEBLGDEC_00028
+k105_195853	Prodigal:002006	CDS	250	3303	.	+	0	ID=NEBLGDEC_00028;Parent=NEBLGDEC_00028_gene;eC_number=3.2.1.-;Name=mngB;db_xref=COG:COG0383;gene=mngB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P54746;locus_tag=NEBLGDEC_00028;product=Mannosylglycerate hydrolase
+k105_15424	prokka	gene	258	1127	.	+	.	ID=NEBLGDEC_00029_gene;locus_tag=NEBLGDEC_00029
+k105_15424	Prodigal:002006	CDS	258	1127	.	+	0	ID=NEBLGDEC_00029;Parent=NEBLGDEC_00029_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00029;product=hypothetical protein
+k105_15424	prokka	gene	1138	1488	.	+	.	ID=NEBLGDEC_00030_gene;locus_tag=NEBLGDEC_00030
+k105_15424	Prodigal:002006	CDS	1138	1488	.	+	0	ID=NEBLGDEC_00030;Parent=NEBLGDEC_00030_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00030;product=hypothetical protein
+k105_15424	prokka	gene	1497	2210	.	-	.	ID=NEBLGDEC_00031_gene;locus_tag=NEBLGDEC_00031
+k105_15424	Prodigal:002006	CDS	1497	2210	.	-	0	ID=NEBLGDEC_00031;Parent=NEBLGDEC_00031_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00031;product=hypothetical protein
+k105_15424	prokka	gene	2249	2977	.	+	.	ID=NEBLGDEC_00032_gene;locus_tag=NEBLGDEC_00032
+k105_15424	Prodigal:002006	CDS	2249	2977	.	+	0	ID=NEBLGDEC_00032;Parent=NEBLGDEC_00032_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00032;product=hypothetical protein
+k105_15424	prokka	gene	2978	3535	.	-	.	ID=NEBLGDEC_00033_gene;Name=orn;gene=orn;locus_tag=NEBLGDEC_00033
+k105_15424	Prodigal:002006	CDS	2978	3535	.	-	0	ID=NEBLGDEC_00033;Parent=NEBLGDEC_00033_gene;eC_number=3.1.-.-;Name=orn;db_xref=COG:COG1949;gene=orn;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A784;locus_tag=NEBLGDEC_00033;product=Oligoribonuclease
+k105_15424	prokka	gene	3594	4919	.	+	.	ID=NEBLGDEC_00034_gene;Name=entS;gene=entS;locus_tag=NEBLGDEC_00034
+k105_15424	Prodigal:002006	CDS	3594	4919	.	+	0	ID=NEBLGDEC_00034;Parent=NEBLGDEC_00034_gene;Name=entS;gene=entS;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01436;locus_tag=NEBLGDEC_00034;product=Enterobactin exporter EntS
+k105_15424	prokka	gene	5314	6114	.	-	.	ID=NEBLGDEC_00035_gene;locus_tag=NEBLGDEC_00035
+k105_15424	Prodigal:002006	CDS	5314	6114	.	-	0	ID=NEBLGDEC_00035;Parent=NEBLGDEC_00035_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00035;product=hypothetical protein
+k105_15424	prokka	gene	6128	6550	.	+	.	ID=NEBLGDEC_00036_gene;locus_tag=NEBLGDEC_00036
+k105_15424	Prodigal:002006	CDS	6128	6550	.	+	0	ID=NEBLGDEC_00036;Parent=NEBLGDEC_00036_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00036;product=hypothetical protein
+k105_15518	prokka	gene	65	1795	.	-	.	ID=NEBLGDEC_00037_gene;locus_tag=NEBLGDEC_00037
+k105_15518	Prodigal:002006	CDS	65	1795	.	-	0	ID=NEBLGDEC_00037;Parent=NEBLGDEC_00037_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00037;product=hypothetical protein
+k105_15518	prokka	gene	1979	3094	.	-	.	ID=NEBLGDEC_00038_gene;locus_tag=NEBLGDEC_00038
+k105_15518	Prodigal:002006	CDS	1979	3094	.	-	0	ID=NEBLGDEC_00038;Parent=NEBLGDEC_00038_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00038;product=hypothetical protein
+k105_197547	prokka	gene	95	1078	.	+	.	ID=NEBLGDEC_00039_gene;Name=purM;gene=purM;locus_tag=NEBLGDEC_00039
+k105_197547	Prodigal:002006	CDS	95	1078	.	+	0	ID=NEBLGDEC_00039;Parent=NEBLGDEC_00039_gene;eC_number=6.3.3.1;Name=purM;db_xref=COG:COG0150;gene=purM;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q5L3D0;locus_tag=NEBLGDEC_00039;product=Phosphoribosylformylglycinamidine cyclo-ligase
+k105_197547	prokka	gene	1114	2400	.	+	.	ID=NEBLGDEC_00040_gene;locus_tag=NEBLGDEC_00040
+k105_197547	Prodigal:002006	CDS	1114	2400	.	+	0	ID=NEBLGDEC_00040;Parent=NEBLGDEC_00040_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00040;product=hypothetical protein
+k105_16145	prokka	gene	75	581	.	+	.	ID=NEBLGDEC_00041_gene;locus_tag=NEBLGDEC_00041
+k105_16145	Prodigal:002006	CDS	75	581	.	+	0	ID=NEBLGDEC_00041;Parent=NEBLGDEC_00041_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00041;product=hypothetical protein
+k105_16145	prokka	gene	622	1101	.	+	.	ID=NEBLGDEC_00042_gene;locus_tag=NEBLGDEC_00042
+k105_16145	Prodigal:002006	CDS	622	1101	.	+	0	ID=NEBLGDEC_00042;Parent=NEBLGDEC_00042_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00042;product=hypothetical protein
+k105_16145	prokka	gene	1098	2345	.	+	.	ID=NEBLGDEC_00043_gene;Name=aspC_1;gene=aspC_1;locus_tag=NEBLGDEC_00043
+k105_16145	Prodigal:002006	CDS	1098	2345	.	+	0	ID=NEBLGDEC_00043;Parent=NEBLGDEC_00043_gene;eC_number=2.6.1.1;Name=aspC_1;db_xref=COG:COG0436;gene=aspC_1;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WQ91;locus_tag=NEBLGDEC_00043;product=putative aspartate aminotransferase
+k105_17082	prokka	gene	38	181	.	+	.	ID=NEBLGDEC_00044_gene;locus_tag=NEBLGDEC_00044
+k105_17082	Prodigal:002006	CDS	38	181	.	+	0	ID=NEBLGDEC_00044;Parent=NEBLGDEC_00044_gene;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q7A6L4;locus_tag=NEBLGDEC_00044;note=UPF0051 protein SA0778;product=hypothetical protein
+k105_17082	prokka	gene	198	1295	.	+	.	ID=NEBLGDEC_00045_gene;locus_tag=NEBLGDEC_00045
+k105_17082	Prodigal:002006	CDS	198	1295	.	+	0	ID=NEBLGDEC_00045;Parent=NEBLGDEC_00045_gene;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WFP5;locus_tag=NEBLGDEC_00045;note=UPF0051 protein Rv1462;product=hypothetical protein
+k105_17082	prokka	gene	1358	2584	.	+	.	ID=NEBLGDEC_00046_gene;Name=csd;gene=csd;locus_tag=NEBLGDEC_00046
+k105_17082	Prodigal:002006	CDS	1358	2584	.	+	0	ID=NEBLGDEC_00046;Parent=NEBLGDEC_00046_gene;eC_number=2.8.1.7;Name=csd;gene=csd;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q55793;locus_tag=NEBLGDEC_00046;product=putative cysteine desulfurase
+k105_17082	prokka	gene	2589	3005	.	+	.	ID=NEBLGDEC_00047_gene;Name=sufE;gene=sufE;locus_tag=NEBLGDEC_00047
+k105_17082	Prodigal:002006	CDS	2589	3005	.	+	0	ID=NEBLGDEC_00047;Parent=NEBLGDEC_00047_gene;Name=sufE;db_xref=COG:COG2166;gene=sufE;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8ZPQ1;locus_tag=NEBLGDEC_00047;product=Cysteine desulfuration protein SufE
+k105_17082	prokka	gene	3009	3311	.	+	.	ID=NEBLGDEC_00048_gene;Name=sufT;gene=sufT;locus_tag=NEBLGDEC_00048
+k105_17082	Prodigal:002006	CDS	3009	3311	.	+	0	ID=NEBLGDEC_00048;Parent=NEBLGDEC_00048_gene;Name=sufT;gene=sufT;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A0A0H2XI17;locus_tag=NEBLGDEC_00048;product=Fe-S protein maturation auxiliary factor SufT
+k105_17082	prokka	gene	3314	3511	.	-	.	ID=NEBLGDEC_00049_gene;locus_tag=NEBLGDEC_00049
+k105_17082	Prodigal:002006	CDS	3314	3511	.	-	0	ID=NEBLGDEC_00049;Parent=NEBLGDEC_00049_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00049;product=hypothetical protein
+k105_17082	prokka	gene	3514	4383	.	-	.	ID=NEBLGDEC_00050_gene;Name=folD;gene=folD;locus_tag=NEBLGDEC_00050
+k105_17082	Prodigal:002006	CDS	3514	4383	.	-	0	ID=NEBLGDEC_00050;Parent=NEBLGDEC_00050_gene;Name=folD;gene=folD;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q7A697;locus_tag=NEBLGDEC_00050;product=Bifunctional protein FolD protein
+k105_20632	prokka	gene	77	1366	.	-	.	ID=NEBLGDEC_00051_gene;Name=truD;gene=truD;locus_tag=NEBLGDEC_00051
+k105_20632	Prodigal:002006	CDS	77	1366	.	-	0	ID=NEBLGDEC_00051;Parent=NEBLGDEC_00051_gene;eC_number=5.4.99.27;Name=truD;gene=truD;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01082;locus_tag=NEBLGDEC_00051;product=tRNA pseudouridine synthase D
+k105_20632	prokka	gene	1320	2684	.	-	.	ID=NEBLGDEC_00052_gene;locus_tag=NEBLGDEC_00052
+k105_20632	Prodigal:002006	CDS	1320	2684	.	-	0	ID=NEBLGDEC_00052;Parent=NEBLGDEC_00052_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00052;product=hypothetical protein
+k105_20632	prokka	gene	2763	3506	.	+	.	ID=NEBLGDEC_00053_gene;locus_tag=NEBLGDEC_00053
+k105_20632	Prodigal:002006	CDS	2763	3506	.	+	0	ID=NEBLGDEC_00053;Parent=NEBLGDEC_00053_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00053;product=hypothetical protein
+k105_20632	prokka	gene	3781	4302	.	+	.	ID=NEBLGDEC_00054_gene;locus_tag=NEBLGDEC_00054
+k105_20632	Prodigal:002006	CDS	3781	4302	.	+	0	ID=NEBLGDEC_00054;Parent=NEBLGDEC_00054_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00054;product=hypothetical protein
+k105_20632	prokka	gene	4306	4752	.	-	.	ID=NEBLGDEC_00055_gene;Name=yhaH;gene=yhaH;locus_tag=NEBLGDEC_00055
+k105_20632	Prodigal:002006	CDS	4306	4752	.	-	0	ID=NEBLGDEC_00055;Parent=NEBLGDEC_00055_gene;Name=yhaH;db_xref=COG:COG3152;gene=yhaH;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P64590;locus_tag=NEBLGDEC_00055;product=Inner membrane protein YhaH
+k105_204944	prokka	gene	87	725	.	-	.	ID=NEBLGDEC_00056_gene;locus_tag=NEBLGDEC_00056
+k105_204944	Prodigal:002006	CDS	87	725	.	-	0	ID=NEBLGDEC_00056;Parent=NEBLGDEC_00056_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00056;product=hypothetical protein
+k105_204944	prokka	gene	726	1556	.	-	.	ID=NEBLGDEC_00057_gene;Name=icmF;gene=icmF;locus_tag=NEBLGDEC_00057
+k105_204944	Prodigal:002006	CDS	726	1556	.	-	0	ID=NEBLGDEC_00057;Parent=NEBLGDEC_00057_gene;eC_number=5.4.99.13;Name=icmF;gene=icmF;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_02050;locus_tag=NEBLGDEC_00057;product=Fused isobutyryl-CoA mutase
+k105_204944	prokka	gene	1559	1960	.	-	.	ID=NEBLGDEC_00058_gene;Name=mcm;gene=mcm;locus_tag=NEBLGDEC_00058
+k105_204944	Prodigal:002006	CDS	1559	1960	.	-	0	ID=NEBLGDEC_00058;Parent=NEBLGDEC_00058_gene;eC_number=5.4.99.2;Name=mcm;db_xref=COG:COG1884;gene=mcm;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q3J4D7;locus_tag=NEBLGDEC_00058;product=Methylmalonyl-CoA mutase
+k105_204944	prokka	gene	1963	2733	.	-	.	ID=NEBLGDEC_00059_gene;locus_tag=NEBLGDEC_00059
+k105_204944	Prodigal:002006	CDS	1963	2733	.	-	0	ID=NEBLGDEC_00059;Parent=NEBLGDEC_00059_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00059;product=hypothetical protein
+k105_204944	prokka	gene	2911	3057	.	-	.	ID=NEBLGDEC_00060_gene;locus_tag=NEBLGDEC_00060
+k105_204944	Prodigal:002006	CDS	2911	3057	.	-	0	ID=NEBLGDEC_00060;Parent=NEBLGDEC_00060_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00060;product=hypothetical protein
+k105_206570	prokka	gene	451	783	.	+	.	ID=NEBLGDEC_00061_gene;locus_tag=NEBLGDEC_00061
+k105_206570	Prodigal:002006	CDS	451	783	.	+	0	ID=NEBLGDEC_00061;Parent=NEBLGDEC_00061_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00061;product=hypothetical protein
+k105_206570	prokka	gene	907	1182	.	+	.	ID=NEBLGDEC_00062_gene;locus_tag=NEBLGDEC_00062
+k105_206570	Prodigal:002006	CDS	907	1182	.	+	0	ID=NEBLGDEC_00062;Parent=NEBLGDEC_00062_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00062;product=hypothetical protein
+k105_206570	prokka	gene	1626	2090	.	-	.	ID=NEBLGDEC_00063_gene;locus_tag=NEBLGDEC_00063
+k105_206570	Prodigal:002006	CDS	1626	2090	.	-	0	ID=NEBLGDEC_00063;Parent=NEBLGDEC_00063_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00063;product=hypothetical protein
+k105_206570	prokka	gene	2148	2969	.	-	.	ID=NEBLGDEC_00064_gene;locus_tag=NEBLGDEC_00064
+k105_206570	Prodigal:002006	CDS	2148	2969	.	-	0	ID=NEBLGDEC_00064;Parent=NEBLGDEC_00064_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00064;product=hypothetical protein
+k105_206570	prokka	gene	2975	3970	.	-	.	ID=NEBLGDEC_00065_gene;Name=pseB;gene=pseB;locus_tag=NEBLGDEC_00065
+k105_206570	Prodigal:002006	CDS	2975	3970	.	-	0	ID=NEBLGDEC_00065;Parent=NEBLGDEC_00065_gene;eC_number=4.2.1.115;Name=pseB;db_xref=COG:COG1086;gene=pseB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O25511;locus_tag=NEBLGDEC_00065;product=UDP-N-acetylglucosamine 4%2C6-dehydratase (inverting)
+k105_206570	prokka	gene	4086	4250	.	-	.	ID=NEBLGDEC_00066_gene;locus_tag=NEBLGDEC_00066
+k105_206570	Prodigal:002006	CDS	4086	4250	.	-	0	ID=NEBLGDEC_00066;Parent=NEBLGDEC_00066_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00066;product=hypothetical protein
+k105_24891	prokka	gene	67	573	.	+	.	ID=NEBLGDEC_00067_gene;locus_tag=NEBLGDEC_00067
+k105_24891	Prodigal:002006	CDS	67	573	.	+	0	ID=NEBLGDEC_00067;Parent=NEBLGDEC_00067_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00067;product=hypothetical protein
+k105_24891	prokka	gene	1099	1272	.	+	.	ID=NEBLGDEC_00068_gene;locus_tag=NEBLGDEC_00068
+k105_24891	Prodigal:002006	CDS	1099	1272	.	+	0	ID=NEBLGDEC_00068;Parent=NEBLGDEC_00068_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00068;product=hypothetical protein
+k105_24891	prokka	gene	1379	2236	.	-	.	ID=NEBLGDEC_00069_gene;locus_tag=NEBLGDEC_00069
+k105_24891	Prodigal:002006	CDS	1379	2236	.	-	0	ID=NEBLGDEC_00069;Parent=NEBLGDEC_00069_gene;eC_number=1.-.-.-;db_xref=COG:COG0656;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A0QV09;locus_tag=NEBLGDEC_00069;product=putative oxidoreductase/MSMEI_2346
+k105_24891	prokka	gene	2280	2549	.	-	.	ID=NEBLGDEC_00070_gene;locus_tag=NEBLGDEC_00070
+k105_24891	Prodigal:002006	CDS	2280	2549	.	-	0	ID=NEBLGDEC_00070;Parent=NEBLGDEC_00070_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00070;product=hypothetical protein
+k105_24891	prokka	gene	2620	3084	.	-	.	ID=NEBLGDEC_00071_gene;locus_tag=NEBLGDEC_00071
+k105_24891	Prodigal:002006	CDS	2620	3084	.	-	0	ID=NEBLGDEC_00071;Parent=NEBLGDEC_00071_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00071;product=hypothetical protein
+k105_24891	prokka	gene	3178	3366	.	-	.	ID=NEBLGDEC_00072_gene;locus_tag=NEBLGDEC_00072
+k105_24891	Prodigal:002006	CDS	3178	3366	.	-	0	ID=NEBLGDEC_00072;Parent=NEBLGDEC_00072_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00072;product=hypothetical protein
+k105_207464	prokka	gene	151	1554	.	-	.	ID=NEBLGDEC_00073_gene;locus_tag=NEBLGDEC_00073
+k105_207464	Prodigal:002006	CDS	151	1554	.	-	0	ID=NEBLGDEC_00073;Parent=NEBLGDEC_00073_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00073;product=hypothetical protein
+k105_207464	prokka	gene	1637	2464	.	-	.	ID=NEBLGDEC_00074_gene;locus_tag=NEBLGDEC_00074
+k105_207464	Prodigal:002006	CDS	1637	2464	.	-	0	ID=NEBLGDEC_00074;Parent=NEBLGDEC_00074_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00074;product=hypothetical protein
+k105_207464	prokka	gene	2620	2704	.	-	.	ID=NEBLGDEC_00075_gene;locus_tag=NEBLGDEC_00075
+k105_207464	Aragorn:001002	tRNA	2620	2704	.	-	.	ID=NEBLGDEC_00075;Parent=NEBLGDEC_00075_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00075;product=tRNA-Ser(tga)
+k105_207464	prokka	gene	2752	3102	.	-	.	ID=NEBLGDEC_00076_gene;locus_tag=NEBLGDEC_00076
+k105_207464	Prodigal:002006	CDS	2752	3102	.	-	0	ID=NEBLGDEC_00076;Parent=NEBLGDEC_00076_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00076;product=hypothetical protein
+k105_207464	prokka	gene	3112	3516	.	-	.	ID=NEBLGDEC_00077_gene;locus_tag=NEBLGDEC_00077
+k105_207464	Prodigal:002006	CDS	3112	3516	.	-	0	ID=NEBLGDEC_00077;Parent=NEBLGDEC_00077_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00077;product=hypothetical protein
+k105_209760	prokka	gene	371	985	.	-	.	ID=NEBLGDEC_00078_gene;locus_tag=NEBLGDEC_00078
+k105_209760	Prodigal:002006	CDS	371	985	.	-	0	ID=NEBLGDEC_00078;Parent=NEBLGDEC_00078_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00078;product=hypothetical protein
+k105_209760	prokka	gene	1027	2166	.	-	.	ID=NEBLGDEC_00079_gene;locus_tag=NEBLGDEC_00079
+k105_209760	Prodigal:002006	CDS	1027	2166	.	-	0	ID=NEBLGDEC_00079;Parent=NEBLGDEC_00079_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00079;product=hypothetical protein
+k105_209760	prokka	gene	2126	2545	.	-	.	ID=NEBLGDEC_00080_gene;locus_tag=NEBLGDEC_00080
+k105_209760	Prodigal:002006	CDS	2126	2545	.	-	0	ID=NEBLGDEC_00080;Parent=NEBLGDEC_00080_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00080;product=hypothetical protein
+k105_209760	prokka	gene	2627	3607	.	-	.	ID=NEBLGDEC_00081_gene;locus_tag=NEBLGDEC_00081
+k105_209760	Prodigal:002006	CDS	2627	3607	.	-	0	ID=NEBLGDEC_00081;Parent=NEBLGDEC_00081_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00081;product=hypothetical protein
+k105_209760	prokka	gene	3653	4135	.	-	.	ID=NEBLGDEC_00082_gene;locus_tag=NEBLGDEC_00082
+k105_209760	Prodigal:002006	CDS	3653	4135	.	-	0	ID=NEBLGDEC_00082;Parent=NEBLGDEC_00082_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00082;product=hypothetical protein
+k105_212571	prokka	gene	21	263	.	+	.	ID=NEBLGDEC_00083_gene;locus_tag=NEBLGDEC_00083
+k105_212571	Prodigal:002006	CDS	21	263	.	+	0	ID=NEBLGDEC_00083;Parent=NEBLGDEC_00083_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00083;product=hypothetical protein
+k105_212571	prokka	gene	260	2002	.	-	.	ID=NEBLGDEC_00084_gene;locus_tag=NEBLGDEC_00084
+k105_212571	Prodigal:002006	CDS	260	2002	.	-	0	ID=NEBLGDEC_00084;Parent=NEBLGDEC_00084_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00084;product=hypothetical protein
+k105_212571	prokka	gene	2054	2563	.	-	.	ID=NEBLGDEC_00085_gene;locus_tag=NEBLGDEC_00085
+k105_212571	Prodigal:002006	CDS	2054	2563	.	-	0	ID=NEBLGDEC_00085;Parent=NEBLGDEC_00085_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00085;product=hypothetical protein
+k105_32377	prokka	gene	57	1250	.	+	.	ID=NEBLGDEC_00086_gene;locus_tag=NEBLGDEC_00086
+k105_32377	Prodigal:002006	CDS	57	1250	.	+	0	ID=NEBLGDEC_00086;Parent=NEBLGDEC_00086_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00086;product=hypothetical protein
+k105_32377	prokka	gene	1252	1512	.	-	.	ID=NEBLGDEC_00087_gene;locus_tag=NEBLGDEC_00087
+k105_32377	Prodigal:002006	CDS	1252	1512	.	-	0	ID=NEBLGDEC_00087;Parent=NEBLGDEC_00087_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00087;product=hypothetical protein
+k105_32377	prokka	gene	1551	1763	.	-	.	ID=NEBLGDEC_00088_gene;locus_tag=NEBLGDEC_00088
+k105_32377	Prodigal:002006	CDS	1551	1763	.	-	0	ID=NEBLGDEC_00088;Parent=NEBLGDEC_00088_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00088;product=hypothetical protein
+k105_32377	prokka	gene	1750	3375	.	-	.	ID=NEBLGDEC_00089_gene;locus_tag=NEBLGDEC_00089
+k105_32377	Prodigal:002006	CDS	1750	3375	.	-	0	ID=NEBLGDEC_00089;Parent=NEBLGDEC_00089_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00089;product=hypothetical protein
+k105_219381	prokka	gene	71	628	.	+	.	ID=NEBLGDEC_00090_gene;locus_tag=NEBLGDEC_00090
+k105_219381	Prodigal:002006	CDS	71	628	.	+	0	ID=NEBLGDEC_00090;Parent=NEBLGDEC_00090_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00090;product=hypothetical protein
+k105_219381	prokka	gene	806	907	.	+	.	ID=NEBLGDEC_00091_gene;locus_tag=NEBLGDEC_00091
+k105_219381	Prodigal:002006	CDS	806	907	.	+	0	ID=NEBLGDEC_00091;Parent=NEBLGDEC_00091_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00091;product=hypothetical protein
+k105_219381	prokka	gene	1136	2206	.	+	.	ID=NEBLGDEC_00092_gene;locus_tag=NEBLGDEC_00092
+k105_219381	Prodigal:002006	CDS	1136	2206	.	+	0	ID=NEBLGDEC_00092;Parent=NEBLGDEC_00092_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00092;product=hypothetical protein
+k105_219381	prokka	gene	2558	3370	.	+	.	ID=NEBLGDEC_00093_gene;locus_tag=NEBLGDEC_00093
+k105_219381	Prodigal:002006	CDS	2558	3370	.	+	0	ID=NEBLGDEC_00093;Parent=NEBLGDEC_00093_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00093;product=hypothetical protein
+k105_219381	prokka	gene	4223	5011	.	-	.	ID=NEBLGDEC_00094_gene;Name=paaF;gene=paaF;locus_tag=NEBLGDEC_00094
+k105_219381	Prodigal:002006	CDS	4223	5011	.	-	0	ID=NEBLGDEC_00094;Parent=NEBLGDEC_00094_gene;eC_number=4.2.1.17;Name=paaF;db_xref=COG:COG1024;gene=paaF;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P76082;locus_tag=NEBLGDEC_00094;product=2%2C3-dehydroadipyl-CoA hydratase
+k105_37565	prokka	gene	38	1210	.	+	.	ID=NEBLGDEC_00095_gene;locus_tag=NEBLGDEC_00095
+k105_37565	Prodigal:002006	CDS	38	1210	.	+	0	ID=NEBLGDEC_00095;Parent=NEBLGDEC_00095_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00095;product=hypothetical protein
+k105_37565	prokka	gene	1274	2305	.	+	.	ID=NEBLGDEC_00096_gene;locus_tag=NEBLGDEC_00096
+k105_37565	Prodigal:002006	CDS	1274	2305	.	+	0	ID=NEBLGDEC_00096;Parent=NEBLGDEC_00096_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00096;product=hypothetical protein
+k105_37565	prokka	gene	2324	2479	.	+	.	ID=NEBLGDEC_00097_gene;locus_tag=NEBLGDEC_00097
+k105_37565	Prodigal:002006	CDS	2324	2479	.	+	0	ID=NEBLGDEC_00097;Parent=NEBLGDEC_00097_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00097;product=hypothetical protein
+k105_219631	prokka	gene	52	849	.	+	.	ID=NEBLGDEC_00098_gene;locus_tag=NEBLGDEC_00098
+k105_219631	Prodigal:002006	CDS	52	849	.	+	0	ID=NEBLGDEC_00098;Parent=NEBLGDEC_00098_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00098;product=hypothetical protein
+k105_219631	prokka	gene	859	1887	.	+	.	ID=NEBLGDEC_00099_gene;locus_tag=NEBLGDEC_00099
+k105_219631	Prodigal:002006	CDS	859	1887	.	+	0	ID=NEBLGDEC_00099;Parent=NEBLGDEC_00099_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00099;product=hypothetical protein
+k105_219631	prokka	gene	1850	2371	.	-	.	ID=NEBLGDEC_00100_gene;locus_tag=NEBLGDEC_00100
+k105_219631	Prodigal:002006	CDS	1850	2371	.	-	0	ID=NEBLGDEC_00100;Parent=NEBLGDEC_00100_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00100;product=hypothetical protein
+k105_219631	prokka	gene	2425	3666	.	-	.	ID=NEBLGDEC_00101_gene;locus_tag=NEBLGDEC_00101
+k105_219631	Prodigal:002006	CDS	2425	3666	.	-	0	ID=NEBLGDEC_00101;Parent=NEBLGDEC_00101_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00101;product=hypothetical protein
+k105_219854	prokka	gene	628	1620	.	+	.	ID=NEBLGDEC_00102_gene;locus_tag=NEBLGDEC_00102
+k105_219854	Prodigal:002006	CDS	628	1620	.	+	0	ID=NEBLGDEC_00102;Parent=NEBLGDEC_00102_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00102;product=hypothetical protein
+k105_219854	prokka	gene	2355	3149	.	-	.	ID=NEBLGDEC_00103_gene;Name=arnC;gene=arnC;locus_tag=NEBLGDEC_00103
+k105_219854	Prodigal:002006	CDS	2355	3149	.	-	0	ID=NEBLGDEC_00103;Parent=NEBLGDEC_00103_gene;eC_number=2.4.2.53;Name=arnC;gene=arnC;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01164;locus_tag=NEBLGDEC_00103;product=Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+k105_219854	prokka	gene	3218	4495	.	+	.	ID=NEBLGDEC_00104_gene;locus_tag=NEBLGDEC_00104
+k105_219854	Prodigal:002006	CDS	3218	4495	.	+	0	ID=NEBLGDEC_00104;Parent=NEBLGDEC_00104_gene;eC_number=2.4.1.11;db_xref=COG:COG0438;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WMY9;locus_tag=NEBLGDEC_00104;product=Glycogen synthase
+k105_220625	prokka	gene	64	240	.	+	.	ID=NEBLGDEC_00105_gene;locus_tag=NEBLGDEC_00105
+k105_220625	Prodigal:002006	CDS	64	240	.	+	0	ID=NEBLGDEC_00105;Parent=NEBLGDEC_00105_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00105;product=hypothetical protein
+k105_220625	prokka	gene	246	668	.	-	.	ID=NEBLGDEC_00106_gene;Name=lrp;gene=lrp;locus_tag=NEBLGDEC_00106
+k105_220625	Prodigal:002006	CDS	246	668	.	-	0	ID=NEBLGDEC_00106;Parent=NEBLGDEC_00106_gene;Name=lrp;db_xref=COG:COG1522;gene=lrp;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ACJ0;locus_tag=NEBLGDEC_00106;product=Leucine-responsive regulatory protein
+k105_220625	prokka	gene	858	1259	.	+	.	ID=NEBLGDEC_00107_gene;locus_tag=NEBLGDEC_00107
+k105_220625	Prodigal:002006	CDS	858	1259	.	+	0	ID=NEBLGDEC_00107;Parent=NEBLGDEC_00107_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00107;product=hypothetical protein
+k105_220625	prokka	gene	1317	2570	.	+	.	ID=NEBLGDEC_00108_gene;Name=eno;gene=eno;locus_tag=NEBLGDEC_00108
+k105_220625	Prodigal:002006	CDS	1317	2570	.	+	0	ID=NEBLGDEC_00108;Parent=NEBLGDEC_00108_gene;eC_number=4.2.1.11;Name=eno;db_xref=COG:COG0148;gene=eno;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P42848;locus_tag=NEBLGDEC_00108;product=Enolase
+k105_220625	prokka	gene	2576	3412	.	-	.	ID=NEBLGDEC_00109_gene;locus_tag=NEBLGDEC_00109
+k105_220625	Prodigal:002006	CDS	2576	3412	.	-	0	ID=NEBLGDEC_00109;Parent=NEBLGDEC_00109_gene;eC_number=2.6.1.1;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P23034;locus_tag=NEBLGDEC_00109;product=Aspartate aminotransferase
+k105_221823	prokka	gene	299	823	.	-	.	ID=NEBLGDEC_00110_gene;locus_tag=NEBLGDEC_00110
+k105_221823	Prodigal:002006	CDS	299	823	.	-	0	ID=NEBLGDEC_00110;Parent=NEBLGDEC_00110_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00110;product=hypothetical protein
+k105_221823	prokka	gene	872	2020	.	-	.	ID=NEBLGDEC_00111_gene;Name=bcd;gene=bcd;locus_tag=NEBLGDEC_00111
+k105_221823	Prodigal:002006	CDS	872	2020	.	-	0	ID=NEBLGDEC_00111;Parent=NEBLGDEC_00111_gene;eC_number=1.3.8.1;Name=bcd;db_xref=COG:COG1960;gene=bcd;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P52042;locus_tag=NEBLGDEC_00111;product=Acyl-CoA dehydrogenase%2C short-chain specific
+k105_221823	prokka	gene	2117	3103	.	-	.	ID=NEBLGDEC_00112_gene;Name=bfmBAB;gene=bfmBAB;locus_tag=NEBLGDEC_00112
+k105_221823	Prodigal:002006	CDS	2117	3103	.	-	0	ID=NEBLGDEC_00112;Parent=NEBLGDEC_00112_gene;eC_number=1.2.4.4;Name=bfmBAB;db_xref=COG:COG0022;gene=bfmBAB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P37941;locus_tag=NEBLGDEC_00112;product=2-oxoisovalerate dehydrogenase subunit beta
+k105_222078	prokka	gene	70	834	.	+	.	ID=NEBLGDEC_00113_gene;locus_tag=NEBLGDEC_00113
+k105_222078	Prodigal:002006	CDS	70	834	.	+	0	ID=NEBLGDEC_00113;Parent=NEBLGDEC_00113_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00113;product=hypothetical protein
+k105_222078	prokka	gene	951	1418	.	+	.	ID=NEBLGDEC_00114_gene;locus_tag=NEBLGDEC_00114
+k105_222078	Prodigal:002006	CDS	951	1418	.	+	0	ID=NEBLGDEC_00114;Parent=NEBLGDEC_00114_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00114;product=hypothetical protein
+k105_222078	prokka	gene	1436	2029	.	+	.	ID=NEBLGDEC_00115_gene;locus_tag=NEBLGDEC_00115
+k105_222078	Prodigal:002006	CDS	1436	2029	.	+	0	ID=NEBLGDEC_00115;Parent=NEBLGDEC_00115_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00115;product=hypothetical protein
+k105_222078	prokka	gene	2029	2412	.	+	.	ID=NEBLGDEC_00116_gene;Name=rpsK;gene=rpsK;locus_tag=NEBLGDEC_00116
+k105_222078	Prodigal:002006	CDS	2029	2412	.	+	0	ID=NEBLGDEC_00116;Parent=NEBLGDEC_00116_gene;Name=rpsK;db_xref=COG:COG0100;gene=rpsK;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A7R9;locus_tag=NEBLGDEC_00116;product=30S ribosomal protein S11
+k105_41390	prokka	gene	229	624	.	+	.	ID=NEBLGDEC_00117_gene;locus_tag=NEBLGDEC_00117
+k105_41390	Prodigal:002006	CDS	229	624	.	+	0	ID=NEBLGDEC_00117;Parent=NEBLGDEC_00117_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00117;product=hypothetical protein
+k105_41390	prokka	gene	740	1855	.	+	.	ID=NEBLGDEC_00118_gene;locus_tag=NEBLGDEC_00118
+k105_41390	Prodigal:002006	CDS	740	1855	.	+	0	ID=NEBLGDEC_00118;Parent=NEBLGDEC_00118_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00118;product=hypothetical protein
+k105_41390	prokka	gene	1866	3185	.	+	.	ID=NEBLGDEC_00119_gene;locus_tag=NEBLGDEC_00119
+k105_41390	Prodigal:002006	CDS	1866	3185	.	+	0	ID=NEBLGDEC_00119;Parent=NEBLGDEC_00119_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00119;product=hypothetical protein
+k105_41390	prokka	gene	3153	3578	.	-	.	ID=NEBLGDEC_00120_gene;locus_tag=NEBLGDEC_00120
+k105_41390	Prodigal:002006	CDS	3153	3578	.	-	0	ID=NEBLGDEC_00120;Parent=NEBLGDEC_00120_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00120;product=hypothetical protein
+k105_41390	prokka	gene	3589	3900	.	-	.	ID=NEBLGDEC_00121_gene;locus_tag=NEBLGDEC_00121
+k105_41390	Prodigal:002006	CDS	3589	3900	.	-	0	ID=NEBLGDEC_00121;Parent=NEBLGDEC_00121_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00121;product=hypothetical protein
+k105_223805	prokka	gene	65	625	.	+	.	ID=NEBLGDEC_00122_gene;locus_tag=NEBLGDEC_00122
+k105_223805	Prodigal:002006	CDS	65	625	.	+	0	ID=NEBLGDEC_00122;Parent=NEBLGDEC_00122_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00122;product=hypothetical protein
+k105_223805	prokka	gene	650	973	.	+	.	ID=NEBLGDEC_00123_gene;locus_tag=NEBLGDEC_00123
+k105_223805	Prodigal:002006	CDS	650	973	.	+	0	ID=NEBLGDEC_00123;Parent=NEBLGDEC_00123_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00123;product=hypothetical protein
+k105_223805	prokka	gene	977	1735	.	-	.	ID=NEBLGDEC_00124_gene;locus_tag=NEBLGDEC_00124
+k105_223805	Prodigal:002006	CDS	977	1735	.	-	0	ID=NEBLGDEC_00124;Parent=NEBLGDEC_00124_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00124;product=hypothetical protein
+k105_223805	prokka	gene	1790	2932	.	+	.	ID=NEBLGDEC_00125_gene;Name=moeA;gene=moeA;locus_tag=NEBLGDEC_00125
+k105_223805	Prodigal:002006	CDS	1790	2932	.	+	0	ID=NEBLGDEC_00125;Parent=NEBLGDEC_00125_gene;eC_number=2.10.1.1;Name=moeA;db_xref=COG:COG0303;gene=moeA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P12281;locus_tag=NEBLGDEC_00125;product=Molybdopterin molybdenumtransferase
+k105_223805	prokka	gene	2970	5930	.	+	.	ID=NEBLGDEC_00126_gene;Name=uvrA;gene=uvrA;locus_tag=NEBLGDEC_00126
+k105_223805	Prodigal:002006	CDS	2970	5930	.	+	0	ID=NEBLGDEC_00126;Parent=NEBLGDEC_00126_gene;Name=uvrA;gene=uvrA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P63383;locus_tag=NEBLGDEC_00126;product=UvrABC system protein A
+k105_223951	prokka	gene	20	2875	.	+	.	ID=NEBLGDEC_00127_gene;locus_tag=NEBLGDEC_00127
+k105_223951	Prodigal:002006	CDS	20	2875	.	+	0	ID=NEBLGDEC_00127;Parent=NEBLGDEC_00127_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00127;product=hypothetical protein
+k105_42179	prokka	gene	220	957	.	+	.	ID=NEBLGDEC_00128_gene;locus_tag=NEBLGDEC_00128
+k105_42179	Prodigal:002006	CDS	220	957	.	+	0	ID=NEBLGDEC_00128;Parent=NEBLGDEC_00128_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00128;product=hypothetical protein
+k105_42179	prokka	gene	954	2168	.	-	.	ID=NEBLGDEC_00129_gene;locus_tag=NEBLGDEC_00129
+k105_42179	Prodigal:002006	CDS	954	2168	.	-	0	ID=NEBLGDEC_00129;Parent=NEBLGDEC_00129_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00129;product=hypothetical protein
+k105_42179	prokka	gene	2180	2296	.	-	.	ID=NEBLGDEC_00130_gene;locus_tag=NEBLGDEC_00130
+k105_42179	Prodigal:002006	CDS	2180	2296	.	-	0	ID=NEBLGDEC_00130;Parent=NEBLGDEC_00130_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00130;product=hypothetical protein
+k105_42179	prokka	gene	2286	2627	.	-	.	ID=NEBLGDEC_00131_gene;locus_tag=NEBLGDEC_00131
+k105_42179	Prodigal:002006	CDS	2286	2627	.	-	0	ID=NEBLGDEC_00131;Parent=NEBLGDEC_00131_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00131;product=hypothetical protein
+k105_49160	prokka	gene	119	1567	.	+	.	ID=NEBLGDEC_00132_gene;locus_tag=NEBLGDEC_00132
+k105_49160	Prodigal:002006	CDS	119	1567	.	+	0	ID=NEBLGDEC_00132;Parent=NEBLGDEC_00132_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00132;product=hypothetical protein
+k105_49160	prokka	gene	1535	3370	.	-	.	ID=NEBLGDEC_00133_gene;locus_tag=NEBLGDEC_00133
+k105_49160	Prodigal:002006	CDS	1535	3370	.	-	0	ID=NEBLGDEC_00133;Parent=NEBLGDEC_00133_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00133;product=hypothetical protein
+k105_49404	prokka	gene	3	170	.	+	.	ID=NEBLGDEC_00134_gene;locus_tag=NEBLGDEC_00134
+k105_49404	Prodigal:002006	CDS	3	170	.	+	0	ID=NEBLGDEC_00134;Parent=NEBLGDEC_00134_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00134;product=hypothetical protein
+k105_49404	prokka	gene	164	4366	.	-	.	ID=NEBLGDEC_00135_gene;locus_tag=NEBLGDEC_00135
+k105_49404	Prodigal:002006	CDS	164	4366	.	-	0	ID=NEBLGDEC_00135;Parent=NEBLGDEC_00135_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00135;product=hypothetical protein
+k105_232849	prokka	gene	60	785	.	+	.	ID=NEBLGDEC_00136_gene;Name=fmt;gene=fmt;locus_tag=NEBLGDEC_00136
+k105_232849	Prodigal:002006	CDS	60	785	.	+	0	ID=NEBLGDEC_00136;Parent=NEBLGDEC_00136_gene;eC_number=2.1.2.9;Name=fmt;gene=fmt;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00182;locus_tag=NEBLGDEC_00136;product=Methionyl-tRNA formyltransferase
+k105_232849	prokka	gene	795	1556	.	+	.	ID=NEBLGDEC_00137_gene;Name=fabG;gene=fabG;locus_tag=NEBLGDEC_00137
+k105_232849	Prodigal:002006	CDS	795	1556	.	+	0	ID=NEBLGDEC_00137;Parent=NEBLGDEC_00137_gene;eC_number=1.1.1.100;Name=fabG;gene=fabG;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9KQH7;locus_tag=NEBLGDEC_00137;product=3-oxoacyl-[acyl-carrier-protein] reductase FabG
+k105_232849	prokka	gene	1639	2781	.	+	.	ID=NEBLGDEC_00138_gene;locus_tag=NEBLGDEC_00138
+k105_232849	Prodigal:002006	CDS	1639	2781	.	+	0	ID=NEBLGDEC_00138;Parent=NEBLGDEC_00138_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00138;product=hypothetical protein
+k105_51106	prokka	gene	1114	1590	.	-	.	ID=NEBLGDEC_00139_gene;locus_tag=NEBLGDEC_00139
+k105_51106	Prodigal:002006	CDS	1114	1590	.	-	0	ID=NEBLGDEC_00139;Parent=NEBLGDEC_00139_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00139;product=hypothetical protein
+k105_51106	prokka	gene	1562	2887	.	-	.	ID=NEBLGDEC_00140_gene;locus_tag=NEBLGDEC_00140
+k105_51106	Prodigal:002006	CDS	1562	2887	.	-	0	ID=NEBLGDEC_00140;Parent=NEBLGDEC_00140_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00140;product=hypothetical protein
+k105_236598	prokka	gene	145	444	.	-	.	ID=NEBLGDEC_00141_gene;locus_tag=NEBLGDEC_00141
+k105_236598	Prodigal:002006	CDS	145	444	.	-	0	ID=NEBLGDEC_00141;Parent=NEBLGDEC_00141_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00141;product=hypothetical protein
+k105_236598	prokka	gene	488	823	.	-	.	ID=NEBLGDEC_00142_gene;Name=rsxB;gene=rsxB;locus_tag=NEBLGDEC_00142
+k105_236598	Prodigal:002006	CDS	488	823	.	-	0	ID=NEBLGDEC_00142;Parent=NEBLGDEC_00142_gene;eC_number=7.-.-.-;Name=rsxB;gene=rsxB;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00463;locus_tag=NEBLGDEC_00142;product=Ion-translocating oxidoreductase complex subunit B
+k105_236598	prokka	gene	863	1105	.	-	.	ID=NEBLGDEC_00143_gene;locus_tag=NEBLGDEC_00143
+k105_236598	Prodigal:002006	CDS	863	1105	.	-	0	ID=NEBLGDEC_00143;Parent=NEBLGDEC_00143_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00143;product=hypothetical protein
+k105_236598	prokka	gene	1098	3380	.	-	.	ID=NEBLGDEC_00144_gene;Name=lutA;gene=lutA;locus_tag=NEBLGDEC_00144
+k105_236598	Prodigal:002006	CDS	1098	3380	.	-	0	ID=NEBLGDEC_00144;Parent=NEBLGDEC_00144_gene;Name=lutA;gene=lutA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_02105;locus_tag=NEBLGDEC_00144;product=Lactate utilization protein A
+k105_236627	prokka	gene	643	1533	.	+	.	ID=NEBLGDEC_00145_gene;locus_tag=NEBLGDEC_00145
+k105_236627	Prodigal:002006	CDS	643	1533	.	+	0	ID=NEBLGDEC_00145;Parent=NEBLGDEC_00145_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00145;product=hypothetical protein
+k105_236627	prokka	gene	1725	1946	.	+	.	ID=NEBLGDEC_00146_gene;locus_tag=NEBLGDEC_00146
+k105_236627	Prodigal:002006	CDS	1725	1946	.	+	0	ID=NEBLGDEC_00146;Parent=NEBLGDEC_00146_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00146;product=hypothetical protein
+k105_236627	prokka	gene	1958	2551	.	-	.	ID=NEBLGDEC_00147_gene;locus_tag=NEBLGDEC_00147
+k105_236627	Prodigal:002006	CDS	1958	2551	.	-	0	ID=NEBLGDEC_00147;Parent=NEBLGDEC_00147_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00147;product=hypothetical protein
+k105_236627	prokka	gene	2548	3234	.	-	.	ID=NEBLGDEC_00148_gene;locus_tag=NEBLGDEC_00148
+k105_236627	Prodigal:002006	CDS	2548	3234	.	-	0	ID=NEBLGDEC_00148;Parent=NEBLGDEC_00148_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00148;product=hypothetical protein
+k105_236627	prokka	gene	3224	3577	.	-	.	ID=NEBLGDEC_00149_gene;locus_tag=NEBLGDEC_00149
+k105_236627	Prodigal:002006	CDS	3224	3577	.	-	0	ID=NEBLGDEC_00149;Parent=NEBLGDEC_00149_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00149;product=hypothetical protein
+k105_53971	prokka	gene	162	1328	.	-	.	ID=NEBLGDEC_00150_gene;locus_tag=NEBLGDEC_00150
+k105_53971	Prodigal:002006	CDS	162	1328	.	-	0	ID=NEBLGDEC_00150;Parent=NEBLGDEC_00150_gene;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q75XW3;locus_tag=NEBLGDEC_00150;product=Ca(2+)/H(+) antiporter
+k105_53971	prokka	gene	1369	2367	.	-	.	ID=NEBLGDEC_00151_gene;locus_tag=NEBLGDEC_00151
+k105_53971	Prodigal:002006	CDS	1369	2367	.	-	0	ID=NEBLGDEC_00151;Parent=NEBLGDEC_00151_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00151;product=hypothetical protein
+k105_53971	prokka	gene	2377	3639	.	-	.	ID=NEBLGDEC_00152_gene;locus_tag=NEBLGDEC_00152
+k105_53971	Prodigal:002006	CDS	2377	3639	.	-	0	ID=NEBLGDEC_00152;Parent=NEBLGDEC_00152_gene;eC_number=3.5.4.32;db_xref=COG:COG0402;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9I6Z0;locus_tag=NEBLGDEC_00152;product=8-oxoguanine deaminase
+k105_53971	prokka	gene	3646	4335	.	-	.	ID=NEBLGDEC_00153_gene;locus_tag=NEBLGDEC_00153
+k105_53971	Prodigal:002006	CDS	3646	4335	.	-	0	ID=NEBLGDEC_00153;Parent=NEBLGDEC_00153_gene;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q5XDZ5;locus_tag=NEBLGDEC_00153;product=putative protein
+k105_54085	prokka	gene	63	704	.	+	.	ID=NEBLGDEC_00154_gene;locus_tag=NEBLGDEC_00154
+k105_54085	Prodigal:002006	CDS	63	704	.	+	0	ID=NEBLGDEC_00154;Parent=NEBLGDEC_00154_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00154;product=hypothetical protein
+k105_54085	prokka	gene	701	3022	.	-	.	ID=NEBLGDEC_00155_gene;locus_tag=NEBLGDEC_00155
+k105_54085	Prodigal:002006	CDS	701	3022	.	-	0	ID=NEBLGDEC_00155;Parent=NEBLGDEC_00155_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00155;product=hypothetical protein
+k105_57697	prokka	gene	67	3255	.	+	.	ID=NEBLGDEC_00156_gene;locus_tag=NEBLGDEC_00156
+k105_57697	Prodigal:002006	CDS	67	3255	.	+	0	ID=NEBLGDEC_00156;Parent=NEBLGDEC_00156_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00156;product=hypothetical protein
+k105_58320	prokka	gene	489	2543	.	-	.	ID=NEBLGDEC_00157_gene;Name=TOP6B;gene=TOP6B;locus_tag=NEBLGDEC_00157
+k105_58320	Prodigal:002006	CDS	489	2543	.	-	0	ID=NEBLGDEC_00157;Parent=NEBLGDEC_00157_gene;eC_number=5.6.2.2;Name=TOP6B;gene=TOP6B;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00322;locus_tag=NEBLGDEC_00157;product=DNA topoisomerase 6 subunit B
+k105_58320	prokka	gene	2630	3355	.	-	.	ID=NEBLGDEC_00158_gene;locus_tag=NEBLGDEC_00158
+k105_58320	Prodigal:002006	CDS	2630	3355	.	-	0	ID=NEBLGDEC_00158;Parent=NEBLGDEC_00158_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00158;product=hypothetical protein
+k105_58320	prokka	gene	3360	5354	.	-	.	ID=NEBLGDEC_00159_gene;Name=leuC;gene=leuC;locus_tag=NEBLGDEC_00159
+k105_58320	Prodigal:002006	CDS	3360	5354	.	-	0	ID=NEBLGDEC_00159;Parent=NEBLGDEC_00159_gene;eC_number=4.2.1.33;Name=leuC;gene=leuC;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01027;locus_tag=NEBLGDEC_00159;product=3-isopropylmalate dehydratase large subunit
+k105_60026	prokka	gene	154	1983	.	+	.	ID=NEBLGDEC_00160_gene;locus_tag=NEBLGDEC_00160
+k105_60026	Prodigal:002006	CDS	154	1983	.	+	0	ID=NEBLGDEC_00160;Parent=NEBLGDEC_00160_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00160;product=hypothetical protein
+k105_60026	prokka	gene	2013	2189	.	+	.	ID=NEBLGDEC_00161_gene;locus_tag=NEBLGDEC_00161
+k105_60026	Prodigal:002006	CDS	2013	2189	.	+	0	ID=NEBLGDEC_00161;Parent=NEBLGDEC_00161_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00161;product=hypothetical protein
+k105_60026	prokka	gene	3073	4218	.	+	.	ID=NEBLGDEC_00162_gene;locus_tag=NEBLGDEC_00162
+k105_60026	Prodigal:002006	CDS	3073	4218	.	+	0	ID=NEBLGDEC_00162;Parent=NEBLGDEC_00162_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00162;product=hypothetical protein
+k105_60026	prokka	gene	4417	5763	.	+	.	ID=NEBLGDEC_00163_gene;locus_tag=NEBLGDEC_00163
+k105_60026	Prodigal:002006	CDS	4417	5763	.	+	0	ID=NEBLGDEC_00163;Parent=NEBLGDEC_00163_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00163;product=hypothetical protein
+k105_62779	prokka	gene	82	627	.	+	.	ID=NEBLGDEC_00164_gene;Name=lacA;gene=lacA;locus_tag=NEBLGDEC_00164
+k105_62779	Prodigal:002006	CDS	82	627	.	+	0	ID=NEBLGDEC_00164;Parent=NEBLGDEC_00164_gene;eC_number=2.3.1.18;Name=lacA;db_xref=COG:COG0110;gene=lacA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P07464;locus_tag=NEBLGDEC_00164;product=Galactoside O-acetyltransferase
+k105_62779	prokka	gene	601	1434	.	-	.	ID=NEBLGDEC_00165_gene;Name=psd;gene=psd;locus_tag=NEBLGDEC_00165
+k105_62779	Prodigal:002006	CDS	601	1434	.	-	0	ID=NEBLGDEC_00165;Parent=NEBLGDEC_00165_gene;eC_number=4.1.1.65;Name=psd;db_xref=COG:COG0688;gene=psd;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WHQ5;locus_tag=NEBLGDEC_00165;product=Phosphatidylserine decarboxylase proenzyme
+k105_62779	prokka	gene	1440	2051	.	-	.	ID=NEBLGDEC_00166_gene;locus_tag=NEBLGDEC_00166
+k105_62779	Prodigal:002006	CDS	1440	2051	.	-	0	ID=NEBLGDEC_00166;Parent=NEBLGDEC_00166_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00166;product=hypothetical protein
+k105_62779	prokka	gene	2135	3547	.	-	.	ID=NEBLGDEC_00167_gene;locus_tag=NEBLGDEC_00167
+k105_62779	Prodigal:002006	CDS	2135	3547	.	-	0	ID=NEBLGDEC_00167;Parent=NEBLGDEC_00167_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00167;product=hypothetical protein
+k105_62779	prokka	gene	3650	4255	.	+	.	ID=NEBLGDEC_00168_gene;Name=tam;gene=tam;locus_tag=NEBLGDEC_00168
+k105_62779	Prodigal:002006	CDS	3650	4255	.	+	0	ID=NEBLGDEC_00168;Parent=NEBLGDEC_00168_gene;eC_number=2.1.1.144;Name=tam;gene=tam;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00560;locus_tag=NEBLGDEC_00168;product=Trans-aconitate 2-methyltransferase
+k105_62779	prokka	gene	4238	4666	.	-	.	ID=NEBLGDEC_00169_gene;locus_tag=NEBLGDEC_00169
+k105_62779	Prodigal:002006	CDS	4238	4666	.	-	0	ID=NEBLGDEC_00169;Parent=NEBLGDEC_00169_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00169;product=hypothetical protein
+k105_65919	prokka	gene	61	450	.	-	.	ID=NEBLGDEC_00170_gene;locus_tag=NEBLGDEC_00170
+k105_65919	Prodigal:002006	CDS	61	450	.	-	0	ID=NEBLGDEC_00170;Parent=NEBLGDEC_00170_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00170;product=hypothetical protein
+k105_65919	prokka	gene	460	969	.	-	.	ID=NEBLGDEC_00171_gene;locus_tag=NEBLGDEC_00171
+k105_65919	Prodigal:002006	CDS	460	969	.	-	0	ID=NEBLGDEC_00171;Parent=NEBLGDEC_00171_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00171;product=hypothetical protein
+k105_65919	prokka	gene	1034	3790	.	-	.	ID=NEBLGDEC_00172_gene;Name=copA;gene=copA;locus_tag=NEBLGDEC_00172
+k105_65919	Prodigal:002006	CDS	1034	3790	.	-	0	ID=NEBLGDEC_00172;Parent=NEBLGDEC_00172_gene;eC_number=7.2.2.8;Name=copA;db_xref=COG:COG2217;gene=copA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O32220;locus_tag=NEBLGDEC_00172;product=Copper-exporting P-type ATPase
+k105_65919	prokka	gene	3846	4598	.	+	.	ID=NEBLGDEC_00173_gene;Name=ycsE;gene=ycsE;locus_tag=NEBLGDEC_00173
+k105_65919	Prodigal:002006	CDS	3846	4598	.	+	0	ID=NEBLGDEC_00173;Parent=NEBLGDEC_00173_gene;eC_number=3.1.3.104;Name=ycsE;gene=ycsE;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P42962;locus_tag=NEBLGDEC_00173;product=5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+k105_67630	prokka	gene	81	827	.	+	.	ID=NEBLGDEC_00174_gene;locus_tag=NEBLGDEC_00174
+k105_67630	Prodigal:002006	CDS	81	827	.	+	0	ID=NEBLGDEC_00174;Parent=NEBLGDEC_00174_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00174;product=hypothetical protein
+k105_67630	prokka	gene	853	927	.	-	.	ID=NEBLGDEC_00175_gene;locus_tag=NEBLGDEC_00175
+k105_67630	Aragorn:001002	tRNA	853	927	.	-	.	ID=NEBLGDEC_00175;Parent=NEBLGDEC_00175_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00175;product=tRNA-Phe(gaa)
+k105_67630	prokka	gene	978	1799	.	-	.	ID=NEBLGDEC_00176_gene;Name=rph;gene=rph;locus_tag=NEBLGDEC_00176
+k105_67630	Prodigal:002006	CDS	978	1799	.	-	0	ID=NEBLGDEC_00176;Parent=NEBLGDEC_00176_gene;eC_number=2.7.7.56;Name=rph;db_xref=COG:COG0689;gene=rph;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q81LA9;locus_tag=NEBLGDEC_00176;product=Ribonuclease PH
+k105_67630	prokka	gene	1826	2410	.	-	.	ID=NEBLGDEC_00177_gene;Name=mog;gene=mog;locus_tag=NEBLGDEC_00177
+k105_67630	Prodigal:002006	CDS	1826	2410	.	-	0	ID=NEBLGDEC_00177;Parent=NEBLGDEC_00177_gene;eC_number=2.7.7.75;Name=mog;db_xref=COG:COG0521;gene=mog;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9ZL45;locus_tag=NEBLGDEC_00177;product=Molybdopterin adenylyltransferase
+k105_67630	prokka	gene	2428	3027	.	-	.	ID=NEBLGDEC_00178_gene;locus_tag=NEBLGDEC_00178
+k105_67630	Prodigal:002006	CDS	2428	3027	.	-	0	ID=NEBLGDEC_00178;Parent=NEBLGDEC_00178_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00178;product=hypothetical protein
+k105_74902	prokka	gene	44	532	.	+	.	ID=NEBLGDEC_00179_gene;locus_tag=NEBLGDEC_00179
+k105_74902	Prodigal:002006	CDS	44	532	.	+	0	ID=NEBLGDEC_00179;Parent=NEBLGDEC_00179_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00179;product=hypothetical protein
+k105_74902	prokka	gene	642	893	.	+	.	ID=NEBLGDEC_00180_gene;locus_tag=NEBLGDEC_00180
+k105_74902	Prodigal:002006	CDS	642	893	.	+	0	ID=NEBLGDEC_00180;Parent=NEBLGDEC_00180_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00180;product=hypothetical protein
+k105_74902	prokka	gene	895	1839	.	-	.	ID=NEBLGDEC_00181_gene;Name=ruvB;gene=ruvB;locus_tag=NEBLGDEC_00181
+k105_74902	Prodigal:002006	CDS	895	1839	.	-	0	ID=NEBLGDEC_00181;Parent=NEBLGDEC_00181_gene;eC_number=3.6.4.12;Name=ruvB;gene=ruvB;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00016;locus_tag=NEBLGDEC_00181;product=Holliday junction ATP-dependent DNA helicase RuvB
+k105_74902	prokka	gene	2032	2649	.	-	.	ID=NEBLGDEC_00182_gene;locus_tag=NEBLGDEC_00182
+k105_74902	Prodigal:002006	CDS	2032	2649	.	-	0	ID=NEBLGDEC_00182;Parent=NEBLGDEC_00182_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00182;product=hypothetical protein
+k105_75765	prokka	gene	43	1038	.	+	.	ID=NEBLGDEC_00183_gene;Name=obg;gene=obg;locus_tag=NEBLGDEC_00183
+k105_75765	Prodigal:002006	CDS	43	1038	.	+	0	ID=NEBLGDEC_00183;Parent=NEBLGDEC_00183_gene;eC_number=3.6.5.-;Name=obg;gene=obg;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01454;locus_tag=NEBLGDEC_00183;product=GTPase Obg
+k105_75765	prokka	gene	1206	1778	.	-	.	ID=NEBLGDEC_00184_gene;locus_tag=NEBLGDEC_00184
+k105_75765	Prodigal:002006	CDS	1206	1778	.	-	0	ID=NEBLGDEC_00184;Parent=NEBLGDEC_00184_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00184;product=hypothetical protein
+k105_75765	prokka	gene	1810	2130	.	-	.	ID=NEBLGDEC_00185_gene;locus_tag=NEBLGDEC_00185
+k105_75765	Prodigal:002006	CDS	1810	2130	.	-	0	ID=NEBLGDEC_00185;Parent=NEBLGDEC_00185_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00185;product=hypothetical protein
+k105_75765	prokka	gene	2130	3503	.	-	.	ID=NEBLGDEC_00186_gene;Name=pyrH;gene=pyrH;locus_tag=NEBLGDEC_00186
+k105_75765	Prodigal:002006	CDS	2130	3503	.	-	0	ID=NEBLGDEC_00186;Parent=NEBLGDEC_00186_gene;Name=pyrH;gene=pyrH;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01220_A;locus_tag=NEBLGDEC_00186;product=Uridylate kinase
+k105_76564	prokka	gene	625	2112	.	-	.	ID=NEBLGDEC_00187_gene;Name=ndhA;gene=ndhA;locus_tag=NEBLGDEC_00187
+k105_76564	Prodigal:002006	CDS	625	2112	.	-	0	ID=NEBLGDEC_00187;Parent=NEBLGDEC_00187_gene;eC_number=7.1.1.-;Name=ndhA;gene=ndhA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01350;locus_tag=NEBLGDEC_00187;product=NAD(P)H-quinone oxidoreductase subunit 1%2C chloroplastic
+k105_76564	prokka	gene	2123	2584	.	-	.	ID=NEBLGDEC_00188_gene;Name=ndhH;gene=ndhH;locus_tag=NEBLGDEC_00188
+k105_76564	Prodigal:002006	CDS	2123	2584	.	-	0	ID=NEBLGDEC_00188;Parent=NEBLGDEC_00188_gene;eC_number=7.1.1.-;Name=ndhH;db_xref=COG:COG0649;gene=ndhH;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8DJD9;locus_tag=NEBLGDEC_00188;product=NAD(P)H-quinone oxidoreductase subunit H
+k105_76605	prokka	gene	23	1255	.	+	.	ID=NEBLGDEC_00189_gene;locus_tag=NEBLGDEC_00189
+k105_76605	Prodigal:002006	CDS	23	1255	.	+	0	ID=NEBLGDEC_00189;Parent=NEBLGDEC_00189_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00189;product=hypothetical protein
+k105_76605	prokka	gene	1285	1358	.	+	.	ID=NEBLGDEC_00190_gene;locus_tag=NEBLGDEC_00190
+k105_76605	Aragorn:001002	tRNA	1285	1358	.	+	.	ID=NEBLGDEC_00190;Parent=NEBLGDEC_00190_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00190;product=tRNA-Gln(ctg)
+k105_76605	prokka	gene	1383	2570	.	-	.	ID=NEBLGDEC_00191_gene;Name=aceE;gene=aceE;locus_tag=NEBLGDEC_00191
+k105_76605	Prodigal:002006	CDS	1383	2570	.	-	0	ID=NEBLGDEC_00191;Parent=NEBLGDEC_00191_gene;eC_number=1.2.4.1;Name=aceE;db_xref=COG:COG2609;gene=aceE;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AFG8;locus_tag=NEBLGDEC_00191;product=Pyruvate dehydrogenase E1 component
+k105_76657	prokka	gene	121	375	.	+	.	ID=NEBLGDEC_00192_gene;locus_tag=NEBLGDEC_00192
+k105_76657	Prodigal:002006	CDS	121	375	.	+	0	ID=NEBLGDEC_00192;Parent=NEBLGDEC_00192_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00192;product=hypothetical protein
+k105_76657	prokka	gene	378	1664	.	-	.	ID=NEBLGDEC_00193_gene;locus_tag=NEBLGDEC_00193
+k105_76657	Prodigal:002006	CDS	378	1664	.	-	0	ID=NEBLGDEC_00193;Parent=NEBLGDEC_00193_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00193;product=hypothetical protein
+k105_76657	prokka	gene	1674	2924	.	-	.	ID=NEBLGDEC_00194_gene;locus_tag=NEBLGDEC_00194
+k105_76657	Prodigal:002006	CDS	1674	2924	.	-	0	ID=NEBLGDEC_00194;Parent=NEBLGDEC_00194_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00194;product=hypothetical protein
+k105_76657	prokka	gene	2945	3118	.	-	.	ID=NEBLGDEC_00195_gene;locus_tag=NEBLGDEC_00195
+k105_76657	Prodigal:002006	CDS	2945	3118	.	-	0	ID=NEBLGDEC_00195;Parent=NEBLGDEC_00195_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00195;product=hypothetical protein
+k105_76885	prokka	gene	15	509	.	+	.	ID=NEBLGDEC_00196_gene;locus_tag=NEBLGDEC_00196
+k105_76885	Prodigal:002006	CDS	15	509	.	+	0	ID=NEBLGDEC_00196;Parent=NEBLGDEC_00196_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00196;product=hypothetical protein
+k105_76885	prokka	gene	594	938	.	-	.	ID=NEBLGDEC_00197_gene;Name=tatA;gene=tatA;locus_tag=NEBLGDEC_00197
+k105_76885	Prodigal:002006	CDS	594	938	.	-	0	ID=NEBLGDEC_00197;Parent=NEBLGDEC_00197_gene;Name=tatA;gene=tatA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00236;locus_tag=NEBLGDEC_00197;product=Sec-independent protein translocase protein TatA
+k105_76885	prokka	gene	978	1208	.	-	.	ID=NEBLGDEC_00198_gene;locus_tag=NEBLGDEC_00198
+k105_76885	Prodigal:002006	CDS	978	1208	.	-	0	ID=NEBLGDEC_00198;Parent=NEBLGDEC_00198_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00198;product=hypothetical protein
+k105_76885	prokka	gene	1262	1960	.	+	.	ID=NEBLGDEC_00199_gene;Name=lolD;gene=lolD;locus_tag=NEBLGDEC_00199
+k105_76885	Prodigal:002006	CDS	1262	1960	.	+	0	ID=NEBLGDEC_00199;Parent=NEBLGDEC_00199_gene;eC_number=3.6.3.-;Name=lolD;db_xref=COG:COG1136;gene=lolD;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P75957;locus_tag=NEBLGDEC_00199;product=Lipoprotein-releasing system ATP-binding protein LolD
+k105_77817	prokka	gene	1196	1621	.	-	.	ID=NEBLGDEC_00200_gene;locus_tag=NEBLGDEC_00200
+k105_77817	Prodigal:002006	CDS	1196	1621	.	-	0	ID=NEBLGDEC_00200;Parent=NEBLGDEC_00200_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00200;product=hypothetical protein
+k105_77817	prokka	gene	1830	2276	.	-	.	ID=NEBLGDEC_00201_gene;locus_tag=NEBLGDEC_00201
+k105_77817	Prodigal:002006	CDS	1830	2276	.	-	0	ID=NEBLGDEC_00201;Parent=NEBLGDEC_00201_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00201;product=hypothetical protein
+k105_77817	prokka	gene	2310	2549	.	-	.	ID=NEBLGDEC_00202_gene;locus_tag=NEBLGDEC_00202
+k105_77817	Prodigal:002006	CDS	2310	2549	.	-	0	ID=NEBLGDEC_00202;Parent=NEBLGDEC_00202_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00202;product=hypothetical protein
+k105_263569	prokka	gene	287	679	.	-	.	ID=NEBLGDEC_00203_gene;locus_tag=NEBLGDEC_00203
+k105_263569	Prodigal:002006	CDS	287	679	.	-	0	ID=NEBLGDEC_00203;Parent=NEBLGDEC_00203_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00203;product=hypothetical protein
+k105_263569	prokka	gene	686	868	.	-	.	ID=NEBLGDEC_00204_gene;locus_tag=NEBLGDEC_00204
+k105_263569	Prodigal:002006	CDS	686	868	.	-	0	ID=NEBLGDEC_00204;Parent=NEBLGDEC_00204_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00204;product=hypothetical protein
+k105_263569	prokka	gene	813	2123	.	-	.	ID=NEBLGDEC_00205_gene;locus_tag=NEBLGDEC_00205
+k105_263569	Prodigal:002006	CDS	813	2123	.	-	0	ID=NEBLGDEC_00205;Parent=NEBLGDEC_00205_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00205;product=hypothetical protein
+k105_263569	prokka	gene	2160	3047	.	-	.	ID=NEBLGDEC_00206_gene;locus_tag=NEBLGDEC_00206
+k105_263569	Prodigal:002006	CDS	2160	3047	.	-	0	ID=NEBLGDEC_00206;Parent=NEBLGDEC_00206_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00206;product=hypothetical protein
+k105_79336	prokka	gene	3	584	.	+	.	ID=NEBLGDEC_00207_gene;locus_tag=NEBLGDEC_00207
+k105_79336	Prodigal:002006	CDS	3	584	.	+	0	ID=NEBLGDEC_00207;Parent=NEBLGDEC_00207_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00207;product=hypothetical protein
+k105_79336	prokka	gene	569	1174	.	+	.	ID=NEBLGDEC_00208_gene;locus_tag=NEBLGDEC_00208
+k105_79336	Prodigal:002006	CDS	569	1174	.	+	0	ID=NEBLGDEC_00208;Parent=NEBLGDEC_00208_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00208;product=hypothetical protein
+k105_79336	prokka	gene	1178	2071	.	+	.	ID=NEBLGDEC_00209_gene;locus_tag=NEBLGDEC_00209
+k105_79336	Prodigal:002006	CDS	1178	2071	.	+	0	ID=NEBLGDEC_00209;Parent=NEBLGDEC_00209_gene;eC_number=1.1.1.35;db_xref=COG:COG1250;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q0AVM2;locus_tag=NEBLGDEC_00209;product=3-hydroxybutyryl-CoA dehydrogenase
+k105_79336	prokka	gene	2074	4377	.	-	.	ID=NEBLGDEC_00210_gene;locus_tag=NEBLGDEC_00210
+k105_79336	Prodigal:002006	CDS	2074	4377	.	-	0	ID=NEBLGDEC_00210;Parent=NEBLGDEC_00210_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00210;product=hypothetical protein
+k105_264188	prokka	gene	170	334	.	+	.	ID=NEBLGDEC_00211_gene;locus_tag=NEBLGDEC_00211
+k105_264188	Prodigal:002006	CDS	170	334	.	+	0	ID=NEBLGDEC_00211;Parent=NEBLGDEC_00211_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00211;product=hypothetical protein
+k105_264188	prokka	gene	350	1528	.	+	.	ID=NEBLGDEC_00212_gene;locus_tag=NEBLGDEC_00212
+k105_264188	Prodigal:002006	CDS	350	1528	.	+	0	ID=NEBLGDEC_00212;Parent=NEBLGDEC_00212_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00212;product=hypothetical protein
+k105_264188	prokka	gene	1540	2991	.	-	.	ID=NEBLGDEC_00213_gene;locus_tag=NEBLGDEC_00213
+k105_264188	Prodigal:002006	CDS	1540	2991	.	-	0	ID=NEBLGDEC_00213;Parent=NEBLGDEC_00213_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00213;product=hypothetical protein
+k105_266481	prokka	gene	454	1359	.	+	.	ID=NEBLGDEC_00214_gene;Name=amnB;gene=amnB;locus_tag=NEBLGDEC_00214
+k105_266481	Prodigal:002006	CDS	454	1359	.	+	0	ID=NEBLGDEC_00214;Parent=NEBLGDEC_00214_gene;eC_number=1.13.11.74;Name=amnB;gene=amnB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O33477;locus_tag=NEBLGDEC_00214;product=2-aminophenol 1%2C6-dioxygenase beta subunit
+k105_266481	prokka	gene	1281	2495	.	-	.	ID=NEBLGDEC_00215_gene;locus_tag=NEBLGDEC_00215
+k105_266481	Prodigal:002006	CDS	1281	2495	.	-	0	ID=NEBLGDEC_00215;Parent=NEBLGDEC_00215_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00215;product=hypothetical protein
+k105_266512	prokka	gene	2	1174	.	+	.	ID=NEBLGDEC_00216_gene;Name=accA1;gene=accA1;locus_tag=NEBLGDEC_00216
+k105_266512	Prodigal:002006	CDS	2	1174	.	+	0	ID=NEBLGDEC_00216;Parent=NEBLGDEC_00216_gene;Name=accA1;db_xref=COG:COG4770;gene=accA1;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WPQ3;locus_tag=NEBLGDEC_00216;product=Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+k105_266512	prokka	gene	1184	1618	.	+	.	ID=NEBLGDEC_00217_gene;Name=cfiA;gene=cfiA;locus_tag=NEBLGDEC_00217
+k105_266512	Prodigal:002006	CDS	1184	1618	.	+	0	ID=NEBLGDEC_00217;Parent=NEBLGDEC_00217_gene;eC_number=6.4.1.7;Name=cfiA;db_xref=COG:COG0511;gene=cfiA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:D3DJ41;locus_tag=NEBLGDEC_00217;product=2-oxoglutarate carboxylase large subunit
+k105_266512	prokka	gene	1629	2603	.	-	.	ID=NEBLGDEC_00218_gene;Name=serS;gene=serS;locus_tag=NEBLGDEC_00218
+k105_266512	Prodigal:002006	CDS	1629	2603	.	-	0	ID=NEBLGDEC_00218;Parent=NEBLGDEC_00218_gene;eC_number=6.1.1.11;Name=serS;db_xref=COG:COG0172;gene=serS;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O66647;locus_tag=NEBLGDEC_00218;product=Serine--tRNA ligase
+k105_82433	prokka	gene	21	782	.	+	.	ID=NEBLGDEC_00219_gene;locus_tag=NEBLGDEC_00219
+k105_82433	Prodigal:002006	CDS	21	782	.	+	0	ID=NEBLGDEC_00219;Parent=NEBLGDEC_00219_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00219;product=hypothetical protein
+k105_82433	prokka	gene	775	1194	.	-	.	ID=NEBLGDEC_00220_gene;locus_tag=NEBLGDEC_00220
+k105_82433	Prodigal:002006	CDS	775	1194	.	-	0	ID=NEBLGDEC_00220;Parent=NEBLGDEC_00220_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00220;product=hypothetical protein
+k105_82433	prokka	gene	1202	2092	.	-	.	ID=NEBLGDEC_00221_gene;Name=nadK;gene=nadK;locus_tag=NEBLGDEC_00221
+k105_82433	Prodigal:002006	CDS	1202	2092	.	-	0	ID=NEBLGDEC_00221;Parent=NEBLGDEC_00221_gene;eC_number=2.7.1.23;Name=nadK;gene=nadK;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00361;locus_tag=NEBLGDEC_00221;product=NAD kinase
+k105_82433	prokka	gene	2179	2781	.	+	.	ID=NEBLGDEC_00222_gene;Name=msrP;gene=msrP;locus_tag=NEBLGDEC_00222
+k105_82433	Prodigal:002006	CDS	2179	2781	.	+	0	ID=NEBLGDEC_00222;Parent=NEBLGDEC_00222_gene;eC_number=1.8.5.-;Name=msrP;gene=msrP;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01206;locus_tag=NEBLGDEC_00222;product=Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+k105_82433	prokka	gene	2870	3235	.	-	.	ID=NEBLGDEC_00223_gene;locus_tag=NEBLGDEC_00223
+k105_82433	Prodigal:002006	CDS	2870	3235	.	-	0	ID=NEBLGDEC_00223;Parent=NEBLGDEC_00223_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00223;product=hypothetical protein
+k105_82433	prokka	gene	3397	3918	.	+	.	ID=NEBLGDEC_00224_gene;locus_tag=NEBLGDEC_00224
+k105_82433	Prodigal:002006	CDS	3397	3918	.	+	0	ID=NEBLGDEC_00224;Parent=NEBLGDEC_00224_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00224;product=hypothetical protein
+k105_267998	prokka	gene	35	1519	.	-	.	ID=NEBLGDEC_00225_gene;Name=glmM;gene=glmM;locus_tag=NEBLGDEC_00225
+k105_267998	Prodigal:002006	CDS	35	1519	.	-	0	ID=NEBLGDEC_00225;Parent=NEBLGDEC_00225_gene;eC_number=5.4.2.10;Name=glmM;db_xref=COG:COG1109;gene=glmM;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WN41;locus_tag=NEBLGDEC_00225;product=Phosphoglucosamine mutase
+k105_267998	prokka	gene	1645	2292	.	-	.	ID=NEBLGDEC_00226_gene;Name=glmU;gene=glmU;locus_tag=NEBLGDEC_00226
+k105_267998	Prodigal:002006	CDS	1645	2292	.	-	0	ID=NEBLGDEC_00226;Parent=NEBLGDEC_00226_gene;eC_number=2.7.7.23;Name=glmU;gene=glmU;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01631;locus_tag=NEBLGDEC_00226;product=Bifunctional protein GlmU
+k105_267998	prokka	gene	2345	3985	.	-	.	ID=NEBLGDEC_00227_gene;Name=pckA;gene=pckA;locus_tag=NEBLGDEC_00227
+k105_267998	Prodigal:002006	CDS	2345	3985	.	-	0	ID=NEBLGDEC_00227;Parent=NEBLGDEC_00227_gene;eC_number=4.1.1.49;Name=pckA;db_xref=COG:COG1866;gene=pckA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q5SLL5;locus_tag=NEBLGDEC_00227;product=Phosphoenolpyruvate carboxykinase (ATP)
+k105_267998	prokka	gene	4128	4436	.	-	.	ID=NEBLGDEC_00228_gene;locus_tag=NEBLGDEC_00228
+k105_267998	Prodigal:002006	CDS	4128	4436	.	-	0	ID=NEBLGDEC_00228;Parent=NEBLGDEC_00228_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00228;product=hypothetical protein
+k105_270899	prokka	gene	81	533	.	+	.	ID=NEBLGDEC_00229_gene;Name=decR;gene=decR;locus_tag=NEBLGDEC_00229
+k105_270899	Prodigal:002006	CDS	81	533	.	+	0	ID=NEBLGDEC_00229;Parent=NEBLGDEC_00229_gene;Name=decR;db_xref=COG:COG1522;gene=decR;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ACJ5;locus_tag=NEBLGDEC_00229;product=DNA-binding transcriptional activator DecR
+k105_270899	prokka	gene	766	1116	.	-	.	ID=NEBLGDEC_00230_gene;locus_tag=NEBLGDEC_00230
+k105_270899	Prodigal:002006	CDS	766	1116	.	-	0	ID=NEBLGDEC_00230;Parent=NEBLGDEC_00230_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00230;product=hypothetical protein
+k105_270899	prokka	gene	1276	1605	.	-	.	ID=NEBLGDEC_00231_gene;locus_tag=NEBLGDEC_00231
+k105_270899	Prodigal:002006	CDS	1276	1605	.	-	0	ID=NEBLGDEC_00231;Parent=NEBLGDEC_00231_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00231;product=hypothetical protein
+k105_270899	prokka	gene	1705	2022	.	-	.	ID=NEBLGDEC_00232_gene;locus_tag=NEBLGDEC_00232
+k105_270899	Prodigal:002006	CDS	1705	2022	.	-	0	ID=NEBLGDEC_00232;Parent=NEBLGDEC_00232_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00232;product=hypothetical protein
+k105_270899	prokka	gene	2143	2397	.	-	.	ID=NEBLGDEC_00233_gene;locus_tag=NEBLGDEC_00233
+k105_270899	Prodigal:002006	CDS	2143	2397	.	-	0	ID=NEBLGDEC_00233;Parent=NEBLGDEC_00233_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00233;product=hypothetical protein
+k105_270899	prokka	gene	2434	2697	.	-	.	ID=NEBLGDEC_00234_gene;locus_tag=NEBLGDEC_00234
+k105_270899	Prodigal:002006	CDS	2434	2697	.	-	0	ID=NEBLGDEC_00234;Parent=NEBLGDEC_00234_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00234;product=hypothetical protein
+k105_270899	prokka	gene	2682	3410	.	-	.	ID=NEBLGDEC_00235_gene;locus_tag=NEBLGDEC_00235
+k105_270899	Prodigal:002006	CDS	2682	3410	.	-	0	ID=NEBLGDEC_00235;Parent=NEBLGDEC_00235_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00235;product=hypothetical protein
+k105_86993	prokka	gene	214	780	.	+	.	ID=NEBLGDEC_00236_gene;locus_tag=NEBLGDEC_00236
+k105_86993	Prodigal:002006	CDS	214	780	.	+	0	ID=NEBLGDEC_00236;Parent=NEBLGDEC_00236_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00236;product=hypothetical protein
+k105_86993	prokka	gene	832	1926	.	+	.	ID=NEBLGDEC_00237_gene;locus_tag=NEBLGDEC_00237
+k105_86993	Prodigal:002006	CDS	832	1926	.	+	0	ID=NEBLGDEC_00237;Parent=NEBLGDEC_00237_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00237;product=hypothetical protein
+k105_86993	prokka	gene	1916	2944	.	-	.	ID=NEBLGDEC_00238_gene;Name=lysDH;gene=lysDH;locus_tag=NEBLGDEC_00238
+k105_86993	Prodigal:002006	CDS	1916	2944	.	-	0	ID=NEBLGDEC_00238;Parent=NEBLGDEC_00238_gene;eC_number=1.4.1.18;Name=lysDH;gene=lysDH;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9AJC6;locus_tag=NEBLGDEC_00238;product=Lysine 6-dehydrogenase
+k105_87988	prokka	gene	353	1717	.	-	.	ID=NEBLGDEC_00239_gene;Name=pepP;gene=pepP;locus_tag=NEBLGDEC_00239
+k105_87988	Prodigal:002006	CDS	353	1717	.	-	0	ID=NEBLGDEC_00239;Parent=NEBLGDEC_00239_gene;eC_number=3.4.11.9;Name=pepP;db_xref=COG:COG0006;gene=pepP;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P15034;locus_tag=NEBLGDEC_00239;product=Xaa-Pro aminopeptidase
+k105_87988	prokka	gene	1780	3306	.	-	.	ID=NEBLGDEC_00240_gene;locus_tag=NEBLGDEC_00240
+k105_87988	Prodigal:002006	CDS	1780	3306	.	-	0	ID=NEBLGDEC_00240;Parent=NEBLGDEC_00240_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00240;product=hypothetical protein
+k105_273783	prokka	gene	2	358	.	+	.	ID=NEBLGDEC_00241_gene;locus_tag=NEBLGDEC_00241
+k105_273783	Prodigal:002006	CDS	2	358	.	+	0	ID=NEBLGDEC_00241;Parent=NEBLGDEC_00241_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00241;product=hypothetical protein
+k105_273783	prokka	gene	339	812	.	-	.	ID=NEBLGDEC_00242_gene;locus_tag=NEBLGDEC_00242
+k105_273783	Prodigal:002006	CDS	339	812	.	-	0	ID=NEBLGDEC_00242;Parent=NEBLGDEC_00242_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00242;product=hypothetical protein
+k105_273783	prokka	gene	851	1699	.	-	.	ID=NEBLGDEC_00243_gene;Name=pqqB;gene=pqqB;locus_tag=NEBLGDEC_00243
+k105_273783	Prodigal:002006	CDS	851	1699	.	-	0	ID=NEBLGDEC_00243;Parent=NEBLGDEC_00243_gene;Name=pqqB;gene=pqqB;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00653;locus_tag=NEBLGDEC_00243;product=Coenzyme PQQ synthesis protein B
+k105_88766	prokka	gene	24	1073	.	-	.	ID=NEBLGDEC_00244_gene;locus_tag=NEBLGDEC_00244
+k105_88766	Prodigal:002006	CDS	24	1073	.	-	0	ID=NEBLGDEC_00244;Parent=NEBLGDEC_00244_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00244;product=hypothetical protein
+k105_88766	prokka	gene	1270	2064	.	+	.	ID=NEBLGDEC_00245_gene;locus_tag=NEBLGDEC_00245
+k105_88766	Prodigal:002006	CDS	1270	2064	.	+	0	ID=NEBLGDEC_00245;Parent=NEBLGDEC_00245_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00245;product=hypothetical protein
+k105_88766	prokka	gene	2061	4160	.	-	.	ID=NEBLGDEC_00246_gene;Name=ligA;gene=ligA;locus_tag=NEBLGDEC_00246
+k105_88766	Prodigal:002006	CDS	2061	4160	.	-	0	ID=NEBLGDEC_00246;Parent=NEBLGDEC_00246_gene;eC_number=6.5.1.2;Name=ligA;db_xref=COG:COG0272;gene=ligA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P49422;locus_tag=NEBLGDEC_00246;product=DNA ligase
+k105_89546	prokka	gene	27	692	.	+	.	ID=NEBLGDEC_00247_gene;locus_tag=NEBLGDEC_00247
+k105_89546	Prodigal:002006	CDS	27	692	.	+	0	ID=NEBLGDEC_00247;Parent=NEBLGDEC_00247_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00247;product=hypothetical protein
+k105_89546	prokka	gene	720	1283	.	+	.	ID=NEBLGDEC_00248_gene;locus_tag=NEBLGDEC_00248
+k105_89546	Prodigal:002006	CDS	720	1283	.	+	0	ID=NEBLGDEC_00248;Parent=NEBLGDEC_00248_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00248;product=hypothetical protein
+k105_89546	prokka	gene	1440	2351	.	+	.	ID=NEBLGDEC_00249_gene;locus_tag=NEBLGDEC_00249
+k105_89546	Prodigal:002006	CDS	1440	2351	.	+	0	ID=NEBLGDEC_00249;Parent=NEBLGDEC_00249_gene;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q7A788;locus_tag=NEBLGDEC_00249;product=putative epimerase/dehydratase
+k105_89546	prokka	gene	2353	3786	.	-	.	ID=NEBLGDEC_00250_gene;Name=groL;gene=groL;locus_tag=NEBLGDEC_00250
+k105_89546	Prodigal:002006	CDS	2353	3786	.	-	0	ID=NEBLGDEC_00250;Parent=NEBLGDEC_00250_gene;Name=groL;db_xref=COG:COG0459;gene=groL;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P48212;locus_tag=NEBLGDEC_00250;product=60 kDa chaperonin
+k105_92919	prokka	gene	550	1590	.	+	.	ID=NEBLGDEC_00251_gene;locus_tag=NEBLGDEC_00251
+k105_92919	Prodigal:002006	CDS	550	1590	.	+	0	ID=NEBLGDEC_00251;Parent=NEBLGDEC_00251_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00251;product=hypothetical protein
+k105_92919	prokka	gene	1898	2395	.	-	.	ID=NEBLGDEC_00252_gene;locus_tag=NEBLGDEC_00252
+k105_92919	Prodigal:002006	CDS	1898	2395	.	-	0	ID=NEBLGDEC_00252;Parent=NEBLGDEC_00252_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00252;product=hypothetical protein
+k105_92919	prokka	gene	2471	2710	.	-	.	ID=NEBLGDEC_00253_gene;locus_tag=NEBLGDEC_00253
+k105_92919	Prodigal:002006	CDS	2471	2710	.	-	0	ID=NEBLGDEC_00253;Parent=NEBLGDEC_00253_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00253;product=hypothetical protein
+k105_92919	prokka	gene	2914	3162	.	-	.	ID=NEBLGDEC_00254_gene;locus_tag=NEBLGDEC_00254
+k105_92919	Prodigal:002006	CDS	2914	3162	.	-	0	ID=NEBLGDEC_00254;Parent=NEBLGDEC_00254_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00254;product=hypothetical protein
+k105_94412	prokka	gene	6	1016	.	+	.	ID=NEBLGDEC_00255_gene;Name=gcvT;gene=gcvT;locus_tag=NEBLGDEC_00255
+k105_94412	Prodigal:002006	CDS	6	1016	.	+	0	ID=NEBLGDEC_00255;Parent=NEBLGDEC_00255_gene;eC_number=2.1.2.10;Name=gcvT;db_xref=COG:COG0404;gene=gcvT;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P54378;locus_tag=NEBLGDEC_00255;product=Aminomethyltransferase
+k105_94412	prokka	gene	1141	1791	.	-	.	ID=NEBLGDEC_00256_gene;locus_tag=NEBLGDEC_00256
+k105_94412	Prodigal:002006	CDS	1141	1791	.	-	0	ID=NEBLGDEC_00256;Parent=NEBLGDEC_00256_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00256;product=hypothetical protein
+k105_94412	prokka	gene	1852	3240	.	-	.	ID=NEBLGDEC_00257_gene;locus_tag=NEBLGDEC_00257
+k105_94412	Prodigal:002006	CDS	1852	3240	.	-	0	ID=NEBLGDEC_00257;Parent=NEBLGDEC_00257_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00257;product=hypothetical protein
+k105_282074	prokka	gene	625	1776	.	+	.	ID=NEBLGDEC_00258_gene;Name=ftsZ_1;gene=ftsZ_1;locus_tag=NEBLGDEC_00258
+k105_282074	Prodigal:002006	CDS	625	1776	.	+	0	ID=NEBLGDEC_00258;Parent=NEBLGDEC_00258_gene;Name=ftsZ_1;gene=ftsZ_1;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00909;locus_tag=NEBLGDEC_00258;product=Cell division protein FtsZ
+k105_282074	prokka	gene	1840	2673	.	+	.	ID=NEBLGDEC_00259_gene;locus_tag=NEBLGDEC_00259
+k105_282074	Prodigal:002006	CDS	1840	2673	.	+	0	ID=NEBLGDEC_00259;Parent=NEBLGDEC_00259_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00259;product=hypothetical protein
+k105_282074	prokka	gene	2648	2935	.	-	.	ID=NEBLGDEC_00260_gene;locus_tag=NEBLGDEC_00260
+k105_282074	Prodigal:002006	CDS	2648	2935	.	-	0	ID=NEBLGDEC_00260;Parent=NEBLGDEC_00260_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00260;product=hypothetical protein
+k105_95127	prokka	gene	168	455	.	+	.	ID=NEBLGDEC_00261_gene;locus_tag=NEBLGDEC_00261
+k105_95127	Prodigal:002006	CDS	168	455	.	+	0	ID=NEBLGDEC_00261;Parent=NEBLGDEC_00261_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00261;product=hypothetical protein
+k105_95127	prokka	gene	603	1001	.	+	.	ID=NEBLGDEC_00262_gene;locus_tag=NEBLGDEC_00262
+k105_95127	Prodigal:002006	CDS	603	1001	.	+	0	ID=NEBLGDEC_00262;Parent=NEBLGDEC_00262_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00262;product=hypothetical protein
+k105_95127	prokka	gene	1059	1898	.	+	.	ID=NEBLGDEC_00263_gene;locus_tag=NEBLGDEC_00263
+k105_95127	Prodigal:002006	CDS	1059	1898	.	+	0	ID=NEBLGDEC_00263;Parent=NEBLGDEC_00263_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00263;product=hypothetical protein
+k105_95127	prokka	gene	2004	3233	.	-	.	ID=NEBLGDEC_00264_gene;locus_tag=NEBLGDEC_00264
+k105_95127	Prodigal:002006	CDS	2004	3233	.	-	0	ID=NEBLGDEC_00264;Parent=NEBLGDEC_00264_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00264;product=hypothetical protein
+k105_95127	prokka	gene	3324	3566	.	-	.	ID=NEBLGDEC_00265_gene;locus_tag=NEBLGDEC_00265
+k105_95127	Prodigal:002006	CDS	3324	3566	.	-	0	ID=NEBLGDEC_00265;Parent=NEBLGDEC_00265_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00265;product=hypothetical protein
+k105_95127	prokka	gene	3612	4589	.	-	.	ID=NEBLGDEC_00266_gene;locus_tag=NEBLGDEC_00266
+k105_95127	Prodigal:002006	CDS	3612	4589	.	-	0	ID=NEBLGDEC_00266;Parent=NEBLGDEC_00266_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00266;product=hypothetical protein
+k105_282155	prokka	gene	56	131	.	-	.	ID=NEBLGDEC_00267_gene;locus_tag=NEBLGDEC_00267
+k105_282155	Aragorn:001002	tRNA	56	131	.	-	.	ID=NEBLGDEC_00267;Parent=NEBLGDEC_00267_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00267;product=tRNA-Asp(gtc)
+k105_282155	prokka	gene	481	1275	.	+	.	ID=NEBLGDEC_00268_gene;Name=mtnB;gene=mtnB;locus_tag=NEBLGDEC_00268
+k105_282155	Prodigal:002006	CDS	481	1275	.	+	0	ID=NEBLGDEC_00268;Parent=NEBLGDEC_00268_gene;eC_number=4.2.1.109;Name=mtnB;gene=mtnB;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01677;locus_tag=NEBLGDEC_00268;product=Methylthioribulose-1-phosphate dehydratase
+k105_282155	prokka	gene	1322	1912	.	+	.	ID=NEBLGDEC_00269_gene;Name=guaA;gene=guaA;locus_tag=NEBLGDEC_00269
+k105_282155	Prodigal:002006	CDS	1322	1912	.	+	0	ID=NEBLGDEC_00269;Parent=NEBLGDEC_00269_gene;eC_number=6.3.5.2;Name=guaA;gene=guaA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P99105;locus_tag=NEBLGDEC_00269;product=GMP synthase [glutamine-hydrolyzing]
+k105_282155	prokka	gene	1979	2128	.	+	.	ID=NEBLGDEC_00270_gene;locus_tag=NEBLGDEC_00270
+k105_282155	Prodigal:002006	CDS	1979	2128	.	+	0	ID=NEBLGDEC_00270;Parent=NEBLGDEC_00270_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00270;product=hypothetical protein
+k105_282155	prokka	gene	2175	3317	.	+	.	ID=NEBLGDEC_00271_gene;locus_tag=NEBLGDEC_00271
+k105_282155	Prodigal:002006	CDS	2175	3317	.	+	0	ID=NEBLGDEC_00271;Parent=NEBLGDEC_00271_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00271;product=hypothetical protein
+k105_282155	prokka	gene	3321	3397	.	-	.	ID=NEBLGDEC_00272_gene;locus_tag=NEBLGDEC_00272
+k105_282155	Aragorn:001002	tRNA	3321	3397	.	-	.	ID=NEBLGDEC_00272;Parent=NEBLGDEC_00272_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00272;product=tRNA-Arg(cct)
+k105_282155	prokka	gene	3952	4158	.	-	.	ID=NEBLGDEC_00273_gene;locus_tag=NEBLGDEC_00273
+k105_282155	Prodigal:002006	CDS	3952	4158	.	-	0	ID=NEBLGDEC_00273;Parent=NEBLGDEC_00273_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00273;product=hypothetical protein
+k105_95406	prokka	gene	45	305	.	+	.	ID=NEBLGDEC_00274_gene;locus_tag=NEBLGDEC_00274
+k105_95406	Prodigal:002006	CDS	45	305	.	+	0	ID=NEBLGDEC_00274;Parent=NEBLGDEC_00274_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00274;product=hypothetical protein
+k105_95406	prokka	gene	227	1375	.	-	.	ID=NEBLGDEC_00275_gene;Name=aspC_2;gene=aspC_2;locus_tag=NEBLGDEC_00275
+k105_95406	Prodigal:002006	CDS	227	1375	.	-	0	ID=NEBLGDEC_00275;Parent=NEBLGDEC_00275_gene;eC_number=2.6.1.1;Name=aspC_2;db_xref=COG:COG0436;gene=aspC_2;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9X0Y2;locus_tag=NEBLGDEC_00275;product=Aspartate aminotransferase
+k105_95406	prokka	gene	1401	3410	.	-	.	ID=NEBLGDEC_00276_gene;locus_tag=NEBLGDEC_00276
+k105_95406	Prodigal:002006	CDS	1401	3410	.	-	0	ID=NEBLGDEC_00276;Parent=NEBLGDEC_00276_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00276;product=hypothetical protein
+k105_95873	prokka	gene	190	1050	.	+	.	ID=NEBLGDEC_00277_gene;locus_tag=NEBLGDEC_00277
+k105_95873	Prodigal:002006	CDS	190	1050	.	+	0	ID=NEBLGDEC_00277;Parent=NEBLGDEC_00277_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00277;product=hypothetical protein
+k105_95873	prokka	gene	1078	1299	.	+	.	ID=NEBLGDEC_00278_gene;locus_tag=NEBLGDEC_00278
+k105_95873	Prodigal:002006	CDS	1078	1299	.	+	0	ID=NEBLGDEC_00278;Parent=NEBLGDEC_00278_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00278;product=hypothetical protein
+k105_95873	prokka	gene	1672	1866	.	+	.	ID=NEBLGDEC_00279_gene;locus_tag=NEBLGDEC_00279
+k105_95873	Prodigal:002006	CDS	1672	1866	.	+	0	ID=NEBLGDEC_00279;Parent=NEBLGDEC_00279_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00279;product=hypothetical protein
+k105_95873	prokka	gene	2005	2481	.	+	.	ID=NEBLGDEC_00280_gene;locus_tag=NEBLGDEC_00280
+k105_95873	Prodigal:002006	CDS	2005	2481	.	+	0	ID=NEBLGDEC_00280;Parent=NEBLGDEC_00280_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00280;product=hypothetical protein
+k105_95873	prokka	gene	2677	3168	.	+	.	ID=NEBLGDEC_00281_gene;locus_tag=NEBLGDEC_00281
+k105_95873	Prodigal:002006	CDS	2677	3168	.	+	0	ID=NEBLGDEC_00281;Parent=NEBLGDEC_00281_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00281;product=hypothetical protein
+k105_95873	prokka	gene	3405	4859	.	-	.	ID=NEBLGDEC_00282_gene;locus_tag=NEBLGDEC_00282
+k105_95873	Prodigal:002006	CDS	3405	4859	.	-	0	ID=NEBLGDEC_00282;Parent=NEBLGDEC_00282_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00282;product=hypothetical protein
+k105_283676	prokka	gene	649	723	.	+	.	ID=NEBLGDEC_00283_gene;locus_tag=NEBLGDEC_00283
+k105_283676	Aragorn:001002	tRNA	649	723	.	+	.	ID=NEBLGDEC_00283;Parent=NEBLGDEC_00283_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00283;product=tRNA-Thr(cgt)
+k105_283676	prokka	gene	733	1089	.	+	.	ID=NEBLGDEC_00284_gene;locus_tag=NEBLGDEC_00284
+k105_283676	Prodigal:002006	CDS	733	1089	.	+	0	ID=NEBLGDEC_00284;Parent=NEBLGDEC_00284_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00284;product=hypothetical protein
+k105_283676	prokka	gene	1086	2348	.	-	.	ID=NEBLGDEC_00285_gene;Name=pgk/tpi;gene=pgk/tpi;locus_tag=NEBLGDEC_00285
+k105_283676	Prodigal:002006	CDS	1086	2348	.	-	0	ID=NEBLGDEC_00285;Parent=NEBLGDEC_00285_gene;Name=pgk/tpi;db_xref=COG:COG0126;gene=pgk/tpi;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P36204;locus_tag=NEBLGDEC_00285;product=Bifunctional PGK/TIM
+k105_96915	prokka	gene	69	2582	.	-	.	ID=NEBLGDEC_00286_gene;locus_tag=NEBLGDEC_00286
+k105_96915	Prodigal:002006	CDS	69	2582	.	-	0	ID=NEBLGDEC_00286;Parent=NEBLGDEC_00286_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00286;product=hypothetical protein
+k105_96915	prokka	gene	2597	3565	.	-	.	ID=NEBLGDEC_00287_gene;Name=btuD;gene=btuD;locus_tag=NEBLGDEC_00287
+k105_96915	Prodigal:002006	CDS	2597	3565	.	-	0	ID=NEBLGDEC_00287;Parent=NEBLGDEC_00287_gene;eC_number=7.6.2.8;Name=btuD;gene=btuD;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01005;locus_tag=NEBLGDEC_00287;product=Vitamin B12 import ATP-binding protein BtuD
+k105_96915	prokka	gene	3650	4351	.	+	.	ID=NEBLGDEC_00288_gene;locus_tag=NEBLGDEC_00288
+k105_96915	Prodigal:002006	CDS	3650	4351	.	+	0	ID=NEBLGDEC_00288;Parent=NEBLGDEC_00288_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00288;product=hypothetical protein
+k105_96915	prokka	gene	4364	4519	.	-	.	ID=NEBLGDEC_00289_gene;locus_tag=NEBLGDEC_00289
+k105_96915	Prodigal:002006	CDS	4364	4519	.	-	0	ID=NEBLGDEC_00289;Parent=NEBLGDEC_00289_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00289;product=hypothetical protein
+k105_286007	prokka	gene	49	384	.	+	.	ID=NEBLGDEC_00290_gene;Name=ndhI;gene=ndhI;locus_tag=NEBLGDEC_00290
+k105_286007	Prodigal:002006	CDS	49	384	.	+	0	ID=NEBLGDEC_00290;Parent=NEBLGDEC_00290_gene;eC_number=7.1.1.-;Name=ndhI;gene=ndhI;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01351;locus_tag=NEBLGDEC_00290;product=NAD(P)H-quinone oxidoreductase subunit I%2C chloroplastic
+k105_286007	prokka	gene	387	695	.	+	.	ID=NEBLGDEC_00291_gene;locus_tag=NEBLGDEC_00291
+k105_286007	Prodigal:002006	CDS	387	695	.	+	0	ID=NEBLGDEC_00291;Parent=NEBLGDEC_00291_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00291;product=hypothetical protein
+k105_286007	prokka	gene	692	958	.	+	.	ID=NEBLGDEC_00292_gene;locus_tag=NEBLGDEC_00292
+k105_286007	Prodigal:002006	CDS	692	958	.	+	0	ID=NEBLGDEC_00292;Parent=NEBLGDEC_00292_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00292;product=hypothetical protein
+k105_286007	prokka	gene	955	1257	.	+	.	ID=NEBLGDEC_00293_gene;Name=nuoK;gene=nuoK;locus_tag=NEBLGDEC_00293
+k105_286007	Prodigal:002006	CDS	955	1257	.	+	0	ID=NEBLGDEC_00293;Parent=NEBLGDEC_00293_gene;eC_number=7.1.1.-;Name=nuoK;db_xref=COG:COG0713;gene=nuoK;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A1B482;locus_tag=NEBLGDEC_00293;product=NADH-quinone oxidoreductase subunit K
+k105_286007	prokka	gene	1268	3586	.	+	.	ID=NEBLGDEC_00294_gene;Name=nuoL;gene=nuoL;locus_tag=NEBLGDEC_00294
+k105_286007	Prodigal:002006	CDS	1268	3586	.	+	0	ID=NEBLGDEC_00294;Parent=NEBLGDEC_00294_gene;eC_number=7.1.1.-;Name=nuoL;db_xref=COG:COG1009;gene=nuoL;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WIW1;locus_tag=NEBLGDEC_00294;product=NADH-quinone oxidoreductase subunit L
+k105_286007	prokka	gene	3523	4767	.	-	.	ID=NEBLGDEC_00295_gene;locus_tag=NEBLGDEC_00295
+k105_286007	Prodigal:002006	CDS	3523	4767	.	-	0	ID=NEBLGDEC_00295;Parent=NEBLGDEC_00295_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00295;product=hypothetical protein
+k105_286007	prokka	gene	4764	4958	.	-	.	ID=NEBLGDEC_00296_gene;locus_tag=NEBLGDEC_00296
+k105_286007	Prodigal:002006	CDS	4764	4958	.	-	0	ID=NEBLGDEC_00296;Parent=NEBLGDEC_00296_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00296;product=hypothetical protein
+k105_287423	prokka	gene	47	334	.	-	.	ID=NEBLGDEC_00297_gene;locus_tag=NEBLGDEC_00297
+k105_287423	Prodigal:002006	CDS	47	334	.	-	0	ID=NEBLGDEC_00297;Parent=NEBLGDEC_00297_gene;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P00247;locus_tag=NEBLGDEC_00297;product=Ferredoxin
+k105_287423	prokka	gene	344	1435	.	-	.	ID=NEBLGDEC_00298_gene;locus_tag=NEBLGDEC_00298
+k105_287423	Prodigal:002006	CDS	344	1435	.	-	0	ID=NEBLGDEC_00298;Parent=NEBLGDEC_00298_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00298;product=hypothetical protein
+k105_287423	prokka	gene	1605	2525	.	-	.	ID=NEBLGDEC_00299_gene;Name=rsmA;gene=rsmA;locus_tag=NEBLGDEC_00299
+k105_287423	Prodigal:002006	CDS	1605	2525	.	-	0	ID=NEBLGDEC_00299;Parent=NEBLGDEC_00299_gene;eC_number=2.1.1.182;Name=rsmA;gene=rsmA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00607;locus_tag=NEBLGDEC_00299;product=Ribosomal RNA small subunit methyltransferase A
+k105_99707	prokka	gene	68	358	.	+	.	ID=NEBLGDEC_00300_gene;locus_tag=NEBLGDEC_00300
+k105_99707	Prodigal:002006	CDS	68	358	.	+	0	ID=NEBLGDEC_00300;Parent=NEBLGDEC_00300_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00300;product=hypothetical protein
+k105_99707	prokka	gene	401	1483	.	+	.	ID=NEBLGDEC_00301_gene;locus_tag=NEBLGDEC_00301
+k105_99707	Prodigal:002006	CDS	401	1483	.	+	0	ID=NEBLGDEC_00301;Parent=NEBLGDEC_00301_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00301;product=hypothetical protein
+k105_99707	prokka	gene	1727	2284	.	+	.	ID=NEBLGDEC_00302_gene;locus_tag=NEBLGDEC_00302
+k105_99707	Prodigal:002006	CDS	1727	2284	.	+	0	ID=NEBLGDEC_00302;Parent=NEBLGDEC_00302_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00302;product=hypothetical protein
+k105_99707	prokka	gene	2400	3065	.	-	.	ID=NEBLGDEC_00303_gene;Name=dnaJ;gene=dnaJ;locus_tag=NEBLGDEC_00303
+k105_99707	Prodigal:002006	CDS	2400	3065	.	-	0	ID=NEBLGDEC_00303;Parent=NEBLGDEC_00303_gene;Name=dnaJ;db_xref=COG:COG0484;gene=dnaJ;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O87778;locus_tag=NEBLGDEC_00303;product=Chaperone protein DnaJ
+k105_101024	prokka	gene	53	568	.	+	.	ID=NEBLGDEC_00304_gene;locus_tag=NEBLGDEC_00304
+k105_101024	Prodigal:002006	CDS	53	568	.	+	0	ID=NEBLGDEC_00304;Parent=NEBLGDEC_00304_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00304;product=hypothetical protein
+k105_101024	prokka	gene	592	1536	.	+	.	ID=NEBLGDEC_00305_gene;locus_tag=NEBLGDEC_00305
+k105_101024	Prodigal:002006	CDS	592	1536	.	+	0	ID=NEBLGDEC_00305;Parent=NEBLGDEC_00305_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00305;product=hypothetical protein
+k105_101024	prokka	gene	1533	2447	.	-	.	ID=NEBLGDEC_00306_gene;locus_tag=NEBLGDEC_00306
+k105_101024	Prodigal:002006	CDS	1533	2447	.	-	0	ID=NEBLGDEC_00306;Parent=NEBLGDEC_00306_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00306;product=hypothetical protein
+k105_101024	prokka	gene	2416	2979	.	-	.	ID=NEBLGDEC_00307_gene;locus_tag=NEBLGDEC_00307
+k105_101024	Prodigal:002006	CDS	2416	2979	.	-	0	ID=NEBLGDEC_00307;Parent=NEBLGDEC_00307_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00307;product=hypothetical protein
+k105_289242	prokka	gene	631	1320	.	+	.	ID=NEBLGDEC_00308_gene;locus_tag=NEBLGDEC_00308
+k105_289242	Prodigal:002006	CDS	631	1320	.	+	0	ID=NEBLGDEC_00308;Parent=NEBLGDEC_00308_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00308;product=hypothetical protein
+k105_289242	prokka	gene	1975	3840	.	-	.	ID=NEBLGDEC_00309_gene;locus_tag=NEBLGDEC_00309
+k105_289242	Prodigal:002006	CDS	1975	3840	.	-	0	ID=NEBLGDEC_00309;Parent=NEBLGDEC_00309_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00309;product=hypothetical protein
+k105_103686	prokka	gene	24	200	.	+	.	ID=NEBLGDEC_00310_gene;locus_tag=NEBLGDEC_00310
+k105_103686	Prodigal:002006	CDS	24	200	.	+	0	ID=NEBLGDEC_00310;Parent=NEBLGDEC_00310_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00310;product=hypothetical protein
+k105_103686	prokka	gene	246	968	.	+	.	ID=NEBLGDEC_00311_gene;locus_tag=NEBLGDEC_00311
+k105_103686	Prodigal:002006	CDS	246	968	.	+	0	ID=NEBLGDEC_00311;Parent=NEBLGDEC_00311_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00311;product=hypothetical protein
+k105_103686	prokka	gene	969	1931	.	-	.	ID=NEBLGDEC_00312_gene;locus_tag=NEBLGDEC_00312
+k105_103686	Prodigal:002006	CDS	969	1931	.	-	0	ID=NEBLGDEC_00312;Parent=NEBLGDEC_00312_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00312;product=hypothetical protein
+k105_103686	prokka	gene	1960	2553	.	-	.	ID=NEBLGDEC_00313_gene;locus_tag=NEBLGDEC_00313
+k105_103686	Prodigal:002006	CDS	1960	2553	.	-	0	ID=NEBLGDEC_00313;Parent=NEBLGDEC_00313_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00313;product=hypothetical protein
+k105_103686	prokka	gene	2621	4132	.	-	.	ID=NEBLGDEC_00314_gene;Name=nuoN;gene=nuoN;locus_tag=NEBLGDEC_00314
+k105_103686	Prodigal:002006	CDS	2621	4132	.	-	0	ID=NEBLGDEC_00314;Parent=NEBLGDEC_00314_gene;eC_number=7.1.1.-;Name=nuoN;db_xref=COG:COG1007;gene=nuoN;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WIW9;locus_tag=NEBLGDEC_00314;product=NADH-quinone oxidoreductase subunit N
+k105_292215	prokka	gene	197	766	.	-	.	ID=NEBLGDEC_00315_gene;Name=apt;gene=apt;locus_tag=NEBLGDEC_00315
+k105_292215	Prodigal:002006	CDS	197	766	.	-	0	ID=NEBLGDEC_00315;Parent=NEBLGDEC_00315_gene;eC_number=2.4.2.7;Name=apt;gene=apt;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00004;locus_tag=NEBLGDEC_00315;product=Adenine phosphoribosyltransferase
+k105_292215	prokka	gene	781	1320	.	-	.	ID=NEBLGDEC_00316_gene;locus_tag=NEBLGDEC_00316
+k105_292215	Prodigal:002006	CDS	781	1320	.	-	0	ID=NEBLGDEC_00316;Parent=NEBLGDEC_00316_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00316;product=hypothetical protein
+k105_292215	prokka	gene	1408	2619	.	+	.	ID=NEBLGDEC_00317_gene;locus_tag=NEBLGDEC_00317
+k105_292215	Prodigal:002006	CDS	1408	2619	.	+	0	ID=NEBLGDEC_00317;Parent=NEBLGDEC_00317_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00317;product=hypothetical protein
+k105_292215	prokka	gene	2628	3599	.	-	.	ID=NEBLGDEC_00318_gene;locus_tag=NEBLGDEC_00318
+k105_292215	Prodigal:002006	CDS	2628	3599	.	-	0	ID=NEBLGDEC_00318;Parent=NEBLGDEC_00318_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00318;product=hypothetical protein
+k105_292215	prokka	gene	3745	6411	.	+	.	ID=NEBLGDEC_00319_gene;Name=mutS;gene=mutS;locus_tag=NEBLGDEC_00319
+k105_292215	Prodigal:002006	CDS	3745	6411	.	+	0	ID=NEBLGDEC_00319;Parent=NEBLGDEC_00319_gene;Name=mutS;db_xref=COG:COG0249;gene=mutS;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A1Y0;locus_tag=NEBLGDEC_00319;product=DNA mismatch repair protein MutS
+k105_292336	prokka	gene	2	1864	.	+	.	ID=NEBLGDEC_00320_gene;locus_tag=NEBLGDEC_00320
+k105_292336	Prodigal:002006	CDS	2	1864	.	+	0	ID=NEBLGDEC_00320;Parent=NEBLGDEC_00320_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00320;product=hypothetical protein
+k105_292336	prokka	gene	1934	3040	.	-	.	ID=NEBLGDEC_00321_gene;locus_tag=NEBLGDEC_00321
+k105_292336	Prodigal:002006	CDS	1934	3040	.	-	0	ID=NEBLGDEC_00321;Parent=NEBLGDEC_00321_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00321;product=hypothetical protein
+k105_292336	prokka	gene	3104	3466	.	+	.	ID=NEBLGDEC_00322_gene;locus_tag=NEBLGDEC_00322
+k105_292336	Prodigal:002006	CDS	3104	3466	.	+	0	ID=NEBLGDEC_00322;Parent=NEBLGDEC_00322_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00322;product=hypothetical protein
+k105_292336	prokka	gene	3475	3774	.	-	.	ID=NEBLGDEC_00323_gene;locus_tag=NEBLGDEC_00323
+k105_292336	Prodigal:002006	CDS	3475	3774	.	-	0	ID=NEBLGDEC_00323;Parent=NEBLGDEC_00323_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00323;product=hypothetical protein
+k105_105369	prokka	gene	122	1150	.	-	.	ID=NEBLGDEC_00324_gene;Name=ttuA;gene=ttuA;locus_tag=NEBLGDEC_00324
+k105_105369	Prodigal:002006	CDS	122	1150	.	-	0	ID=NEBLGDEC_00324;Parent=NEBLGDEC_00324_gene;eC_number=2.8.1.15;Name=ttuA;db_xref=COG:COG0037;gene=ttuA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q72LF3;locus_tag=NEBLGDEC_00324;product=tRNA-5-methyluridine(54) 2-sulfurtransferase
+k105_105369	prokka	gene	1284	2183	.	-	.	ID=NEBLGDEC_00325_gene;locus_tag=NEBLGDEC_00325
+k105_105369	Prodigal:002006	CDS	1284	2183	.	-	0	ID=NEBLGDEC_00325;Parent=NEBLGDEC_00325_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00325;product=hypothetical protein
+k105_105369	prokka	gene	2244	3254	.	-	.	ID=NEBLGDEC_00326_gene;locus_tag=NEBLGDEC_00326
+k105_105369	Prodigal:002006	CDS	2244	3254	.	-	0	ID=NEBLGDEC_00326;Parent=NEBLGDEC_00326_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00326;product=hypothetical protein
+k105_105951	prokka	gene	50	1033	.	+	.	ID=NEBLGDEC_00327_gene;Name=mccB;gene=mccB;locus_tag=NEBLGDEC_00327
+k105_105951	Prodigal:002006	CDS	50	1033	.	+	0	ID=NEBLGDEC_00327;Parent=NEBLGDEC_00327_gene;eC_number=4.4.1.1;Name=mccB;db_xref=COG:COG0626;gene=mccB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O05394;locus_tag=NEBLGDEC_00327;product=Cystathionine gamma-lyase
+k105_105951	prokka	gene	1067	2488	.	-	.	ID=NEBLGDEC_00328_gene;locus_tag=NEBLGDEC_00328
+k105_105951	Prodigal:002006	CDS	1067	2488	.	-	0	ID=NEBLGDEC_00328;Parent=NEBLGDEC_00328_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00328;product=hypothetical protein
+k105_109470	prokka	gene	213	590	.	+	.	ID=NEBLGDEC_00329_gene;locus_tag=NEBLGDEC_00329
+k105_109470	Prodigal:002006	CDS	213	590	.	+	0	ID=NEBLGDEC_00329;Parent=NEBLGDEC_00329_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00329;product=hypothetical protein
+k105_109470	prokka	gene	522	1337	.	-	.	ID=NEBLGDEC_00330_gene;Name=yycJ;gene=yycJ;locus_tag=NEBLGDEC_00330
+k105_109470	Prodigal:002006	CDS	522	1337	.	-	0	ID=NEBLGDEC_00330;Parent=NEBLGDEC_00330_gene;eC_number=3.-.-.-;Name=yycJ;db_xref=COG:COG1235;gene=yycJ;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:C0SP91;locus_tag=NEBLGDEC_00330;product=Putative metallo-hydrolase YycJ
+k105_109470	prokka	gene	2063	2875	.	-	.	ID=NEBLGDEC_00331_gene;locus_tag=NEBLGDEC_00331
+k105_109470	Prodigal:002006	CDS	2063	2875	.	-	0	ID=NEBLGDEC_00331;Parent=NEBLGDEC_00331_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00331;product=hypothetical protein
+k105_110282	prokka	gene	143	409	.	+	.	ID=NEBLGDEC_00332_gene;locus_tag=NEBLGDEC_00332
+k105_110282	Prodigal:002006	CDS	143	409	.	+	0	ID=NEBLGDEC_00332;Parent=NEBLGDEC_00332_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00332;product=hypothetical protein
+k105_110282	prokka	gene	623	1264	.	+	.	ID=NEBLGDEC_00333_gene;locus_tag=NEBLGDEC_00333
+k105_110282	Prodigal:002006	CDS	623	1264	.	+	0	ID=NEBLGDEC_00333;Parent=NEBLGDEC_00333_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00333;product=hypothetical protein
+k105_110282	prokka	gene	1464	1868	.	+	.	ID=NEBLGDEC_00334_gene;locus_tag=NEBLGDEC_00334
+k105_110282	Prodigal:002006	CDS	1464	1868	.	+	0	ID=NEBLGDEC_00334;Parent=NEBLGDEC_00334_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00334;product=hypothetical protein
+k105_110282	prokka	gene	1871	2689	.	-	.	ID=NEBLGDEC_00335_gene;locus_tag=NEBLGDEC_00335
+k105_110282	Prodigal:002006	CDS	1871	2689	.	-	0	ID=NEBLGDEC_00335;Parent=NEBLGDEC_00335_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00335;product=hypothetical protein
+k105_112063	prokka	gene	322	564	.	-	.	ID=NEBLGDEC_00336_gene;locus_tag=NEBLGDEC_00336
+k105_112063	Prodigal:002006	CDS	322	564	.	-	0	ID=NEBLGDEC_00336;Parent=NEBLGDEC_00336_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00336;product=hypothetical protein
+k105_112063	prokka	gene	670	1005	.	-	.	ID=NEBLGDEC_00337_gene;locus_tag=NEBLGDEC_00337
+k105_112063	Prodigal:002006	CDS	670	1005	.	-	0	ID=NEBLGDEC_00337;Parent=NEBLGDEC_00337_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00337;product=hypothetical protein
+k105_112063	prokka	gene	1063	1386	.	-	.	ID=NEBLGDEC_00338_gene;locus_tag=NEBLGDEC_00338
+k105_112063	Prodigal:002006	CDS	1063	1386	.	-	0	ID=NEBLGDEC_00338;Parent=NEBLGDEC_00338_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00338;product=hypothetical protein
+k105_112063	prokka	gene	1411	1725	.	-	.	ID=NEBLGDEC_00339_gene;locus_tag=NEBLGDEC_00339
+k105_112063	Prodigal:002006	CDS	1411	1725	.	-	0	ID=NEBLGDEC_00339;Parent=NEBLGDEC_00339_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00339;product=hypothetical protein
+k105_112063	prokka	gene	1796	2221	.	+	.	ID=NEBLGDEC_00340_gene;Name=rlmH;gene=rlmH;locus_tag=NEBLGDEC_00340
+k105_112063	Prodigal:002006	CDS	1796	2221	.	+	0	ID=NEBLGDEC_00340;Parent=NEBLGDEC_00340_gene;eC_number=2.1.1.177;Name=rlmH;gene=rlmH;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00658;locus_tag=NEBLGDEC_00340;product=Ribosomal RNA large subunit methyltransferase H
+k105_112063	prokka	gene	2227	2757	.	-	.	ID=NEBLGDEC_00341_gene;Name=pta;gene=pta;locus_tag=NEBLGDEC_00341
+k105_112063	Prodigal:002006	CDS	2227	2757	.	-	0	ID=NEBLGDEC_00341;Parent=NEBLGDEC_00341_gene;eC_number=2.3.1.8;Name=pta;db_xref=COG:COG0280;gene=pta;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P39646;locus_tag=NEBLGDEC_00341;product=Phosphate acetyltransferase
+k105_112469	prokka	gene	28	543	.	+	.	ID=NEBLGDEC_00342_gene;Name=aniA;gene=aniA;locus_tag=NEBLGDEC_00342
+k105_112469	Prodigal:002006	CDS	28	543	.	+	0	ID=NEBLGDEC_00342;Parent=NEBLGDEC_00342_gene;eC_number=1.7.2.1;Name=aniA;db_xref=COG:COG2132;gene=aniA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q02219;locus_tag=NEBLGDEC_00342;product=Copper-containing nitrite reductase
+k105_112469	prokka	gene	573	1055	.	+	.	ID=NEBLGDEC_00343_gene;locus_tag=NEBLGDEC_00343
+k105_112469	Prodigal:002006	CDS	573	1055	.	+	0	ID=NEBLGDEC_00343;Parent=NEBLGDEC_00343_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00343;product=hypothetical protein
+k105_112469	prokka	gene	1120	1761	.	-	.	ID=NEBLGDEC_00344_gene;locus_tag=NEBLGDEC_00344
+k105_112469	Prodigal:002006	CDS	1120	1761	.	-	0	ID=NEBLGDEC_00344;Parent=NEBLGDEC_00344_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00344;product=hypothetical protein
+k105_112469	prokka	gene	1800	2657	.	+	.	ID=NEBLGDEC_00345_gene;locus_tag=NEBLGDEC_00345
+k105_112469	Prodigal:002006	CDS	1800	2657	.	+	0	ID=NEBLGDEC_00345;Parent=NEBLGDEC_00345_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00345;product=hypothetical protein
+k105_112469	prokka	gene	2657	3397	.	+	.	ID=NEBLGDEC_00346_gene;Name=ctaC;gene=ctaC;locus_tag=NEBLGDEC_00346
+k105_112469	Prodigal:002006	CDS	2657	3397	.	+	0	ID=NEBLGDEC_00346;Parent=NEBLGDEC_00346_gene;eC_number=1.9.3.1;Name=ctaC;db_xref=COG:COG1622;gene=ctaC;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q04441;locus_tag=NEBLGDEC_00346;product=Cytochrome c oxidase subunit 2
+k105_112469	prokka	gene	3397	5589	.	+	.	ID=NEBLGDEC_00347_gene;locus_tag=NEBLGDEC_00347
+k105_112469	Prodigal:002006	CDS	3397	5589	.	+	0	ID=NEBLGDEC_00347;Parent=NEBLGDEC_00347_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00347;product=hypothetical protein
+k105_112469	prokka	gene	5675	6346	.	+	.	ID=NEBLGDEC_00348_gene;locus_tag=NEBLGDEC_00348
+k105_112469	Prodigal:002006	CDS	5675	6346	.	+	0	ID=NEBLGDEC_00348;Parent=NEBLGDEC_00348_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00348;product=hypothetical protein
+k105_112469	prokka	gene	6333	7046	.	+	.	ID=NEBLGDEC_00349_gene;locus_tag=NEBLGDEC_00349
+k105_112469	Prodigal:002006	CDS	6333	7046	.	+	0	ID=NEBLGDEC_00349;Parent=NEBLGDEC_00349_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00349;product=hypothetical protein
+k105_112469	prokka	gene	6988	7641	.	-	.	ID=NEBLGDEC_00350_gene;locus_tag=NEBLGDEC_00350
+k105_112469	Prodigal:002006	CDS	6988	7641	.	-	0	ID=NEBLGDEC_00350;Parent=NEBLGDEC_00350_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00350;product=hypothetical protein
+k105_302058	prokka	gene	68	847	.	+	.	ID=NEBLGDEC_00351_gene;locus_tag=NEBLGDEC_00351
+k105_302058	Prodigal:002006	CDS	68	847	.	+	0	ID=NEBLGDEC_00351;Parent=NEBLGDEC_00351_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00351;product=hypothetical protein
+k105_302058	prokka	gene	834	1952	.	-	.	ID=NEBLGDEC_00352_gene;locus_tag=NEBLGDEC_00352
+k105_302058	Prodigal:002006	CDS	834	1952	.	-	0	ID=NEBLGDEC_00352;Parent=NEBLGDEC_00352_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00352;product=hypothetical protein
+k105_302058	prokka	gene	1952	2626	.	-	.	ID=NEBLGDEC_00353_gene;locus_tag=NEBLGDEC_00353
+k105_302058	Prodigal:002006	CDS	1952	2626	.	-	0	ID=NEBLGDEC_00353;Parent=NEBLGDEC_00353_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00353;product=hypothetical protein
+k105_304793	prokka	gene	152	1261	.	+	.	ID=NEBLGDEC_00354_gene;locus_tag=NEBLGDEC_00354
+k105_304793	Prodigal:002006	CDS	152	1261	.	+	0	ID=NEBLGDEC_00354;Parent=NEBLGDEC_00354_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00354;product=hypothetical protein
+k105_304793	prokka	gene	1299	4460	.	+	.	ID=NEBLGDEC_00355_gene;locus_tag=NEBLGDEC_00355
+k105_304793	Prodigal:002006	CDS	1299	4460	.	+	0	ID=NEBLGDEC_00355;Parent=NEBLGDEC_00355_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00355;product=hypothetical protein
+k105_305382	prokka	gene	105	353	.	+	.	ID=NEBLGDEC_00356_gene;locus_tag=NEBLGDEC_00356
+k105_305382	Prodigal:002006	CDS	105	353	.	+	0	ID=NEBLGDEC_00356;Parent=NEBLGDEC_00356_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00356;product=hypothetical protein
+k105_305382	prokka	gene	400	2079	.	+	.	ID=NEBLGDEC_00357_gene;locus_tag=NEBLGDEC_00357
+k105_305382	Prodigal:002006	CDS	400	2079	.	+	0	ID=NEBLGDEC_00357;Parent=NEBLGDEC_00357_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00357;product=hypothetical protein
+k105_305382	prokka	gene	2197	2679	.	-	.	ID=NEBLGDEC_00358_gene;locus_tag=NEBLGDEC_00358
+k105_305382	Prodigal:002006	CDS	2197	2679	.	-	0	ID=NEBLGDEC_00358;Parent=NEBLGDEC_00358_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00358;product=hypothetical protein
+k105_306125	prokka	gene	10	705	.	+	.	ID=NEBLGDEC_00359_gene;locus_tag=NEBLGDEC_00359
+k105_306125	Prodigal:002006	CDS	10	705	.	+	0	ID=NEBLGDEC_00359;Parent=NEBLGDEC_00359_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00359;product=hypothetical protein
+k105_306125	prokka	gene	695	1468	.	-	.	ID=NEBLGDEC_00360_gene;Name=rfbA;gene=rfbA;locus_tag=NEBLGDEC_00360
+k105_306125	Prodigal:002006	CDS	695	1468	.	-	0	ID=NEBLGDEC_00360;Parent=NEBLGDEC_00360_gene;eC_number=2.7.7.24;Name=rfbA;db_xref=COG:COG1209;gene=rfbA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P37744;locus_tag=NEBLGDEC_00360;product=Glucose-1-phosphate thymidylyltransferase 1
+k105_306125	prokka	gene	1539	2333	.	-	.	ID=NEBLGDEC_00361_gene;locus_tag=NEBLGDEC_00361
+k105_306125	Prodigal:002006	CDS	1539	2333	.	-	0	ID=NEBLGDEC_00361;Parent=NEBLGDEC_00361_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00361;product=hypothetical protein
+k105_306125	prokka	gene	2343	2777	.	-	.	ID=NEBLGDEC_00362_gene;locus_tag=NEBLGDEC_00362
+k105_306125	Prodigal:002006	CDS	2343	2777	.	-	0	ID=NEBLGDEC_00362;Parent=NEBLGDEC_00362_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00362;product=hypothetical protein
+k105_308065	prokka	gene	62	349	.	+	.	ID=NEBLGDEC_00363_gene;locus_tag=NEBLGDEC_00363
+k105_308065	Prodigal:002006	CDS	62	349	.	+	0	ID=NEBLGDEC_00363;Parent=NEBLGDEC_00363_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00363;product=hypothetical protein
+k105_308065	prokka	gene	377	1501	.	+	.	ID=NEBLGDEC_00364_gene;Name=ribD;gene=ribD;locus_tag=NEBLGDEC_00364
+k105_308065	Prodigal:002006	CDS	377	1501	.	+	0	ID=NEBLGDEC_00364;Parent=NEBLGDEC_00364_gene;Name=ribD;db_xref=COG:COG0117;gene=ribD;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P17618;locus_tag=NEBLGDEC_00364;product=Riboflavin biosynthesis protein RibD
+k105_308065	prokka	gene	1477	1839	.	+	.	ID=NEBLGDEC_00365_gene;locus_tag=NEBLGDEC_00365
+k105_308065	Prodigal:002006	CDS	1477	1839	.	+	0	ID=NEBLGDEC_00365;Parent=NEBLGDEC_00365_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00365;product=hypothetical protein
+k105_308065	prokka	gene	1951	2026	.	+	.	ID=NEBLGDEC_00366_gene;locus_tag=NEBLGDEC_00366
+k105_308065	Aragorn:001002	tRNA	1951	2026	.	+	.	ID=NEBLGDEC_00366;Parent=NEBLGDEC_00366_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00366;product=tRNA-Arg(tcg)
+k105_308065	prokka	gene	2029	3150	.	-	.	ID=NEBLGDEC_00367_gene;locus_tag=NEBLGDEC_00367
+k105_308065	Prodigal:002006	CDS	2029	3150	.	-	0	ID=NEBLGDEC_00367;Parent=NEBLGDEC_00367_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00367;product=hypothetical protein
+k105_308065	prokka	gene	3384	3662	.	-	.	ID=NEBLGDEC_00368_gene;locus_tag=NEBLGDEC_00368
+k105_308065	Prodigal:002006	CDS	3384	3662	.	-	0	ID=NEBLGDEC_00368;Parent=NEBLGDEC_00368_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00368;product=hypothetical protein
+k105_308065	prokka	gene	3739	3978	.	-	.	ID=NEBLGDEC_00369_gene;locus_tag=NEBLGDEC_00369
+k105_308065	Prodigal:002006	CDS	3739	3978	.	-	0	ID=NEBLGDEC_00369;Parent=NEBLGDEC_00369_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00369;product=hypothetical protein
+k105_308515	prokka	gene	7	801	.	+	.	ID=NEBLGDEC_00370_gene;locus_tag=NEBLGDEC_00370
+k105_308515	Prodigal:002006	CDS	7	801	.	+	0	ID=NEBLGDEC_00370;Parent=NEBLGDEC_00370_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00370;product=hypothetical protein
+k105_308515	prokka	gene	802	1755	.	-	.	ID=NEBLGDEC_00371_gene;Name=fadM;gene=fadM;locus_tag=NEBLGDEC_00371
+k105_308515	Prodigal:002006	CDS	802	1755	.	-	0	ID=NEBLGDEC_00371;Parent=NEBLGDEC_00371_gene;eC_number=1.5.5.2;Name=fadM;gene=fadM;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8RMG1;locus_tag=NEBLGDEC_00371;product=Proline dehydrogenase 1
+k105_308515	prokka	gene	1782	2741	.	-	.	ID=NEBLGDEC_00372_gene;locus_tag=NEBLGDEC_00372
+k105_308515	Prodigal:002006	CDS	1782	2741	.	-	0	ID=NEBLGDEC_00372;Parent=NEBLGDEC_00372_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00372;product=hypothetical protein
+k105_310448	prokka	gene	260	736	.	+	.	ID=NEBLGDEC_00373_gene;locus_tag=NEBLGDEC_00373
+k105_310448	Prodigal:002006	CDS	260	736	.	+	0	ID=NEBLGDEC_00373;Parent=NEBLGDEC_00373_gene;eC_number=4.2.1.150;db_xref=COG:COG1024;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q0AVM1;locus_tag=NEBLGDEC_00373;product=Crotonyl-CoA hydratase
+k105_310448	prokka	gene	812	1582	.	+	.	ID=NEBLGDEC_00374_gene;Name=ybhF;gene=ybhF;locus_tag=NEBLGDEC_00374
+k105_310448	Prodigal:002006	CDS	812	1582	.	+	0	ID=NEBLGDEC_00374;Parent=NEBLGDEC_00374_gene;Name=ybhF;db_xref=COG:COG1131;gene=ybhF;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A9U1;locus_tag=NEBLGDEC_00374;product=putative multidrug ABC transporter ATP-binding protein YbhF
+k105_310448	prokka	gene	1798	2742	.	-	.	ID=NEBLGDEC_00375_gene;locus_tag=NEBLGDEC_00375
+k105_310448	Prodigal:002006	CDS	1798	2742	.	-	0	ID=NEBLGDEC_00375;Parent=NEBLGDEC_00375_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00375;product=hypothetical protein
+k105_311219	prokka	gene	62	517	.	+	.	ID=NEBLGDEC_00376_gene;locus_tag=NEBLGDEC_00376
+k105_311219	Prodigal:002006	CDS	62	517	.	+	0	ID=NEBLGDEC_00376;Parent=NEBLGDEC_00376_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00376;product=hypothetical protein
+k105_311219	prokka	gene	597	1454	.	+	.	ID=NEBLGDEC_00377_gene;locus_tag=NEBLGDEC_00377
+k105_311219	Prodigal:002006	CDS	597	1454	.	+	0	ID=NEBLGDEC_00377;Parent=NEBLGDEC_00377_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00377;product=hypothetical protein
+k105_311219	prokka	gene	1455	2663	.	-	.	ID=NEBLGDEC_00378_gene;locus_tag=NEBLGDEC_00378
+k105_311219	Prodigal:002006	CDS	1455	2663	.	-	0	ID=NEBLGDEC_00378;Parent=NEBLGDEC_00378_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00378;product=hypothetical protein
+k105_123729	prokka	gene	250	921	.	+	.	ID=NEBLGDEC_00379_gene;locus_tag=NEBLGDEC_00379
+k105_123729	Prodigal:002006	CDS	250	921	.	+	0	ID=NEBLGDEC_00379;Parent=NEBLGDEC_00379_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00379;product=hypothetical protein
+k105_123729	prokka	gene	923	2896	.	-	.	ID=NEBLGDEC_00380_gene;locus_tag=NEBLGDEC_00380
+k105_123729	Prodigal:002006	CDS	923	2896	.	-	0	ID=NEBLGDEC_00380;Parent=NEBLGDEC_00380_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00380;product=hypothetical protein
+k105_123729	prokka	gene	2923	3444	.	-	.	ID=NEBLGDEC_00381_gene;locus_tag=NEBLGDEC_00381
+k105_123729	Prodigal:002006	CDS	2923	3444	.	-	0	ID=NEBLGDEC_00381;Parent=NEBLGDEC_00381_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00381;product=hypothetical protein
+k105_315294	prokka	gene	311	2056	.	-	.	ID=NEBLGDEC_00382_gene;locus_tag=NEBLGDEC_00382
+k105_315294	Prodigal:002006	CDS	311	2056	.	-	0	ID=NEBLGDEC_00382;Parent=NEBLGDEC_00382_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00382;product=hypothetical protein
+k105_315294	prokka	gene	2062	2646	.	-	.	ID=NEBLGDEC_00383_gene;locus_tag=NEBLGDEC_00383
+k105_315294	Prodigal:002006	CDS	2062	2646	.	-	0	ID=NEBLGDEC_00383;Parent=NEBLGDEC_00383_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00383;product=hypothetical protein
+k105_316182	prokka	gene	37	819	.	+	.	ID=NEBLGDEC_00384_gene;Name=pchA;gene=pchA;locus_tag=NEBLGDEC_00384
+k105_316182	Prodigal:002006	CDS	37	819	.	+	0	ID=NEBLGDEC_00384;Parent=NEBLGDEC_00384_gene;eC_number=1.2.1.96;Name=pchA;gene=pchA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q59702;locus_tag=NEBLGDEC_00384;product=4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+k105_316182	prokka	gene	1022	1879	.	+	.	ID=NEBLGDEC_00385_gene;locus_tag=NEBLGDEC_00385
+k105_316182	Prodigal:002006	CDS	1022	1879	.	+	0	ID=NEBLGDEC_00385;Parent=NEBLGDEC_00385_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00385;product=hypothetical protein
+k105_316182	prokka	gene	1863	3020	.	-	.	ID=NEBLGDEC_00386_gene;locus_tag=NEBLGDEC_00386
+k105_316182	Prodigal:002006	CDS	1863	3020	.	-	0	ID=NEBLGDEC_00386;Parent=NEBLGDEC_00386_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00386;product=hypothetical protein
+k105_316959	prokka	gene	12	365	.	+	.	ID=NEBLGDEC_00387_gene;Name=pyrG;gene=pyrG;locus_tag=NEBLGDEC_00387
+k105_316959	Prodigal:002006	CDS	12	365	.	+	0	ID=NEBLGDEC_00387;Parent=NEBLGDEC_00387_gene;eC_number=6.3.4.2;Name=pyrG;db_xref=COG:COG0504;gene=pyrG;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q5SIA8;locus_tag=NEBLGDEC_00387;product=CTP synthase
+k105_316959	prokka	gene	367	1476	.	-	.	ID=NEBLGDEC_00388_gene;locus_tag=NEBLGDEC_00388
+k105_316959	Prodigal:002006	CDS	367	1476	.	-	0	ID=NEBLGDEC_00388;Parent=NEBLGDEC_00388_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00388;product=hypothetical protein
+k105_316959	prokka	gene	2064	2504	.	+	.	ID=NEBLGDEC_00389_gene;locus_tag=NEBLGDEC_00389
+k105_316959	Prodigal:002006	CDS	2064	2504	.	+	0	ID=NEBLGDEC_00389;Parent=NEBLGDEC_00389_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00389;product=hypothetical protein
+k105_125692	prokka	gene	257	1378	.	-	.	ID=NEBLGDEC_00390_gene;Name=kynA;gene=kynA;locus_tag=NEBLGDEC_00390
+k105_125692	Prodigal:002006	CDS	257	1378	.	-	0	ID=NEBLGDEC_00390;Parent=NEBLGDEC_00390_gene;eC_number=1.13.11.11;Name=kynA;db_xref=COG:COG3483;gene=kynA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8PDA8;locus_tag=NEBLGDEC_00390;product=Tryptophan 2%2C3-dioxygenase
+k105_125692	prokka	gene	1394	1588	.	-	.	ID=NEBLGDEC_00391_gene;locus_tag=NEBLGDEC_00391
+k105_125692	Prodigal:002006	CDS	1394	1588	.	-	0	ID=NEBLGDEC_00391;Parent=NEBLGDEC_00391_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00391;product=hypothetical protein
+k105_125692	prokka	gene	1786	2898	.	+	.	ID=NEBLGDEC_00392_gene;locus_tag=NEBLGDEC_00392
+k105_125692	Prodigal:002006	CDS	1786	2898	.	+	0	ID=NEBLGDEC_00392;Parent=NEBLGDEC_00392_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00392;product=hypothetical protein
+k105_125692	prokka	gene	2931	3929	.	+	.	ID=NEBLGDEC_00393_gene;locus_tag=NEBLGDEC_00393
+k105_125692	Prodigal:002006	CDS	2931	3929	.	+	0	ID=NEBLGDEC_00393;Parent=NEBLGDEC_00393_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00393;product=hypothetical protein
+k105_125692	prokka	gene	3926	4378	.	-	.	ID=NEBLGDEC_00394_gene;locus_tag=NEBLGDEC_00394
+k105_125692	Prodigal:002006	CDS	3926	4378	.	-	0	ID=NEBLGDEC_00394;Parent=NEBLGDEC_00394_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00394;product=hypothetical protein
+k105_318170	prokka	gene	16	711	.	+	.	ID=NEBLGDEC_00395_gene;locus_tag=NEBLGDEC_00395
+k105_318170	Prodigal:002006	CDS	16	711	.	+	0	ID=NEBLGDEC_00395;Parent=NEBLGDEC_00395_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00395;product=hypothetical protein
+k105_318170	prokka	gene	723	1511	.	+	.	ID=NEBLGDEC_00396_gene;Name=yutF;gene=yutF;locus_tag=NEBLGDEC_00396
+k105_318170	Prodigal:002006	CDS	723	1511	.	+	0	ID=NEBLGDEC_00396;Parent=NEBLGDEC_00396_gene;eC_number=3.1.3.-;Name=yutF;db_xref=COG:COG0647;gene=yutF;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O32125;locus_tag=NEBLGDEC_00396;product=Acid sugar phosphatase
+k105_318170	prokka	gene	1576	3024	.	+	.	ID=NEBLGDEC_00397_gene;locus_tag=NEBLGDEC_00397
+k105_318170	Prodigal:002006	CDS	1576	3024	.	+	0	ID=NEBLGDEC_00397;Parent=NEBLGDEC_00397_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00397;product=hypothetical protein
+k105_318170	prokka	gene	3030	5363	.	-	.	ID=NEBLGDEC_00398_gene;Name=ydfJ;gene=ydfJ;locus_tag=NEBLGDEC_00398
+k105_318170	Prodigal:002006	CDS	3030	5363	.	-	0	ID=NEBLGDEC_00398;Parent=NEBLGDEC_00398_gene;Name=ydfJ;db_xref=COG:COG2409;gene=ydfJ;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P96687;locus_tag=NEBLGDEC_00398;product=Membrane protein YdfJ
+k105_318170	prokka	gene	5402	7117	.	-	.	ID=NEBLGDEC_00399_gene;locus_tag=NEBLGDEC_00399
+k105_318170	Prodigal:002006	CDS	5402	7117	.	-	0	ID=NEBLGDEC_00399;Parent=NEBLGDEC_00399_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00399;product=hypothetical protein
+k105_319289	prokka	gene	552	1562	.	+	.	ID=NEBLGDEC_00400_gene;Name=fda;gene=fda;locus_tag=NEBLGDEC_00400
+k105_319289	Prodigal:002006	CDS	552	1562	.	+	0	ID=NEBLGDEC_00400;Parent=NEBLGDEC_00400_gene;eC_number=4.1.2.13;Name=fda;gene=fda;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00729;locus_tag=NEBLGDEC_00400;product=Fructose-bisphosphate aldolase class 1
+k105_319289	prokka	gene	1662	1958	.	-	.	ID=NEBLGDEC_00401_gene;locus_tag=NEBLGDEC_00401
+k105_319289	Prodigal:002006	CDS	1662	1958	.	-	0	ID=NEBLGDEC_00401;Parent=NEBLGDEC_00401_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00401;product=hypothetical protein
+k105_321099	prokka	gene	63	860	.	+	.	ID=NEBLGDEC_00402_gene;locus_tag=NEBLGDEC_00402
+k105_321099	Prodigal:002006	CDS	63	860	.	+	0	ID=NEBLGDEC_00402;Parent=NEBLGDEC_00402_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00402;product=hypothetical protein
+k105_321099	prokka	gene	1059	3317	.	+	.	ID=NEBLGDEC_00403_gene;locus_tag=NEBLGDEC_00403
+k105_321099	Prodigal:002006	CDS	1059	3317	.	+	0	ID=NEBLGDEC_00403;Parent=NEBLGDEC_00403_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00403;product=hypothetical protein
+k105_321099	prokka	gene	3517	5076	.	+	.	ID=NEBLGDEC_00404_gene;locus_tag=NEBLGDEC_00404
+k105_321099	Prodigal:002006	CDS	3517	5076	.	+	0	ID=NEBLGDEC_00404;Parent=NEBLGDEC_00404_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00404;product=hypothetical protein
+k105_321099	prokka	gene	5078	5401	.	-	.	ID=NEBLGDEC_00405_gene;Name=trxA;gene=trxA;locus_tag=NEBLGDEC_00405
+k105_321099	Prodigal:002006	CDS	5078	5401	.	-	0	ID=NEBLGDEC_00405;Parent=NEBLGDEC_00405_gene;Name=trxA;db_xref=COG:COG0526;gene=trxA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AA28;locus_tag=NEBLGDEC_00405;product=Thioredoxin 1
+k105_321099	prokka	gene	5527	6207	.	+	.	ID=NEBLGDEC_00406_gene;Name=rpe;gene=rpe;locus_tag=NEBLGDEC_00406
+k105_321099	Prodigal:002006	CDS	5527	6207	.	+	0	ID=NEBLGDEC_00406;Parent=NEBLGDEC_00406_gene;eC_number=5.1.3.1;Name=rpe;gene=rpe;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P74061;locus_tag=NEBLGDEC_00406;product=Ribulose-phosphate 3-epimerase
+k105_130367	prokka	gene	351	1562	.	-	.	ID=NEBLGDEC_00407_gene;Name=sucC;gene=sucC;locus_tag=NEBLGDEC_00407
+k105_130367	Prodigal:002006	CDS	351	1562	.	-	0	ID=NEBLGDEC_00407;Parent=NEBLGDEC_00407_gene;eC_number=6.2.1.5;Name=sucC;db_xref=COG:COG0045;gene=sucC;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P80886;locus_tag=NEBLGDEC_00407;product=Succinate--CoA ligase [ADP-forming] subunit beta
+k105_130367	prokka	gene	2120	2392	.	-	.	ID=NEBLGDEC_00408_gene;locus_tag=NEBLGDEC_00408
+k105_130367	Prodigal:002006	CDS	2120	2392	.	-	0	ID=NEBLGDEC_00408;Parent=NEBLGDEC_00408_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00408;product=hypothetical protein
+k105_322406	prokka	gene	226	570	.	+	.	ID=NEBLGDEC_00409_gene;locus_tag=NEBLGDEC_00409
+k105_322406	Prodigal:002006	CDS	226	570	.	+	0	ID=NEBLGDEC_00409;Parent=NEBLGDEC_00409_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00409;product=hypothetical protein
+k105_322406	prokka	gene	818	997	.	+	.	ID=NEBLGDEC_00410_gene;locus_tag=NEBLGDEC_00410
+k105_322406	Prodigal:002006	CDS	818	997	.	+	0	ID=NEBLGDEC_00410;Parent=NEBLGDEC_00410_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00410;product=hypothetical protein
+k105_322406	prokka	gene	1278	2846	.	-	.	ID=NEBLGDEC_00411_gene;locus_tag=NEBLGDEC_00411
+k105_322406	Prodigal:002006	CDS	1278	2846	.	-	0	ID=NEBLGDEC_00411;Parent=NEBLGDEC_00411_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00411;product=hypothetical protein
+k105_131252	prokka	gene	320	529	.	+	.	ID=NEBLGDEC_00412_gene;locus_tag=NEBLGDEC_00412
+k105_131252	Prodigal:002006	CDS	320	529	.	+	0	ID=NEBLGDEC_00412;Parent=NEBLGDEC_00412_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00412;product=hypothetical protein
+k105_131252	prokka	gene	1210	3534	.	+	.	ID=NEBLGDEC_00413_gene;Name=bepA;gene=bepA;locus_tag=NEBLGDEC_00413
+k105_131252	Prodigal:002006	CDS	1210	3534	.	+	0	ID=NEBLGDEC_00413;Parent=NEBLGDEC_00413_gene;eC_number=3.4.-.-;Name=bepA;gene=bepA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00997;locus_tag=NEBLGDEC_00413;product=Beta-barrel assembly-enhancing protease
+k105_131252	prokka	gene	3639	3872	.	-	.	ID=NEBLGDEC_00414_gene;locus_tag=NEBLGDEC_00414
+k105_131252	Prodigal:002006	CDS	3639	3872	.	-	0	ID=NEBLGDEC_00414;Parent=NEBLGDEC_00414_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00414;product=hypothetical protein
+k105_131321	prokka	gene	4	1806	.	+	.	ID=NEBLGDEC_00415_gene;Name=rpoB;gene=rpoB;locus_tag=NEBLGDEC_00415
+k105_131321	Prodigal:002006	CDS	4	1806	.	+	0	ID=NEBLGDEC_00415;Parent=NEBLGDEC_00415_gene;eC_number=2.7.7.6;Name=rpoB;gene=rpoB;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01321;locus_tag=NEBLGDEC_00415;product=DNA-directed RNA polymerase subunit beta
+k105_131321	prokka	gene	1674	3557	.	-	.	ID=NEBLGDEC_00416_gene;locus_tag=NEBLGDEC_00416
+k105_131321	Prodigal:002006	CDS	1674	3557	.	-	0	ID=NEBLGDEC_00416;Parent=NEBLGDEC_00416_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00416;product=hypothetical protein
+k105_132316	prokka	gene	47	1108	.	+	.	ID=NEBLGDEC_00417_gene;locus_tag=NEBLGDEC_00417
+k105_132316	Prodigal:002006	CDS	47	1108	.	+	0	ID=NEBLGDEC_00417;Parent=NEBLGDEC_00417_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00417;product=hypothetical protein
+k105_132316	prokka	gene	1172	1588	.	+	.	ID=NEBLGDEC_00418_gene;locus_tag=NEBLGDEC_00418
+k105_132316	Prodigal:002006	CDS	1172	1588	.	+	0	ID=NEBLGDEC_00418;Parent=NEBLGDEC_00418_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00418;product=hypothetical protein
+k105_132316	prokka	gene	1851	2072	.	+	.	ID=NEBLGDEC_00419_gene;locus_tag=NEBLGDEC_00419
+k105_132316	Prodigal:002006	CDS	1851	2072	.	+	0	ID=NEBLGDEC_00419;Parent=NEBLGDEC_00419_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00419;product=hypothetical protein
+k105_132316	prokka	gene	2081	3094	.	+	.	ID=NEBLGDEC_00420_gene;locus_tag=NEBLGDEC_00420
+k105_132316	Prodigal:002006	CDS	2081	3094	.	+	0	ID=NEBLGDEC_00420;Parent=NEBLGDEC_00420_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00420;product=hypothetical protein
+k105_132316	prokka	gene	3512	4660	.	+	.	ID=NEBLGDEC_00421_gene;locus_tag=NEBLGDEC_00421
+k105_132316	Prodigal:002006	CDS	3512	4660	.	+	0	ID=NEBLGDEC_00421;Parent=NEBLGDEC_00421_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00421;product=hypothetical protein
+k105_132316	prokka	gene	4931	5083	.	+	.	ID=NEBLGDEC_00422_gene;locus_tag=NEBLGDEC_00422
+k105_132316	Prodigal:002006	CDS	4931	5083	.	+	0	ID=NEBLGDEC_00422;Parent=NEBLGDEC_00422_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00422;product=hypothetical protein
+k105_132316	prokka	gene	5093	5785	.	+	.	ID=NEBLGDEC_00423_gene;locus_tag=NEBLGDEC_00423
+k105_132316	Prodigal:002006	CDS	5093	5785	.	+	0	ID=NEBLGDEC_00423;Parent=NEBLGDEC_00423_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00423;product=hypothetical protein
+k105_132316	prokka	gene	5873	7231	.	+	.	ID=NEBLGDEC_00424_gene;locus_tag=NEBLGDEC_00424
+k105_132316	Prodigal:002006	CDS	5873	7231	.	+	0	ID=NEBLGDEC_00424;Parent=NEBLGDEC_00424_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00424;product=hypothetical protein
+k105_132316	prokka	gene	7286	8395	.	+	.	ID=NEBLGDEC_00425_gene;locus_tag=NEBLGDEC_00425
+k105_132316	Prodigal:002006	CDS	7286	8395	.	+	0	ID=NEBLGDEC_00425;Parent=NEBLGDEC_00425_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00425;product=hypothetical protein
+k105_132316	prokka	gene	8207	8815	.	-	.	ID=NEBLGDEC_00426_gene;Name=pyk;gene=pyk;locus_tag=NEBLGDEC_00426
+k105_132316	Prodigal:002006	CDS	8207	8815	.	-	0	ID=NEBLGDEC_00426;Parent=NEBLGDEC_00426_gene;eC_number=2.7.1.40;Name=pyk;gene=pyk;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q02499;locus_tag=NEBLGDEC_00426;product=Pyruvate kinase
+k105_324692	prokka	gene	704	1321	.	-	.	ID=NEBLGDEC_00427_gene;Name=ntpD;gene=ntpD;locus_tag=NEBLGDEC_00427
+k105_324692	Prodigal:002006	CDS	704	1321	.	-	0	ID=NEBLGDEC_00427;Parent=NEBLGDEC_00427_gene;Name=ntpD;gene=ntpD;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P43435;locus_tag=NEBLGDEC_00427;product=V-type sodium ATPase subunit D
+k105_324692	prokka	gene	1360	2742	.	-	.	ID=NEBLGDEC_00428_gene;Name=atpB;gene=atpB;locus_tag=NEBLGDEC_00428
+k105_324692	Prodigal:002006	CDS	1360	2742	.	-	0	ID=NEBLGDEC_00428;Parent=NEBLGDEC_00428_gene;Name=atpB;db_xref=COG:COG1156;gene=atpB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q56404;locus_tag=NEBLGDEC_00428;product=V-type ATP synthase beta chain
+k105_324692	prokka	gene	2755	3711	.	-	.	ID=NEBLGDEC_00429_gene;Name=atpA;gene=atpA;locus_tag=NEBLGDEC_00429
+k105_324692	Prodigal:002006	CDS	2755	3711	.	-	0	ID=NEBLGDEC_00429;Parent=NEBLGDEC_00429_gene;eC_number=7.1.2.2;Name=atpA;db_xref=COG:COG1155;gene=atpA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q56403;locus_tag=NEBLGDEC_00429;product=V-type ATP synthase alpha chain
+k105_325722	prokka	gene	16	264	.	+	.	ID=NEBLGDEC_00430_gene;Name=acrC;gene=acrC;locus_tag=NEBLGDEC_00430
+k105_325722	Prodigal:002006	CDS	16	264	.	+	0	ID=NEBLGDEC_00430;Parent=NEBLGDEC_00430_gene;eC_number=1.3.1.95;Name=acrC;gene=acrC;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:G3KIM8;locus_tag=NEBLGDEC_00430;product=Acryloyl-CoA reductase (NADH)
+k105_325722	prokka	gene	696	768	.	-	.	ID=NEBLGDEC_00431_gene;locus_tag=NEBLGDEC_00431
+k105_325722	Aragorn:001002	tRNA	696	768	.	-	.	ID=NEBLGDEC_00431;Parent=NEBLGDEC_00431_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00431;product=tRNA-Gln(ttg)
+k105_325722	prokka	gene	1033	1335	.	-	.	ID=NEBLGDEC_00432_gene;locus_tag=NEBLGDEC_00432
+k105_325722	Prodigal:002006	CDS	1033	1335	.	-	0	ID=NEBLGDEC_00432;Parent=NEBLGDEC_00432_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00432;product=hypothetical protein
+k105_325722	prokka	gene	1399	3180	.	-	.	ID=NEBLGDEC_00433_gene;locus_tag=NEBLGDEC_00433
+k105_325722	Prodigal:002006	CDS	1399	3180	.	-	0	ID=NEBLGDEC_00433;Parent=NEBLGDEC_00433_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00433;product=hypothetical protein
+k105_327399	prokka	gene	11	211	.	+	.	ID=NEBLGDEC_00434_gene;Name=ndk;gene=ndk;locus_tag=NEBLGDEC_00434
+k105_327399	Prodigal:002006	CDS	11	211	.	+	0	ID=NEBLGDEC_00434;Parent=NEBLGDEC_00434_gene;eC_number=2.7.4.6;Name=ndk;gene=ndk;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P74494;locus_tag=NEBLGDEC_00434;product=Nucleoside diphosphate kinase
+k105_327399	prokka	gene	264	2060	.	+	.	ID=NEBLGDEC_00435_gene;Name=infB;gene=infB;locus_tag=NEBLGDEC_00435
+k105_327399	Prodigal:002006	CDS	264	2060	.	+	0	ID=NEBLGDEC_00435;Parent=NEBLGDEC_00435_gene;Name=infB;gene=infB;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00100_A;locus_tag=NEBLGDEC_00435;product=Translation initiation factor IF-2
+k105_327399	prokka	gene	2194	3189	.	+	.	ID=NEBLGDEC_00436_gene;locus_tag=NEBLGDEC_00436
+k105_327399	Prodigal:002006	CDS	2194	3189	.	+	0	ID=NEBLGDEC_00436;Parent=NEBLGDEC_00436_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00436;product=hypothetical protein
+k105_327399	prokka	gene	3293	4234	.	+	.	ID=NEBLGDEC_00437_gene;Name=soj_1;gene=soj_1;locus_tag=NEBLGDEC_00437
+k105_327399	Prodigal:002006	CDS	3293	4234	.	+	0	ID=NEBLGDEC_00437;Parent=NEBLGDEC_00437_gene;eC_number=3.6.-.-;Name=soj_1;db_xref=COG:COG1192;gene=soj_1;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P37522;locus_tag=NEBLGDEC_00437;product=Sporulation initiation inhibitor protein Soj
+k105_327399	prokka	gene	4351	4578	.	+	.	ID=NEBLGDEC_00438_gene;locus_tag=NEBLGDEC_00438
+k105_327399	Prodigal:002006	CDS	4351	4578	.	+	0	ID=NEBLGDEC_00438;Parent=NEBLGDEC_00438_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00438;product=hypothetical protein
+k105_327399	prokka	gene	4583	4831	.	+	.	ID=NEBLGDEC_00439_gene;locus_tag=NEBLGDEC_00439
+k105_327399	Prodigal:002006	CDS	4583	4831	.	+	0	ID=NEBLGDEC_00439;Parent=NEBLGDEC_00439_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00439;product=hypothetical protein
+k105_327399	prokka	gene	4834	7197	.	-	.	ID=NEBLGDEC_00440_gene;locus_tag=NEBLGDEC_00440
+k105_327399	Prodigal:002006	CDS	4834	7197	.	-	0	ID=NEBLGDEC_00440;Parent=NEBLGDEC_00440_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00440;product=hypothetical protein
+k105_327399	prokka	gene	7370	8272	.	-	.	ID=NEBLGDEC_00441_gene;locus_tag=NEBLGDEC_00441
+k105_327399	Prodigal:002006	CDS	7370	8272	.	-	0	ID=NEBLGDEC_00441;Parent=NEBLGDEC_00441_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00441;product=hypothetical protein
+k105_135781	prokka	gene	587	1177	.	+	.	ID=NEBLGDEC_00442_gene;locus_tag=NEBLGDEC_00442
+k105_135781	Prodigal:002006	CDS	587	1177	.	+	0	ID=NEBLGDEC_00442;Parent=NEBLGDEC_00442_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00442;product=hypothetical protein
+k105_135781	prokka	gene	1160	1828	.	-	.	ID=NEBLGDEC_00443_gene;locus_tag=NEBLGDEC_00443
+k105_135781	Prodigal:002006	CDS	1160	1828	.	-	0	ID=NEBLGDEC_00443;Parent=NEBLGDEC_00443_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00443;product=hypothetical protein
+k105_135781	prokka	gene	1841	2407	.	-	.	ID=NEBLGDEC_00444_gene;Name=mtnA;gene=mtnA;locus_tag=NEBLGDEC_00444
+k105_135781	Prodigal:002006	CDS	1841	2407	.	-	0	ID=NEBLGDEC_00444;Parent=NEBLGDEC_00444_gene;eC_number=5.3.1.23;Name=mtnA;db_xref=COG:COG0182;gene=mtnA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O31662;locus_tag=NEBLGDEC_00444;product=Methylthioribose-1-phosphate isomerase
+k105_136870	prokka	gene	328	1947	.	+	.	ID=NEBLGDEC_00445_gene;locus_tag=NEBLGDEC_00445
+k105_136870	Prodigal:002006	CDS	328	1947	.	+	0	ID=NEBLGDEC_00445;Parent=NEBLGDEC_00445_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00445;product=hypothetical protein
+k105_137192	prokka	gene	81	3044	.	-	.	ID=NEBLGDEC_00446_gene;locus_tag=NEBLGDEC_00446
+k105_137192	Prodigal:002006	CDS	81	3044	.	-	0	ID=NEBLGDEC_00446;Parent=NEBLGDEC_00446_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00446;product=hypothetical protein
+k105_138160	prokka	gene	1	77	.	-	.	ID=NEBLGDEC_00447_gene;locus_tag=NEBLGDEC_00447
+k105_138160	Aragorn:001002	tRNA	1	77	.	-	.	ID=NEBLGDEC_00447;Parent=NEBLGDEC_00447_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00447;product=tRNA-Ile(gat)
+k105_138160	prokka	gene	134	724	.	-	.	ID=NEBLGDEC_00448_gene;locus_tag=NEBLGDEC_00448
+k105_138160	Prodigal:002006	CDS	134	724	.	-	0	ID=NEBLGDEC_00448;Parent=NEBLGDEC_00448_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00448;product=hypothetical protein
+k105_138160	prokka	gene	1133	2620	.	+	.	ID=NEBLGDEC_00449_gene;Name=argD;gene=argD;locus_tag=NEBLGDEC_00449
+k105_138160	Prodigal:002006	CDS	1133	2620	.	+	0	ID=NEBLGDEC_00449;Parent=NEBLGDEC_00449_gene;eC_number=2.6.1.11;Name=argD;db_xref=COG:COG4992;gene=argD;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P40732;locus_tag=NEBLGDEC_00449;product=Acetylornithine/succinyldiaminopimelate aminotransferase
+k105_138160	prokka	gene	2625	3131	.	+	.	ID=NEBLGDEC_00450_gene;locus_tag=NEBLGDEC_00450
+k105_138160	Prodigal:002006	CDS	2625	3131	.	+	0	ID=NEBLGDEC_00450;Parent=NEBLGDEC_00450_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00450;product=hypothetical protein
+k105_138160	prokka	gene	3128	3361	.	-	.	ID=NEBLGDEC_00451_gene;locus_tag=NEBLGDEC_00451
+k105_138160	Prodigal:002006	CDS	3128	3361	.	-	0	ID=NEBLGDEC_00451;Parent=NEBLGDEC_00451_gene;eC_number=2.5.-.-;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00640;locus_tag=NEBLGDEC_00451;product=Deoxyhypusine synthase-like protein
+k105_138807	prokka	gene	110	826	.	+	.	ID=NEBLGDEC_00452_gene;locus_tag=NEBLGDEC_00452
+k105_138807	Prodigal:002006	CDS	110	826	.	+	0	ID=NEBLGDEC_00452;Parent=NEBLGDEC_00452_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00452;product=hypothetical protein
+k105_138807	prokka	gene	869	1639	.	+	.	ID=NEBLGDEC_00453_gene;locus_tag=NEBLGDEC_00453
+k105_138807	Prodigal:002006	CDS	869	1639	.	+	0	ID=NEBLGDEC_00453;Parent=NEBLGDEC_00453_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00453;product=hypothetical protein
+k105_142471	prokka	gene	62	1153	.	+	.	ID=NEBLGDEC_00454_gene;locus_tag=NEBLGDEC_00454
+k105_142471	Prodigal:002006	CDS	62	1153	.	+	0	ID=NEBLGDEC_00454;Parent=NEBLGDEC_00454_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00454;product=hypothetical protein
+k105_142471	prokka	gene	1164	2744	.	-	.	ID=NEBLGDEC_00455_gene;locus_tag=NEBLGDEC_00455
+k105_142471	Prodigal:002006	CDS	1164	2744	.	-	0	ID=NEBLGDEC_00455;Parent=NEBLGDEC_00455_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00455;product=hypothetical protein
+k105_146352	prokka	gene	99	764	.	+	.	ID=NEBLGDEC_00456_gene;locus_tag=NEBLGDEC_00456
+k105_146352	Prodigal:002006	CDS	99	764	.	+	0	ID=NEBLGDEC_00456;Parent=NEBLGDEC_00456_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00456;product=hypothetical protein
+k105_146352	prokka	gene	824	1423	.	+	.	ID=NEBLGDEC_00457_gene;locus_tag=NEBLGDEC_00457
+k105_146352	Prodigal:002006	CDS	824	1423	.	+	0	ID=NEBLGDEC_00457;Parent=NEBLGDEC_00457_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00457;product=hypothetical protein
+k105_146352	prokka	gene	1239	2336	.	-	.	ID=NEBLGDEC_00458_gene;locus_tag=NEBLGDEC_00458
+k105_146352	Prodigal:002006	CDS	1239	2336	.	-	0	ID=NEBLGDEC_00458;Parent=NEBLGDEC_00458_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00458;product=hypothetical protein
+k105_339350	prokka	gene	34	249	.	+	.	ID=NEBLGDEC_00459_gene;locus_tag=NEBLGDEC_00459
+k105_339350	Prodigal:002006	CDS	34	249	.	+	0	ID=NEBLGDEC_00459;Parent=NEBLGDEC_00459_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00459;product=hypothetical protein
+k105_339350	prokka	gene	521	1144	.	+	.	ID=NEBLGDEC_00460_gene;locus_tag=NEBLGDEC_00460
+k105_339350	Prodigal:002006	CDS	521	1144	.	+	0	ID=NEBLGDEC_00460;Parent=NEBLGDEC_00460_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00460;product=hypothetical protein
+k105_339350	prokka	gene	1192	2898	.	+	.	ID=NEBLGDEC_00461_gene;Name=nadE;gene=nadE;locus_tag=NEBLGDEC_00461
+k105_339350	Prodigal:002006	CDS	1192	2898	.	+	0	ID=NEBLGDEC_00461;Parent=NEBLGDEC_00461_gene;eC_number=6.3.5.1;Name=nadE;db_xref=COG:COG0171;gene=nadE;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q03638;locus_tag=NEBLGDEC_00461;product=Glutamine-dependent NAD(+) synthetase
+k105_339350	prokka	gene	2892	3701	.	-	.	ID=NEBLGDEC_00462_gene;locus_tag=NEBLGDEC_00462
+k105_339350	Prodigal:002006	CDS	2892	3701	.	-	0	ID=NEBLGDEC_00462;Parent=NEBLGDEC_00462_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00462;product=hypothetical protein
+k105_339350	prokka	gene	3804	5543	.	+	.	ID=NEBLGDEC_00463_gene;locus_tag=NEBLGDEC_00463
+k105_339350	Prodigal:002006	CDS	3804	5543	.	+	0	ID=NEBLGDEC_00463;Parent=NEBLGDEC_00463_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00463;product=hypothetical protein
+k105_146801	prokka	gene	109	777	.	+	.	ID=NEBLGDEC_00464_gene;Name=rutC;gene=rutC;locus_tag=NEBLGDEC_00464
+k105_146801	Prodigal:002006	CDS	109	777	.	+	0	ID=NEBLGDEC_00464;Parent=NEBLGDEC_00464_gene;eC_number=1.-.-.-;Name=rutC;gene=rutC;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00831;locus_tag=NEBLGDEC_00464;product=Putative aminoacrylate peracid reductase RutC
+k105_146801	prokka	gene	779	1021	.	+	.	ID=NEBLGDEC_00465_gene;locus_tag=NEBLGDEC_00465
+k105_146801	Prodigal:002006	CDS	779	1021	.	+	0	ID=NEBLGDEC_00465;Parent=NEBLGDEC_00465_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00465;product=hypothetical protein
+k105_146801	prokka	gene	1018	2412	.	+	.	ID=NEBLGDEC_00466_gene;Name=algC;gene=algC;locus_tag=NEBLGDEC_00466
+k105_146801	Prodigal:002006	CDS	1018	2412	.	+	0	ID=NEBLGDEC_00466;Parent=NEBLGDEC_00466_gene;eC_number=5.4.2.2;Name=algC;db_xref=COG:COG1109;gene=algC;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P26276;locus_tag=NEBLGDEC_00466;product=Phosphomannomutase/phosphoglucomutase
+k105_146801	prokka	gene	2400	2597	.	-	.	ID=NEBLGDEC_00467_gene;locus_tag=NEBLGDEC_00467
+k105_146801	Prodigal:002006	CDS	2400	2597	.	-	0	ID=NEBLGDEC_00467;Parent=NEBLGDEC_00467_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00467;product=hypothetical protein
+k105_340088	prokka	gene	30	2042	.	+	.	ID=NEBLGDEC_00468_gene;locus_tag=NEBLGDEC_00468
+k105_340088	Prodigal:002006	CDS	30	2042	.	+	0	ID=NEBLGDEC_00468;Parent=NEBLGDEC_00468_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00468;product=hypothetical protein
+k105_340088	prokka	gene	2060	2713	.	+	.	ID=NEBLGDEC_00469_gene;locus_tag=NEBLGDEC_00469
+k105_340088	Prodigal:002006	CDS	2060	2713	.	+	0	ID=NEBLGDEC_00469;Parent=NEBLGDEC_00469_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00469;product=hypothetical protein
+k105_340088	prokka	gene	2723	3421	.	-	.	ID=NEBLGDEC_00470_gene;Name=purC;gene=purC;locus_tag=NEBLGDEC_00470
+k105_340088	Prodigal:002006	CDS	2723	3421	.	-	0	ID=NEBLGDEC_00470;Parent=NEBLGDEC_00470_gene;eC_number=6.3.2.6;Name=purC;db_xref=COG:COG0152;gene=purC;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B1MHW4;locus_tag=NEBLGDEC_00470;product=Phosphoribosylaminoimidazole-succinocarboxamide synthase
+k105_147101	prokka	gene	419	1729	.	-	.	ID=NEBLGDEC_00471_gene;locus_tag=NEBLGDEC_00471
+k105_147101	Prodigal:002006	CDS	419	1729	.	-	0	ID=NEBLGDEC_00471;Parent=NEBLGDEC_00471_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00471;product=hypothetical protein
+k105_147101	prokka	gene	2021	2602	.	+	.	ID=NEBLGDEC_00472_gene;locus_tag=NEBLGDEC_00472
+k105_147101	Prodigal:002006	CDS	2021	2602	.	+	0	ID=NEBLGDEC_00472;Parent=NEBLGDEC_00472_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00472;product=hypothetical protein
+k105_147101	prokka	gene	2596	2832	.	-	.	ID=NEBLGDEC_00473_gene;locus_tag=NEBLGDEC_00473
+k105_147101	Prodigal:002006	CDS	2596	2832	.	-	0	ID=NEBLGDEC_00473;Parent=NEBLGDEC_00473_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00473;product=hypothetical protein
+k105_340284	prokka	gene	598	1071	.	+	.	ID=NEBLGDEC_00474_gene;locus_tag=NEBLGDEC_00474
+k105_340284	Prodigal:002006	CDS	598	1071	.	+	0	ID=NEBLGDEC_00474;Parent=NEBLGDEC_00474_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00474;product=hypothetical protein
+k105_340284	prokka	gene	1113	1310	.	+	.	ID=NEBLGDEC_00475_gene;locus_tag=NEBLGDEC_00475
+k105_340284	Prodigal:002006	CDS	1113	1310	.	+	0	ID=NEBLGDEC_00475;Parent=NEBLGDEC_00475_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00475;product=hypothetical protein
+k105_340284	prokka	gene	1307	2413	.	-	.	ID=NEBLGDEC_00476_gene;Name=xerC;gene=xerC;locus_tag=NEBLGDEC_00476
+k105_340284	Prodigal:002006	CDS	1307	2413	.	-	0	ID=NEBLGDEC_00476;Parent=NEBLGDEC_00476_gene;Name=xerC;gene=xerC;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01808;locus_tag=NEBLGDEC_00476;product=Tyrosine recombinase XerC
+k105_340284	prokka	gene	2566	3828	.	-	.	ID=NEBLGDEC_00477_gene;Name=gshB;gene=gshB;locus_tag=NEBLGDEC_00477
+k105_340284	Prodigal:002006	CDS	2566	3828	.	-	0	ID=NEBLGDEC_00477;Parent=NEBLGDEC_00477_gene;eC_number=6.3.2.3;Name=gshB;gene=gshB;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00162;locus_tag=NEBLGDEC_00477;product=Glutathione synthetase
+k105_341923	prokka	gene	33	662	.	+	.	ID=NEBLGDEC_00478_gene;locus_tag=NEBLGDEC_00478
+k105_341923	Prodigal:002006	CDS	33	662	.	+	0	ID=NEBLGDEC_00478;Parent=NEBLGDEC_00478_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00478;product=hypothetical protein
+k105_341923	prokka	gene	688	1455	.	-	.	ID=NEBLGDEC_00479_gene;locus_tag=NEBLGDEC_00479
+k105_341923	Prodigal:002006	CDS	688	1455	.	-	0	ID=NEBLGDEC_00479;Parent=NEBLGDEC_00479_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00479;product=hypothetical protein
+k105_341923	prokka	gene	1546	1743	.	+	.	ID=NEBLGDEC_00480_gene;locus_tag=NEBLGDEC_00480
+k105_341923	Prodigal:002006	CDS	1546	1743	.	+	0	ID=NEBLGDEC_00480;Parent=NEBLGDEC_00480_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00480;product=hypothetical protein
+k105_341923	prokka	gene	1934	2368	.	-	.	ID=NEBLGDEC_00481_gene;locus_tag=NEBLGDEC_00481
+k105_341923	Prodigal:002006	CDS	1934	2368	.	-	0	ID=NEBLGDEC_00481;Parent=NEBLGDEC_00481_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00481;product=hypothetical protein
+k105_341923	prokka	gene	2408	2938	.	-	.	ID=NEBLGDEC_00482_gene;Name=fumC;gene=fumC;locus_tag=NEBLGDEC_00482
+k105_341923	Prodigal:002006	CDS	2408	2938	.	-	0	ID=NEBLGDEC_00482;Parent=NEBLGDEC_00482_gene;eC_number=4.2.1.2;Name=fumC;db_xref=COG:COG0114;gene=fumC;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q92PB6;locus_tag=NEBLGDEC_00482;product=Fumarate hydratase class II
+k105_150488	prokka	gene	16	153	.	+	.	ID=NEBLGDEC_00483_gene;locus_tag=NEBLGDEC_00483
+k105_150488	Prodigal:002006	CDS	16	153	.	+	0	ID=NEBLGDEC_00483;Parent=NEBLGDEC_00483_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00483;product=hypothetical protein
+k105_150488	prokka	gene	120	1172	.	+	.	ID=NEBLGDEC_00484_gene;locus_tag=NEBLGDEC_00484
+k105_150488	Prodigal:002006	CDS	120	1172	.	+	0	ID=NEBLGDEC_00484;Parent=NEBLGDEC_00484_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00484;product=hypothetical protein
+k105_150488	prokka	gene	1120	1293	.	+	.	ID=NEBLGDEC_00485_gene;locus_tag=NEBLGDEC_00485
+k105_150488	Prodigal:002006	CDS	1120	1293	.	+	0	ID=NEBLGDEC_00485;Parent=NEBLGDEC_00485_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00485;product=hypothetical protein
+k105_150488	prokka	gene	1299	1463	.	+	.	ID=NEBLGDEC_00486_gene;locus_tag=NEBLGDEC_00486
+k105_150488	Prodigal:002006	CDS	1299	1463	.	+	0	ID=NEBLGDEC_00486;Parent=NEBLGDEC_00486_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00486;product=hypothetical protein
+k105_150488	prokka	gene	1405	1665	.	+	.	ID=NEBLGDEC_00487_gene;locus_tag=NEBLGDEC_00487
+k105_150488	Prodigal:002006	CDS	1405	1665	.	+	0	ID=NEBLGDEC_00487;Parent=NEBLGDEC_00487_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00487;product=hypothetical protein
+k105_150488	prokka	gene	1620	1766	.	+	.	ID=NEBLGDEC_00488_gene;locus_tag=NEBLGDEC_00488
+k105_150488	Prodigal:002006	CDS	1620	1766	.	+	0	ID=NEBLGDEC_00488;Parent=NEBLGDEC_00488_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00488;product=hypothetical protein
+k105_150488	prokka	gene	1815	2528	.	+	.	ID=NEBLGDEC_00489_gene;locus_tag=NEBLGDEC_00489
+k105_150488	Prodigal:002006	CDS	1815	2528	.	+	0	ID=NEBLGDEC_00489;Parent=NEBLGDEC_00489_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00489;product=hypothetical protein
+k105_150488	prokka	gene	2579	2716	.	-	.	ID=NEBLGDEC_00490_gene;locus_tag=NEBLGDEC_00490
+k105_150488	Prodigal:002006	CDS	2579	2716	.	-	0	ID=NEBLGDEC_00490;Parent=NEBLGDEC_00490_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00490;product=hypothetical protein
+k105_150531	prokka	gene	410	739	.	-	.	ID=NEBLGDEC_00491_gene;Name=rpsJ;gene=rpsJ;locus_tag=NEBLGDEC_00491
+k105_150531	Prodigal:002006	CDS	410	739	.	-	0	ID=NEBLGDEC_00491;Parent=NEBLGDEC_00491_gene;Name=rpsJ;gene=rpsJ;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B1LBP1;locus_tag=NEBLGDEC_00491;product=30S ribosomal protein S10
+k105_150531	prokka	gene	801	2093	.	-	.	ID=NEBLGDEC_00492_gene;Name=tuf;gene=tuf;locus_tag=NEBLGDEC_00492
+k105_150531	Prodigal:002006	CDS	801	2093	.	-	0	ID=NEBLGDEC_00492;Parent=NEBLGDEC_00492_gene;Name=tuf;db_xref=COG:COG0050;gene=tuf;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P22679;locus_tag=NEBLGDEC_00492;product=Elongation factor Tu
+k105_150531	prokka	gene	2251	3411	.	-	.	ID=NEBLGDEC_00493_gene;locus_tag=NEBLGDEC_00493
+k105_150531	Prodigal:002006	CDS	2251	3411	.	-	0	ID=NEBLGDEC_00493;Parent=NEBLGDEC_00493_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00493;product=hypothetical protein
+k105_345294	prokka	gene	216	1352	.	+	.	ID=NEBLGDEC_00494_gene;locus_tag=NEBLGDEC_00494
+k105_345294	Prodigal:002006	CDS	216	1352	.	+	0	ID=NEBLGDEC_00494;Parent=NEBLGDEC_00494_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00494;product=hypothetical protein
+k105_345294	prokka	gene	1461	2204	.	-	.	ID=NEBLGDEC_00495_gene;Name=cinA;gene=cinA;locus_tag=NEBLGDEC_00495
+k105_345294	Prodigal:002006	CDS	1461	2204	.	-	0	ID=NEBLGDEC_00495;Parent=NEBLGDEC_00495_gene;Name=cinA;gene=cinA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00226_B;locus_tag=NEBLGDEC_00495;product=Putative competence-damage inducible protein
+k105_345294	prokka	gene	2252	2326	.	-	.	ID=NEBLGDEC_00496_gene;locus_tag=NEBLGDEC_00496
+k105_345294	Aragorn:001002	tRNA	2252	2326	.	-	.	ID=NEBLGDEC_00496;Parent=NEBLGDEC_00496_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00496;product=tRNA-Val(tac)
+k105_151776	prokka	gene	163	1140	.	-	.	ID=NEBLGDEC_00497_gene;locus_tag=NEBLGDEC_00497
+k105_151776	Prodigal:002006	CDS	163	1140	.	-	0	ID=NEBLGDEC_00497;Parent=NEBLGDEC_00497_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00497;product=hypothetical protein
+k105_151776	prokka	gene	1133	4783	.	-	.	ID=NEBLGDEC_00498_gene;locus_tag=NEBLGDEC_00498
+k105_151776	Prodigal:002006	CDS	1133	4783	.	-	0	ID=NEBLGDEC_00498;Parent=NEBLGDEC_00498_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00498;product=hypothetical protein
+k105_346847	prokka	gene	115	1248	.	+	.	ID=NEBLGDEC_00499_gene;locus_tag=NEBLGDEC_00499
+k105_346847	Prodigal:002006	CDS	115	1248	.	+	0	ID=NEBLGDEC_00499;Parent=NEBLGDEC_00499_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00499;product=hypothetical protein
+k105_346847	prokka	gene	1290	1616	.	+	.	ID=NEBLGDEC_00500_gene;Name=copR;gene=copR;locus_tag=NEBLGDEC_00500
+k105_346847	Prodigal:002006	CDS	1290	1616	.	+	0	ID=NEBLGDEC_00500;Parent=NEBLGDEC_00500_gene;Name=copR;gene=copR;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q02540;locus_tag=NEBLGDEC_00500;product=Transcriptional activator protein CopR
+k105_346847	prokka	gene	1613	2323	.	-	.	ID=NEBLGDEC_00501_gene;Name=degU;gene=degU;locus_tag=NEBLGDEC_00501
+k105_346847	Prodigal:002006	CDS	1613	2323	.	-	0	ID=NEBLGDEC_00501;Parent=NEBLGDEC_00501_gene;Name=degU;db_xref=COG:COG2197;gene=degU;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P13800;locus_tag=NEBLGDEC_00501;product=Transcriptional regulatory protein DegU
+k105_346847	prokka	gene	2457	2756	.	-	.	ID=NEBLGDEC_00502_gene;Name=regX3;gene=regX3;locus_tag=NEBLGDEC_00502
+k105_346847	Prodigal:002006	CDS	2457	2756	.	-	0	ID=NEBLGDEC_00502;Parent=NEBLGDEC_00502_gene;Name=regX3;db_xref=COG:COG0745;gene=regX3;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9F868;locus_tag=NEBLGDEC_00502;product=Sensory transduction protein regX3
+k105_155044	prokka	gene	134	520	.	+	.	ID=NEBLGDEC_00503_gene;locus_tag=NEBLGDEC_00503
+k105_155044	Prodigal:002006	CDS	134	520	.	+	0	ID=NEBLGDEC_00503;Parent=NEBLGDEC_00503_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00503;product=hypothetical protein
+k105_155044	prokka	gene	517	1419	.	+	.	ID=NEBLGDEC_00504_gene;Name=phnE;gene=phnE;locus_tag=NEBLGDEC_00504
+k105_155044	Prodigal:002006	CDS	517	1419	.	+	0	ID=NEBLGDEC_00504;Parent=NEBLGDEC_00504_gene;Name=phnE;db_xref=COG:COG3639;gene=phnE;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A0QQ68;locus_tag=NEBLGDEC_00504;product=Phosphate-import permease protein PhnE
+k105_155044	prokka	gene	1416	1631	.	-	.	ID=NEBLGDEC_00505_gene;locus_tag=NEBLGDEC_00505
+k105_155044	Prodigal:002006	CDS	1416	1631	.	-	0	ID=NEBLGDEC_00505;Parent=NEBLGDEC_00505_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00505;product=hypothetical protein
+k105_155044	prokka	gene	2782	2868	.	+	.	ID=NEBLGDEC_00506_gene;locus_tag=NEBLGDEC_00506
+k105_155044	Aragorn:001002	tRNA	2782	2868	.	+	.	ID=NEBLGDEC_00506;Parent=NEBLGDEC_00506_gene;inference=COORDINATES:profile:Aragorn:001002;locus_tag=NEBLGDEC_00506;product=tRNA-Leu(tag)
+k105_155671	prokka	gene	60	419	.	+	.	ID=NEBLGDEC_00507_gene;locus_tag=NEBLGDEC_00507
+k105_155671	Prodigal:002006	CDS	60	419	.	+	0	ID=NEBLGDEC_00507;Parent=NEBLGDEC_00507_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00507;product=hypothetical protein
+k105_155671	prokka	gene	419	1381	.	+	.	ID=NEBLGDEC_00508_gene;Name=panE;gene=panE;locus_tag=NEBLGDEC_00508
+k105_155671	Prodigal:002006	CDS	419	1381	.	+	0	ID=NEBLGDEC_00508;Parent=NEBLGDEC_00508_gene;eC_number=1.1.1.169;Name=panE;db_xref=COG:COG1893;gene=panE;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9HW09;locus_tag=NEBLGDEC_00508;product=2-dehydropantoate 2-reductase
+k105_155671	prokka	gene	1378	2520	.	-	.	ID=NEBLGDEC_00509_gene;Name=nadB;gene=nadB;locus_tag=NEBLGDEC_00509
+k105_155671	Prodigal:002006	CDS	1378	2520	.	-	0	ID=NEBLGDEC_00509;Parent=NEBLGDEC_00509_gene;eC_number=1.4.3.16;Name=nadB;db_xref=COG:COG0029;gene=nadB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8ZMX9;locus_tag=NEBLGDEC_00509;product=L-aspartate oxidase
+k105_158958	prokka	gene	18	734	.	-	.	ID=NEBLGDEC_00510_gene;Name=yknY;gene=yknY;locus_tag=NEBLGDEC_00510
+k105_158958	Prodigal:002006	CDS	18	734	.	-	0	ID=NEBLGDEC_00510;Parent=NEBLGDEC_00510_gene;eC_number=3.6.3.-;Name=yknY;db_xref=COG:COG1136;gene=yknY;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O31711;locus_tag=NEBLGDEC_00510;product=putative ABC transporter ATP-binding protein YknY
+k105_158958	prokka	gene	801	1910	.	-	.	ID=NEBLGDEC_00511_gene;Name=mshA;gene=mshA;locus_tag=NEBLGDEC_00511
+k105_158958	Prodigal:002006	CDS	801	1910	.	-	0	ID=NEBLGDEC_00511;Parent=NEBLGDEC_00511_gene;eC_number=2.4.1.250;Name=mshA;gene=mshA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01695;locus_tag=NEBLGDEC_00511;product=D-inositol-3-phosphate glycosyltransferase
+k105_353600	prokka	gene	23	2908	.	+	.	ID=NEBLGDEC_00512_gene;locus_tag=NEBLGDEC_00512
+k105_353600	Prodigal:002006	CDS	23	2908	.	+	0	ID=NEBLGDEC_00512;Parent=NEBLGDEC_00512_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00512;product=hypothetical protein
+k105_355568	prokka	gene	27	530	.	+	.	ID=NEBLGDEC_00513_gene;locus_tag=NEBLGDEC_00513
+k105_355568	Prodigal:002006	CDS	27	530	.	+	0	ID=NEBLGDEC_00513;Parent=NEBLGDEC_00513_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00513;product=hypothetical protein
+k105_355568	prokka	gene	588	1397	.	+	.	ID=NEBLGDEC_00514_gene;locus_tag=NEBLGDEC_00514
+k105_355568	Prodigal:002006	CDS	588	1397	.	+	0	ID=NEBLGDEC_00514;Parent=NEBLGDEC_00514_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00514;product=hypothetical protein
+k105_355568	prokka	gene	1529	3271	.	-	.	ID=NEBLGDEC_00515_gene;locus_tag=NEBLGDEC_00515
+k105_355568	Prodigal:002006	CDS	1529	3271	.	-	0	ID=NEBLGDEC_00515;Parent=NEBLGDEC_00515_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00515;product=hypothetical protein
+k105_161202	prokka	gene	726	3128	.	-	.	ID=NEBLGDEC_00516_gene;locus_tag=NEBLGDEC_00516
+k105_161202	Prodigal:002006	CDS	726	3128	.	-	0	ID=NEBLGDEC_00516;Parent=NEBLGDEC_00516_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00516;product=hypothetical protein
+k105_161839	prokka	gene	69	419	.	+	.	ID=NEBLGDEC_00517_gene;Name=pfdA;gene=pfdA;locus_tag=NEBLGDEC_00517
+k105_161839	Prodigal:002006	CDS	69	419	.	+	0	ID=NEBLGDEC_00517;Parent=NEBLGDEC_00517_gene;Name=pfdA;gene=pfdA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00308;locus_tag=NEBLGDEC_00517;product=Prefoldin subunit alpha
+k105_161839	prokka	gene	429	1805	.	+	.	ID=NEBLGDEC_00518_gene;Name=ftsY;gene=ftsY;locus_tag=NEBLGDEC_00518
+k105_161839	Prodigal:002006	CDS	429	1805	.	+	0	ID=NEBLGDEC_00518;Parent=NEBLGDEC_00518_gene;Name=ftsY;gene=ftsY;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00920;locus_tag=NEBLGDEC_00518;product=Signal recognition particle receptor FtsY
+k105_161839	prokka	gene	1815	2186	.	+	.	ID=NEBLGDEC_00519_gene;locus_tag=NEBLGDEC_00519
+k105_161839	Prodigal:002006	CDS	1815	2186	.	+	0	ID=NEBLGDEC_00519;Parent=NEBLGDEC_00519_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00519;product=hypothetical protein
+k105_161839	prokka	gene	2246	2902	.	+	.	ID=NEBLGDEC_00520_gene;locus_tag=NEBLGDEC_00520
+k105_161839	Prodigal:002006	CDS	2246	2902	.	+	0	ID=NEBLGDEC_00520;Parent=NEBLGDEC_00520_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00520;product=hypothetical protein
+k105_161839	prokka	gene	2890	3162	.	-	.	ID=NEBLGDEC_00521_gene;locus_tag=NEBLGDEC_00521
+k105_161839	Prodigal:002006	CDS	2890	3162	.	-	0	ID=NEBLGDEC_00521;Parent=NEBLGDEC_00521_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00521;product=hypothetical protein
+k105_161839	prokka	gene	3116	3694	.	-	.	ID=NEBLGDEC_00522_gene;Name=pyrF;gene=pyrF;locus_tag=NEBLGDEC_00522
+k105_161839	Prodigal:002006	CDS	3116	3694	.	-	0	ID=NEBLGDEC_00522;Parent=NEBLGDEC_00522_gene;Name=pyrF;gene=pyrF;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01200_A;locus_tag=NEBLGDEC_00522;product=Orotidine 5'-phosphate decarboxylase
+k105_358576	prokka	gene	82	417	.	+	.	ID=NEBLGDEC_00523_gene;Name=grxD;gene=grxD;locus_tag=NEBLGDEC_00523
+k105_358576	Prodigal:002006	CDS	82	417	.	+	0	ID=NEBLGDEC_00523;Parent=NEBLGDEC_00523_gene;Name=grxD;db_xref=COG:COG0278;gene=grxD;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AC69;locus_tag=NEBLGDEC_00523;product=Glutaredoxin 4
+k105_358576	prokka	gene	378	1652	.	-	.	ID=NEBLGDEC_00524_gene;locus_tag=NEBLGDEC_00524
+k105_358576	Prodigal:002006	CDS	378	1652	.	-	0	ID=NEBLGDEC_00524;Parent=NEBLGDEC_00524_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00524;product=hypothetical protein
+k105_358576	prokka	gene	1649	2659	.	-	.	ID=NEBLGDEC_00525_gene;locus_tag=NEBLGDEC_00525
+k105_358576	Prodigal:002006	CDS	1649	2659	.	-	0	ID=NEBLGDEC_00525;Parent=NEBLGDEC_00525_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00525;product=hypothetical protein
+k105_163864	prokka	gene	17	1951	.	+	.	ID=NEBLGDEC_00526_gene;locus_tag=NEBLGDEC_00526
+k105_163864	Prodigal:002006	CDS	17	1951	.	+	0	ID=NEBLGDEC_00526;Parent=NEBLGDEC_00526_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00526;product=hypothetical protein
+k105_163864	prokka	gene	2030	2542	.	-	.	ID=NEBLGDEC_00527_gene;locus_tag=NEBLGDEC_00527
+k105_163864	Prodigal:002006	CDS	2030	2542	.	-	0	ID=NEBLGDEC_00527;Parent=NEBLGDEC_00527_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00527;product=hypothetical protein
+k105_359271	prokka	gene	89	1138	.	+	.	ID=NEBLGDEC_00528_gene;locus_tag=NEBLGDEC_00528
+k105_359271	Prodigal:002006	CDS	89	1138	.	+	0	ID=NEBLGDEC_00528;Parent=NEBLGDEC_00528_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00528;product=hypothetical protein
+k105_359271	prokka	gene	1256	1474	.	+	.	ID=NEBLGDEC_00529_gene;locus_tag=NEBLGDEC_00529
+k105_359271	Prodigal:002006	CDS	1256	1474	.	+	0	ID=NEBLGDEC_00529;Parent=NEBLGDEC_00529_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00529;product=hypothetical protein
+k105_359271	prokka	gene	1573	2247	.	+	.	ID=NEBLGDEC_00530_gene;locus_tag=NEBLGDEC_00530
+k105_359271	Prodigal:002006	CDS	1573	2247	.	+	0	ID=NEBLGDEC_00530;Parent=NEBLGDEC_00530_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00530;product=hypothetical protein
+k105_359271	prokka	gene	2244	2756	.	+	.	ID=NEBLGDEC_00531_gene;locus_tag=NEBLGDEC_00531
+k105_359271	Prodigal:002006	CDS	2244	2756	.	+	0	ID=NEBLGDEC_00531;Parent=NEBLGDEC_00531_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00531;product=hypothetical protein
+k105_359271	prokka	gene	2757	3002	.	+	.	ID=NEBLGDEC_00532_gene;locus_tag=NEBLGDEC_00532
+k105_359271	Prodigal:002006	CDS	2757	3002	.	+	0	ID=NEBLGDEC_00532;Parent=NEBLGDEC_00532_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00532;product=hypothetical protein
+k105_359271	prokka	gene	2999	3757	.	-	.	ID=NEBLGDEC_00533_gene;locus_tag=NEBLGDEC_00533
+k105_359271	Prodigal:002006	CDS	2999	3757	.	-	0	ID=NEBLGDEC_00533;Parent=NEBLGDEC_00533_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00533;product=hypothetical protein
+k105_164436	prokka	gene	106	807	.	+	.	ID=NEBLGDEC_00534_gene;locus_tag=NEBLGDEC_00534
+k105_164436	Prodigal:002006	CDS	106	807	.	+	0	ID=NEBLGDEC_00534;Parent=NEBLGDEC_00534_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00534;product=hypothetical protein
+k105_164436	prokka	gene	898	2082	.	-	.	ID=NEBLGDEC_00535_gene;Name=leuB;gene=leuB;locus_tag=NEBLGDEC_00535
+k105_164436	Prodigal:002006	CDS	898	2082	.	-	0	ID=NEBLGDEC_00535;Parent=NEBLGDEC_00535_gene;eC_number=1.1.1.85;Name=leuB;db_xref=COG:COG0473;gene=leuB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P30125;locus_tag=NEBLGDEC_00535;product=3-isopropylmalate dehydrogenase
+k105_164436	prokka	gene	2250	2882	.	+	.	ID=NEBLGDEC_00536_gene;locus_tag=NEBLGDEC_00536
+k105_164436	Prodigal:002006	CDS	2250	2882	.	+	0	ID=NEBLGDEC_00536;Parent=NEBLGDEC_00536_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00536;product=hypothetical protein
+k105_167729	prokka	gene	17	565	.	+	.	ID=NEBLGDEC_00537_gene;locus_tag=NEBLGDEC_00537
+k105_167729	Prodigal:002006	CDS	17	565	.	+	0	ID=NEBLGDEC_00537;Parent=NEBLGDEC_00537_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00537;product=hypothetical protein
+k105_167729	prokka	gene	651	1589	.	+	.	ID=NEBLGDEC_00538_gene;Name=soj_2;gene=soj_2;locus_tag=NEBLGDEC_00538
+k105_167729	Prodigal:002006	CDS	651	1589	.	+	0	ID=NEBLGDEC_00538;Parent=NEBLGDEC_00538_gene;eC_number=3.6.-.-;Name=soj_2;db_xref=COG:COG1192;gene=soj_2;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P37522;locus_tag=NEBLGDEC_00538;product=Sporulation initiation inhibitor protein Soj
+k105_167729	prokka	gene	1599	2051	.	+	.	ID=NEBLGDEC_00539_gene;locus_tag=NEBLGDEC_00539
+k105_167729	Prodigal:002006	CDS	1599	2051	.	+	0	ID=NEBLGDEC_00539;Parent=NEBLGDEC_00539_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00539;product=hypothetical protein
+k105_170103	prokka	gene	435	1010	.	+	.	ID=NEBLGDEC_00540_gene;locus_tag=NEBLGDEC_00540
+k105_170103	Prodigal:002006	CDS	435	1010	.	+	0	ID=NEBLGDEC_00540;Parent=NEBLGDEC_00540_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00540;product=hypothetical protein
+k105_170103	prokka	gene	1364	2554	.	-	.	ID=NEBLGDEC_00541_gene;locus_tag=NEBLGDEC_00541
+k105_170103	Prodigal:002006	CDS	1364	2554	.	-	0	ID=NEBLGDEC_00541;Parent=NEBLGDEC_00541_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00541;product=hypothetical protein
+k105_170103	prokka	gene	2774	3256	.	+	.	ID=NEBLGDEC_00542_gene;locus_tag=NEBLGDEC_00542
+k105_170103	Prodigal:002006	CDS	2774	3256	.	+	0	ID=NEBLGDEC_00542;Parent=NEBLGDEC_00542_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00542;product=hypothetical protein
+k105_170103	prokka	gene	3259	3915	.	+	.	ID=NEBLGDEC_00543_gene;locus_tag=NEBLGDEC_00543
+k105_170103	Prodigal:002006	CDS	3259	3915	.	+	0	ID=NEBLGDEC_00543;Parent=NEBLGDEC_00543_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00543;product=hypothetical protein
+k105_170103	prokka	gene	3960	4175	.	+	.	ID=NEBLGDEC_00544_gene;locus_tag=NEBLGDEC_00544
+k105_170103	Prodigal:002006	CDS	3960	4175	.	+	0	ID=NEBLGDEC_00544;Parent=NEBLGDEC_00544_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00544;product=hypothetical protein
+k105_170103	prokka	gene	4185	4784	.	+	.	ID=NEBLGDEC_00545_gene;Name=mobA;gene=mobA;locus_tag=NEBLGDEC_00545
+k105_170103	Prodigal:002006	CDS	4185	4784	.	+	0	ID=NEBLGDEC_00545;Parent=NEBLGDEC_00545_gene;eC_number=2.7.7.77;Name=mobA;gene=mobA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00316;locus_tag=NEBLGDEC_00545;product=Molybdenum cofactor guanylyltransferase
+k105_170103	prokka	gene	4747	5361	.	-	.	ID=NEBLGDEC_00546_gene;Name=purN;gene=purN;locus_tag=NEBLGDEC_00546
+k105_170103	Prodigal:002006	CDS	4747	5361	.	-	0	ID=NEBLGDEC_00546;Parent=NEBLGDEC_00546_gene;eC_number=2.1.2.2;Name=purN;db_xref=COG:COG0299;gene=purN;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P08179;locus_tag=NEBLGDEC_00546;product=Phosphoribosylglycinamide formyltransferase
+k105_170103	prokka	gene	5423	5896	.	+	.	ID=NEBLGDEC_00547_gene;locus_tag=NEBLGDEC_00547
+k105_170103	Prodigal:002006	CDS	5423	5896	.	+	0	ID=NEBLGDEC_00547;Parent=NEBLGDEC_00547_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00547;product=hypothetical protein
+k105_170103	prokka	gene	5890	7548	.	-	.	ID=NEBLGDEC_00548_gene;Name=purH;gene=purH;locus_tag=NEBLGDEC_00548
+k105_170103	Prodigal:002006	CDS	5890	7548	.	-	0	ID=NEBLGDEC_00548;Parent=NEBLGDEC_00548_gene;Name=purH;db_xref=COG:COG0138;gene=purH;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P15639;locus_tag=NEBLGDEC_00548;product=Bifunctional purine biosynthesis protein PurH
+k105_170103	prokka	gene	7730	9310	.	-	.	ID=NEBLGDEC_00549_gene;Name=groL1;gene=groL1;locus_tag=NEBLGDEC_00549
+k105_170103	Prodigal:002006	CDS	7730	9310	.	-	0	ID=NEBLGDEC_00549;Parent=NEBLGDEC_00549_gene;Name=groL1;db_xref=COG:COG0459;gene=groL1;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P20110;locus_tag=NEBLGDEC_00549;product=60 kDa chaperonin 1
+k105_170103	prokka	gene	9365	10720	.	-	.	ID=NEBLGDEC_00550_gene;locus_tag=NEBLGDEC_00550
+k105_170103	Prodigal:002006	CDS	9365	10720	.	-	0	ID=NEBLGDEC_00550;Parent=NEBLGDEC_00550_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00550;product=hypothetical protein
+k105_170103	prokka	gene	10775	11161	.	-	.	ID=NEBLGDEC_00551_gene;locus_tag=NEBLGDEC_00551
+k105_170103	Prodigal:002006	CDS	10775	11161	.	-	0	ID=NEBLGDEC_00551;Parent=NEBLGDEC_00551_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00551;product=hypothetical protein
+k105_170103	prokka	gene	11158	12180	.	-	.	ID=NEBLGDEC_00552_gene;Name=iolG;gene=iolG;locus_tag=NEBLGDEC_00552
+k105_170103	Prodigal:002006	CDS	11158	12180	.	-	0	ID=NEBLGDEC_00552;Parent=NEBLGDEC_00552_gene;eC_number=1.1.1.369;Name=iolG;gene=iolG;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01671;locus_tag=NEBLGDEC_00552;product=Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+k105_170103	prokka	gene	12234	13436	.	+	.	ID=NEBLGDEC_00553_gene;locus_tag=NEBLGDEC_00553
+k105_170103	Prodigal:002006	CDS	12234	13436	.	+	0	ID=NEBLGDEC_00553;Parent=NEBLGDEC_00553_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00553;product=hypothetical protein
+k105_170603	prokka	gene	94	933	.	+	.	ID=NEBLGDEC_00554_gene;locus_tag=NEBLGDEC_00554
+k105_170603	Prodigal:002006	CDS	94	933	.	+	0	ID=NEBLGDEC_00554;Parent=NEBLGDEC_00554_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00554;product=hypothetical protein
+k105_170603	prokka	gene	949	1743	.	+	.	ID=NEBLGDEC_00555_gene;locus_tag=NEBLGDEC_00555
+k105_170603	Prodigal:002006	CDS	949	1743	.	+	0	ID=NEBLGDEC_00555;Parent=NEBLGDEC_00555_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00555;product=hypothetical protein
+k105_170603	prokka	gene	1744	5283	.	-	.	ID=NEBLGDEC_00556_gene;locus_tag=NEBLGDEC_00556
+k105_170603	Prodigal:002006	CDS	1744	5283	.	-	0	ID=NEBLGDEC_00556;Parent=NEBLGDEC_00556_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00556;product=hypothetical protein
+k105_170603	prokka	gene	5400	6632	.	+	.	ID=NEBLGDEC_00557_gene;Name=ftsZ_2;gene=ftsZ_2;locus_tag=NEBLGDEC_00557
+k105_170603	Prodigal:002006	CDS	5400	6632	.	+	0	ID=NEBLGDEC_00557;Parent=NEBLGDEC_00557_gene;Name=ftsZ_2;gene=ftsZ_2;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00909;locus_tag=NEBLGDEC_00557;product=Cell division protein FtsZ
+k105_170603	prokka	gene	6714	6992	.	+	.	ID=NEBLGDEC_00558_gene;locus_tag=NEBLGDEC_00558
+k105_170603	Prodigal:002006	CDS	6714	6992	.	+	0	ID=NEBLGDEC_00558;Parent=NEBLGDEC_00558_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00558;product=hypothetical protein
+k105_170603	prokka	gene	7014	7880	.	+	.	ID=NEBLGDEC_00559_gene;locus_tag=NEBLGDEC_00559
+k105_170603	Prodigal:002006	CDS	7014	7880	.	+	0	ID=NEBLGDEC_00559;Parent=NEBLGDEC_00559_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00559;product=hypothetical protein
+k105_170603	prokka	gene	7957	8235	.	+	.	ID=NEBLGDEC_00560_gene;locus_tag=NEBLGDEC_00560
+k105_170603	Prodigal:002006	CDS	7957	8235	.	+	0	ID=NEBLGDEC_00560;Parent=NEBLGDEC_00560_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00560;product=hypothetical protein
+k105_170603	prokka	gene	8297	8941	.	+	.	ID=NEBLGDEC_00561_gene;Name=rplA;gene=rplA;locus_tag=NEBLGDEC_00561
+k105_170603	Prodigal:002006	CDS	8297	8941	.	+	0	ID=NEBLGDEC_00561;Parent=NEBLGDEC_00561_gene;Name=rplA;db_xref=COG:COG0081;gene=rplA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q6N4R5;locus_tag=NEBLGDEC_00561;product=50S ribosomal protein L1
+k105_170603	prokka	gene	8938	9954	.	+	.	ID=NEBLGDEC_00562_gene;locus_tag=NEBLGDEC_00562
+k105_170603	Prodigal:002006	CDS	8938	9954	.	+	0	ID=NEBLGDEC_00562;Parent=NEBLGDEC_00562_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00562;product=hypothetical protein
+k105_170603	prokka	gene	9991	10296	.	+	.	ID=NEBLGDEC_00563_gene;locus_tag=NEBLGDEC_00563
+k105_170603	Prodigal:002006	CDS	9991	10296	.	+	0	ID=NEBLGDEC_00563;Parent=NEBLGDEC_00563_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00563;product=hypothetical protein
+k105_170627	prokka	gene	543	986	.	+	.	ID=NEBLGDEC_00564_gene;locus_tag=NEBLGDEC_00564
+k105_170627	Prodigal:002006	CDS	543	986	.	+	0	ID=NEBLGDEC_00564;Parent=NEBLGDEC_00564_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00564;product=hypothetical protein
+k105_170627	prokka	gene	1149	2213	.	+	.	ID=NEBLGDEC_00565_gene;locus_tag=NEBLGDEC_00565
+k105_170627	Prodigal:002006	CDS	1149	2213	.	+	0	ID=NEBLGDEC_00565;Parent=NEBLGDEC_00565_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00565;product=hypothetical protein
+k105_170627	prokka	gene	2300	2977	.	-	.	ID=NEBLGDEC_00566_gene;locus_tag=NEBLGDEC_00566
+k105_170627	Prodigal:002006	CDS	2300	2977	.	-	0	ID=NEBLGDEC_00566;Parent=NEBLGDEC_00566_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00566;product=hypothetical protein
+k105_172488	prokka	gene	1	1212	.	+	.	ID=NEBLGDEC_00567_gene;locus_tag=NEBLGDEC_00567
+k105_172488	Prodigal:002006	CDS	1	1212	.	+	0	ID=NEBLGDEC_00567;Parent=NEBLGDEC_00567_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00567;product=hypothetical protein
+k105_172488	prokka	gene	1231	1653	.	+	.	ID=NEBLGDEC_00568_gene;locus_tag=NEBLGDEC_00568
+k105_172488	Prodigal:002006	CDS	1231	1653	.	+	0	ID=NEBLGDEC_00568;Parent=NEBLGDEC_00568_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00568;product=hypothetical protein
+k105_172488	prokka	gene	1706	1855	.	+	.	ID=NEBLGDEC_00569_gene;locus_tag=NEBLGDEC_00569
+k105_172488	Prodigal:002006	CDS	1706	1855	.	+	0	ID=NEBLGDEC_00569;Parent=NEBLGDEC_00569_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00569;product=hypothetical protein
+k105_172488	prokka	gene	1906	2634	.	-	.	ID=NEBLGDEC_00570_gene;locus_tag=NEBLGDEC_00570
+k105_172488	Prodigal:002006	CDS	1906	2634	.	-	0	ID=NEBLGDEC_00570;Parent=NEBLGDEC_00570_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00570;product=hypothetical protein
+k105_174747	prokka	gene	844	1638	.	+	.	ID=NEBLGDEC_00571_gene;locus_tag=NEBLGDEC_00571
+k105_174747	Prodigal:002006	CDS	844	1638	.	+	0	ID=NEBLGDEC_00571;Parent=NEBLGDEC_00571_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00571;product=hypothetical protein
+k105_174747	prokka	gene	1639	4158	.	-	.	ID=NEBLGDEC_00572_gene;locus_tag=NEBLGDEC_00572
+k105_174747	Prodigal:002006	CDS	1639	4158	.	-	0	ID=NEBLGDEC_00572;Parent=NEBLGDEC_00572_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00572;product=hypothetical protein
+k105_178371	prokka	gene	14	2491	.	+	.	ID=NEBLGDEC_00573_gene;Name=clsB;gene=clsB;locus_tag=NEBLGDEC_00573
+k105_178371	Prodigal:002006	CDS	14	2491	.	+	0	ID=NEBLGDEC_00573;Parent=NEBLGDEC_00573_gene;eC_number=2.7.8.-;Name=clsB;gene=clsB;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01917;locus_tag=NEBLGDEC_00573;product=Cardiolipin synthase B
+k105_178383	prokka	gene	60	1514	.	+	.	ID=NEBLGDEC_00574_gene;locus_tag=NEBLGDEC_00574
+k105_178383	Prodigal:002006	CDS	60	1514	.	+	0	ID=NEBLGDEC_00574;Parent=NEBLGDEC_00574_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00574;product=hypothetical protein
+k105_178383	prokka	gene	1504	1953	.	-	.	ID=NEBLGDEC_00575_gene;locus_tag=NEBLGDEC_00575
+k105_178383	Prodigal:002006	CDS	1504	1953	.	-	0	ID=NEBLGDEC_00575;Parent=NEBLGDEC_00575_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00575;product=hypothetical protein
+k105_178383	prokka	gene	1958	2926	.	-	.	ID=NEBLGDEC_00576_gene;locus_tag=NEBLGDEC_00576
+k105_178383	Prodigal:002006	CDS	1958	2926	.	-	0	ID=NEBLGDEC_00576;Parent=NEBLGDEC_00576_gene;db_xref=COG:COG0327;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q57354;locus_tag=NEBLGDEC_00576;product=GTP cyclohydrolase 1 type 2 
+k105_178383	prokka	gene	2936	3361	.	-	.	ID=NEBLGDEC_00577_gene;locus_tag=NEBLGDEC_00577
+k105_178383	Prodigal:002006	CDS	2936	3361	.	-	0	ID=NEBLGDEC_00577;Parent=NEBLGDEC_00577_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00577;product=hypothetical protein
+k105_178383	prokka	gene	3593	5725	.	+	.	ID=NEBLGDEC_00578_gene;locus_tag=NEBLGDEC_00578
+k105_178383	Prodigal:002006	CDS	3593	5725	.	+	0	ID=NEBLGDEC_00578;Parent=NEBLGDEC_00578_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00578;product=hypothetical protein
+k105_178383	prokka	gene	5883	6959	.	-	.	ID=NEBLGDEC_00579_gene;locus_tag=NEBLGDEC_00579
+k105_178383	Prodigal:002006	CDS	5883	6959	.	-	0	ID=NEBLGDEC_00579;Parent=NEBLGDEC_00579_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00579;product=hypothetical protein
+k105_178383	prokka	gene	7347	7790	.	-	.	ID=NEBLGDEC_00580_gene;locus_tag=NEBLGDEC_00580
+k105_178383	Prodigal:002006	CDS	7347	7790	.	-	0	ID=NEBLGDEC_00580;Parent=NEBLGDEC_00580_gene;inference=ab initio prediction:Prodigal:002006;locus_tag=NEBLGDEC_00580;product=hypothetical protein

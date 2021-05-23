@@ -1,0 +1,1161 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NEBLGDEC_00001	gene	876				
+NEBLGDEC_00001	CDS	876				hypothetical protein
+NEBLGDEC_00002	gene	1047				
+NEBLGDEC_00002	CDS	1047				hypothetical protein
+NEBLGDEC_00003	gene	198				
+NEBLGDEC_00003	CDS	198				hypothetical protein
+NEBLGDEC_00004	gene	363				
+NEBLGDEC_00004	CDS	363				hypothetical protein
+NEBLGDEC_00005	gene	705				
+NEBLGDEC_00005	CDS	705				hypothetical protein
+NEBLGDEC_00006	gene	1293				
+NEBLGDEC_00006	CDS	1293				hypothetical protein
+NEBLGDEC_00007	gene	972				
+NEBLGDEC_00007	CDS	972				hypothetical protein
+NEBLGDEC_00008	gene	630				
+NEBLGDEC_00008	CDS	630				hypothetical protein
+NEBLGDEC_00009	gene	312				
+NEBLGDEC_00009	CDS	312				hypothetical protein
+NEBLGDEC_00010	gene	207				
+NEBLGDEC_00010	CDS	207				hypothetical protein
+NEBLGDEC_00011	gene	675				
+NEBLGDEC_00011	CDS	675				hypothetical protein
+NEBLGDEC_00012	gene	1062				
+NEBLGDEC_00012	CDS	1062				hypothetical protein
+NEBLGDEC_00013	gene	1848	msbA			
+NEBLGDEC_00013	CDS	1848	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+NEBLGDEC_00014	gene	819				
+NEBLGDEC_00014	CDS	819				hypothetical protein
+NEBLGDEC_00015	gene	597				
+NEBLGDEC_00015	CDS	597				hypothetical protein
+NEBLGDEC_00016	gene	306	accC			
+NEBLGDEC_00016	CDS	306	accC	6.3.4.14	COG0439	Biotin carboxylase
+NEBLGDEC_00017	gene	966	RBKS			
+NEBLGDEC_00017	CDS	966	RBKS	2.7.1.15		Ribokinase
+NEBLGDEC_00018	gene	1728				
+NEBLGDEC_00018	CDS	1728				hypothetical protein
+NEBLGDEC_00019	gene	324				
+NEBLGDEC_00019	CDS	324				hypothetical protein
+NEBLGDEC_00020	gene	1377				
+NEBLGDEC_00020	CDS	1377				hypothetical protein
+NEBLGDEC_00021	gene	120				
+NEBLGDEC_00021	CDS	120				hypothetical protein
+NEBLGDEC_00022	gene	633				
+NEBLGDEC_00022	CDS	633				hypothetical protein
+NEBLGDEC_00023	gene	1212				
+NEBLGDEC_00023	CDS	1212				hypothetical protein
+NEBLGDEC_00024	gene	591				
+NEBLGDEC_00024	CDS	591				hypothetical protein
+NEBLGDEC_00025	gene	318				
+NEBLGDEC_00025	CDS	318				hypothetical protein
+NEBLGDEC_00026	gene	183				
+NEBLGDEC_00026	CDS	183				hypothetical protein
+NEBLGDEC_00027	gene	195				
+NEBLGDEC_00027	CDS	195				hypothetical protein
+NEBLGDEC_00028	gene	3054	mngB			
+NEBLGDEC_00028	CDS	3054	mngB	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+NEBLGDEC_00029	gene	870				
+NEBLGDEC_00029	CDS	870				hypothetical protein
+NEBLGDEC_00030	gene	351				
+NEBLGDEC_00030	CDS	351				hypothetical protein
+NEBLGDEC_00031	gene	714				
+NEBLGDEC_00031	CDS	714				hypothetical protein
+NEBLGDEC_00032	gene	729				
+NEBLGDEC_00032	CDS	729				hypothetical protein
+NEBLGDEC_00033	gene	558	orn			
+NEBLGDEC_00033	CDS	558	orn	3.1.-.-	COG1949	Oligoribonuclease
+NEBLGDEC_00034	gene	1326	entS			
+NEBLGDEC_00034	CDS	1326	entS			Enterobactin exporter EntS
+NEBLGDEC_00035	gene	801				
+NEBLGDEC_00035	CDS	801				hypothetical protein
+NEBLGDEC_00036	gene	423				
+NEBLGDEC_00036	CDS	423				hypothetical protein
+NEBLGDEC_00037	gene	1731				
+NEBLGDEC_00037	CDS	1731				hypothetical protein
+NEBLGDEC_00038	gene	1116				
+NEBLGDEC_00038	CDS	1116				hypothetical protein
+NEBLGDEC_00039	gene	984	purM			
+NEBLGDEC_00039	CDS	984	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+NEBLGDEC_00040	gene	1287				
+NEBLGDEC_00040	CDS	1287				hypothetical protein
+NEBLGDEC_00041	gene	507				
+NEBLGDEC_00041	CDS	507				hypothetical protein
+NEBLGDEC_00042	gene	480				
+NEBLGDEC_00042	CDS	480				hypothetical protein
+NEBLGDEC_00043	gene	1248	aspC_1			
+NEBLGDEC_00043	CDS	1248	aspC_1	2.6.1.1	COG0436	putative aspartate aminotransferase
+NEBLGDEC_00044	gene	144				
+NEBLGDEC_00044	CDS	144				hypothetical protein
+NEBLGDEC_00045	gene	1098				
+NEBLGDEC_00045	CDS	1098				hypothetical protein
+NEBLGDEC_00046	gene	1227	csd			
+NEBLGDEC_00046	CDS	1227	csd	2.8.1.7		putative cysteine desulfurase
+NEBLGDEC_00047	gene	417	sufE			
+NEBLGDEC_00047	CDS	417	sufE		COG2166	Cysteine desulfuration protein SufE
+NEBLGDEC_00048	gene	303	sufT			
+NEBLGDEC_00048	CDS	303	sufT			Fe-S protein maturation auxiliary factor SufT
+NEBLGDEC_00049	gene	198				
+NEBLGDEC_00049	CDS	198				hypothetical protein
+NEBLGDEC_00050	gene	870	folD			
+NEBLGDEC_00050	CDS	870	folD			Bifunctional protein FolD protein
+NEBLGDEC_00051	gene	1290	truD			
+NEBLGDEC_00051	CDS	1290	truD	5.4.99.27		tRNA pseudouridine synthase D
+NEBLGDEC_00052	gene	1365				
+NEBLGDEC_00052	CDS	1365				hypothetical protein
+NEBLGDEC_00053	gene	744				
+NEBLGDEC_00053	CDS	744				hypothetical protein
+NEBLGDEC_00054	gene	522				
+NEBLGDEC_00054	CDS	522				hypothetical protein
+NEBLGDEC_00055	gene	447	yhaH			
+NEBLGDEC_00055	CDS	447	yhaH		COG3152	Inner membrane protein YhaH
+NEBLGDEC_00056	gene	639				
+NEBLGDEC_00056	CDS	639				hypothetical protein
+NEBLGDEC_00057	gene	831	icmF			
+NEBLGDEC_00057	CDS	831	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+NEBLGDEC_00058	gene	402	mcm			
+NEBLGDEC_00058	CDS	402	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+NEBLGDEC_00059	gene	771				
+NEBLGDEC_00059	CDS	771				hypothetical protein
+NEBLGDEC_00060	gene	147				
+NEBLGDEC_00060	CDS	147				hypothetical protein
+NEBLGDEC_00061	gene	333				
+NEBLGDEC_00061	CDS	333				hypothetical protein
+NEBLGDEC_00062	gene	276				
+NEBLGDEC_00062	CDS	276				hypothetical protein
+NEBLGDEC_00063	gene	465				
+NEBLGDEC_00063	CDS	465				hypothetical protein
+NEBLGDEC_00064	gene	822				
+NEBLGDEC_00064	CDS	822				hypothetical protein
+NEBLGDEC_00065	gene	996	pseB			
+NEBLGDEC_00065	CDS	996	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+NEBLGDEC_00066	gene	165				
+NEBLGDEC_00066	CDS	165				hypothetical protein
+NEBLGDEC_00067	gene	507				
+NEBLGDEC_00067	CDS	507				hypothetical protein
+NEBLGDEC_00068	gene	174				
+NEBLGDEC_00068	CDS	174				hypothetical protein
+NEBLGDEC_00069	gene	858				
+NEBLGDEC_00069	CDS	858		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2346
+NEBLGDEC_00070	gene	270				
+NEBLGDEC_00070	CDS	270				hypothetical protein
+NEBLGDEC_00071	gene	465				
+NEBLGDEC_00071	CDS	465				hypothetical protein
+NEBLGDEC_00072	gene	189				
+NEBLGDEC_00072	CDS	189				hypothetical protein
+NEBLGDEC_00073	gene	1404				
+NEBLGDEC_00073	CDS	1404				hypothetical protein
+NEBLGDEC_00074	gene	828				
+NEBLGDEC_00074	CDS	828				hypothetical protein
+NEBLGDEC_00075	gene	85				
+NEBLGDEC_00075	tRNA	85				tRNA-Ser(tga)
+NEBLGDEC_00076	gene	351				
+NEBLGDEC_00076	CDS	351				hypothetical protein
+NEBLGDEC_00077	gene	405				
+NEBLGDEC_00077	CDS	405				hypothetical protein
+NEBLGDEC_00078	gene	615				
+NEBLGDEC_00078	CDS	615				hypothetical protein
+NEBLGDEC_00079	gene	1140				
+NEBLGDEC_00079	CDS	1140				hypothetical protein
+NEBLGDEC_00080	gene	420				
+NEBLGDEC_00080	CDS	420				hypothetical protein
+NEBLGDEC_00081	gene	981				
+NEBLGDEC_00081	CDS	981				hypothetical protein
+NEBLGDEC_00082	gene	483				
+NEBLGDEC_00082	CDS	483				hypothetical protein
+NEBLGDEC_00083	gene	243				
+NEBLGDEC_00083	CDS	243				hypothetical protein
+NEBLGDEC_00084	gene	1743				
+NEBLGDEC_00084	CDS	1743				hypothetical protein
+NEBLGDEC_00085	gene	510				
+NEBLGDEC_00085	CDS	510				hypothetical protein
+NEBLGDEC_00086	gene	1194				
+NEBLGDEC_00086	CDS	1194				hypothetical protein
+NEBLGDEC_00087	gene	261				
+NEBLGDEC_00087	CDS	261				hypothetical protein
+NEBLGDEC_00088	gene	213				
+NEBLGDEC_00088	CDS	213				hypothetical protein
+NEBLGDEC_00089	gene	1626				
+NEBLGDEC_00089	CDS	1626				hypothetical protein
+NEBLGDEC_00090	gene	558				
+NEBLGDEC_00090	CDS	558				hypothetical protein
+NEBLGDEC_00091	gene	102				
+NEBLGDEC_00091	CDS	102				hypothetical protein
+NEBLGDEC_00092	gene	1071				
+NEBLGDEC_00092	CDS	1071				hypothetical protein
+NEBLGDEC_00093	gene	813				
+NEBLGDEC_00093	CDS	813				hypothetical protein
+NEBLGDEC_00094	gene	789	paaF			
+NEBLGDEC_00094	CDS	789	paaF	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+NEBLGDEC_00095	gene	1173				
+NEBLGDEC_00095	CDS	1173				hypothetical protein
+NEBLGDEC_00096	gene	1032				
+NEBLGDEC_00096	CDS	1032				hypothetical protein
+NEBLGDEC_00097	gene	156				
+NEBLGDEC_00097	CDS	156				hypothetical protein
+NEBLGDEC_00098	gene	798				
+NEBLGDEC_00098	CDS	798				hypothetical protein
+NEBLGDEC_00099	gene	1029				
+NEBLGDEC_00099	CDS	1029				hypothetical protein
+NEBLGDEC_00100	gene	522				
+NEBLGDEC_00100	CDS	522				hypothetical protein
+NEBLGDEC_00101	gene	1242				
+NEBLGDEC_00101	CDS	1242				hypothetical protein
+NEBLGDEC_00102	gene	993				
+NEBLGDEC_00102	CDS	993				hypothetical protein
+NEBLGDEC_00103	gene	795	arnC			
+NEBLGDEC_00103	CDS	795	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+NEBLGDEC_00104	gene	1278				
+NEBLGDEC_00104	CDS	1278		2.4.1.11	COG0438	Glycogen synthase
+NEBLGDEC_00105	gene	177				
+NEBLGDEC_00105	CDS	177				hypothetical protein
+NEBLGDEC_00106	gene	423	lrp			
+NEBLGDEC_00106	CDS	423	lrp		COG1522	Leucine-responsive regulatory protein
+NEBLGDEC_00107	gene	402				
+NEBLGDEC_00107	CDS	402				hypothetical protein
+NEBLGDEC_00108	gene	1254	eno			
+NEBLGDEC_00108	CDS	1254	eno	4.2.1.11	COG0148	Enolase
+NEBLGDEC_00109	gene	837				
+NEBLGDEC_00109	CDS	837		2.6.1.1		Aspartate aminotransferase
+NEBLGDEC_00110	gene	525				
+NEBLGDEC_00110	CDS	525				hypothetical protein
+NEBLGDEC_00111	gene	1149	bcd			
+NEBLGDEC_00111	CDS	1149	bcd	1.3.8.1	COG1960	Acyl-CoA dehydrogenase, short-chain specific
+NEBLGDEC_00112	gene	987	bfmBAB			
+NEBLGDEC_00112	CDS	987	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+NEBLGDEC_00113	gene	765				
+NEBLGDEC_00113	CDS	765				hypothetical protein
+NEBLGDEC_00114	gene	468				
+NEBLGDEC_00114	CDS	468				hypothetical protein
+NEBLGDEC_00115	gene	594				
+NEBLGDEC_00115	CDS	594				hypothetical protein
+NEBLGDEC_00116	gene	384	rpsK			
+NEBLGDEC_00116	CDS	384	rpsK		COG0100	30S ribosomal protein S11
+NEBLGDEC_00117	gene	396				
+NEBLGDEC_00117	CDS	396				hypothetical protein
+NEBLGDEC_00118	gene	1116				
+NEBLGDEC_00118	CDS	1116				hypothetical protein
+NEBLGDEC_00119	gene	1320				
+NEBLGDEC_00119	CDS	1320				hypothetical protein
+NEBLGDEC_00120	gene	426				
+NEBLGDEC_00120	CDS	426				hypothetical protein
+NEBLGDEC_00121	gene	312				
+NEBLGDEC_00121	CDS	312				hypothetical protein
+NEBLGDEC_00122	gene	561				
+NEBLGDEC_00122	CDS	561				hypothetical protein
+NEBLGDEC_00123	gene	324				
+NEBLGDEC_00123	CDS	324				hypothetical protein
+NEBLGDEC_00124	gene	759				
+NEBLGDEC_00124	CDS	759				hypothetical protein
+NEBLGDEC_00125	gene	1143	moeA			
+NEBLGDEC_00125	CDS	1143	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+NEBLGDEC_00126	gene	2961	uvrA			
+NEBLGDEC_00126	CDS	2961	uvrA			UvrABC system protein A
+NEBLGDEC_00127	gene	2856				
+NEBLGDEC_00127	CDS	2856				hypothetical protein
+NEBLGDEC_00128	gene	738				
+NEBLGDEC_00128	CDS	738				hypothetical protein
+NEBLGDEC_00129	gene	1215				
+NEBLGDEC_00129	CDS	1215				hypothetical protein
+NEBLGDEC_00130	gene	117				
+NEBLGDEC_00130	CDS	117				hypothetical protein
+NEBLGDEC_00131	gene	342				
+NEBLGDEC_00131	CDS	342				hypothetical protein
+NEBLGDEC_00132	gene	1449				
+NEBLGDEC_00132	CDS	1449				hypothetical protein
+NEBLGDEC_00133	gene	1836				
+NEBLGDEC_00133	CDS	1836				hypothetical protein
+NEBLGDEC_00134	gene	168				
+NEBLGDEC_00134	CDS	168				hypothetical protein
+NEBLGDEC_00135	gene	4203				
+NEBLGDEC_00135	CDS	4203				hypothetical protein
+NEBLGDEC_00136	gene	726	fmt			
+NEBLGDEC_00136	CDS	726	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+NEBLGDEC_00137	gene	762	fabG			
+NEBLGDEC_00137	CDS	762	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NEBLGDEC_00138	gene	1143				
+NEBLGDEC_00138	CDS	1143				hypothetical protein
+NEBLGDEC_00139	gene	477				
+NEBLGDEC_00139	CDS	477				hypothetical protein
+NEBLGDEC_00140	gene	1326				
+NEBLGDEC_00140	CDS	1326				hypothetical protein
+NEBLGDEC_00141	gene	300				
+NEBLGDEC_00141	CDS	300				hypothetical protein
+NEBLGDEC_00142	gene	336	rsxB			
+NEBLGDEC_00142	CDS	336	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+NEBLGDEC_00143	gene	243				
+NEBLGDEC_00143	CDS	243				hypothetical protein
+NEBLGDEC_00144	gene	2283	lutA			
+NEBLGDEC_00144	CDS	2283	lutA			Lactate utilization protein A
+NEBLGDEC_00145	gene	891				
+NEBLGDEC_00145	CDS	891				hypothetical protein
+NEBLGDEC_00146	gene	222				
+NEBLGDEC_00146	CDS	222				hypothetical protein
+NEBLGDEC_00147	gene	594				
+NEBLGDEC_00147	CDS	594				hypothetical protein
+NEBLGDEC_00148	gene	687				
+NEBLGDEC_00148	CDS	687				hypothetical protein
+NEBLGDEC_00149	gene	354				
+NEBLGDEC_00149	CDS	354				hypothetical protein
+NEBLGDEC_00150	gene	1167				
+NEBLGDEC_00150	CDS	1167				Ca(2+)/H(+) antiporter
+NEBLGDEC_00151	gene	999				
+NEBLGDEC_00151	CDS	999				hypothetical protein
+NEBLGDEC_00152	gene	1263				
+NEBLGDEC_00152	CDS	1263		3.5.4.32	COG0402	8-oxoguanine deaminase
+NEBLGDEC_00153	gene	690				
+NEBLGDEC_00153	CDS	690				putative protein
+NEBLGDEC_00154	gene	642				
+NEBLGDEC_00154	CDS	642				hypothetical protein
+NEBLGDEC_00155	gene	2322				
+NEBLGDEC_00155	CDS	2322				hypothetical protein
+NEBLGDEC_00156	gene	3189				
+NEBLGDEC_00156	CDS	3189				hypothetical protein
+NEBLGDEC_00157	gene	2055	TOP6B			
+NEBLGDEC_00157	CDS	2055	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+NEBLGDEC_00158	gene	726				
+NEBLGDEC_00158	CDS	726				hypothetical protein
+NEBLGDEC_00159	gene	1995	leuC			
+NEBLGDEC_00159	CDS	1995	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+NEBLGDEC_00160	gene	1830				
+NEBLGDEC_00160	CDS	1830				hypothetical protein
+NEBLGDEC_00161	gene	177				
+NEBLGDEC_00161	CDS	177				hypothetical protein
+NEBLGDEC_00162	gene	1146				
+NEBLGDEC_00162	CDS	1146				hypothetical protein
+NEBLGDEC_00163	gene	1347				
+NEBLGDEC_00163	CDS	1347				hypothetical protein
+NEBLGDEC_00164	gene	546	lacA			
+NEBLGDEC_00164	CDS	546	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+NEBLGDEC_00165	gene	834	psd			
+NEBLGDEC_00165	CDS	834	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+NEBLGDEC_00166	gene	612				
+NEBLGDEC_00166	CDS	612				hypothetical protein
+NEBLGDEC_00167	gene	1413				
+NEBLGDEC_00167	CDS	1413				hypothetical protein
+NEBLGDEC_00168	gene	606	tam			
+NEBLGDEC_00168	CDS	606	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+NEBLGDEC_00169	gene	429				
+NEBLGDEC_00169	CDS	429				hypothetical protein
+NEBLGDEC_00170	gene	390				
+NEBLGDEC_00170	CDS	390				hypothetical protein
+NEBLGDEC_00171	gene	510				
+NEBLGDEC_00171	CDS	510				hypothetical protein
+NEBLGDEC_00172	gene	2757	copA			
+NEBLGDEC_00172	CDS	2757	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+NEBLGDEC_00173	gene	753	ycsE			
+NEBLGDEC_00173	CDS	753	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+NEBLGDEC_00174	gene	747				
+NEBLGDEC_00174	CDS	747				hypothetical protein
+NEBLGDEC_00175	gene	75				
+NEBLGDEC_00175	tRNA	75				tRNA-Phe(gaa)
+NEBLGDEC_00176	gene	822	rph			
+NEBLGDEC_00176	CDS	822	rph	2.7.7.56	COG0689	Ribonuclease PH
+NEBLGDEC_00177	gene	585	mog			
+NEBLGDEC_00177	CDS	585	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+NEBLGDEC_00178	gene	600				
+NEBLGDEC_00178	CDS	600				hypothetical protein
+NEBLGDEC_00179	gene	489				
+NEBLGDEC_00179	CDS	489				hypothetical protein
+NEBLGDEC_00180	gene	252				
+NEBLGDEC_00180	CDS	252				hypothetical protein
+NEBLGDEC_00181	gene	945	ruvB			
+NEBLGDEC_00181	CDS	945	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+NEBLGDEC_00182	gene	618				
+NEBLGDEC_00182	CDS	618				hypothetical protein
+NEBLGDEC_00183	gene	996	obg			
+NEBLGDEC_00183	CDS	996	obg	3.6.5.-		GTPase Obg
+NEBLGDEC_00184	gene	573				
+NEBLGDEC_00184	CDS	573				hypothetical protein
+NEBLGDEC_00185	gene	321				
+NEBLGDEC_00185	CDS	321				hypothetical protein
+NEBLGDEC_00186	gene	1374	pyrH			
+NEBLGDEC_00186	CDS	1374	pyrH			Uridylate kinase
+NEBLGDEC_00187	gene	1488	ndhA			
+NEBLGDEC_00187	CDS	1488	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+NEBLGDEC_00188	gene	462	ndhH			
+NEBLGDEC_00188	CDS	462	ndhH	7.1.1.-	COG0649	NAD(P)H-quinone oxidoreductase subunit H
+NEBLGDEC_00189	gene	1233				
+NEBLGDEC_00189	CDS	1233				hypothetical protein
+NEBLGDEC_00190	gene	74				
+NEBLGDEC_00190	tRNA	74				tRNA-Gln(ctg)
+NEBLGDEC_00191	gene	1188	aceE			
+NEBLGDEC_00191	CDS	1188	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+NEBLGDEC_00192	gene	255				
+NEBLGDEC_00192	CDS	255				hypothetical protein
+NEBLGDEC_00193	gene	1287				
+NEBLGDEC_00193	CDS	1287				hypothetical protein
+NEBLGDEC_00194	gene	1251				
+NEBLGDEC_00194	CDS	1251				hypothetical protein
+NEBLGDEC_00195	gene	174				
+NEBLGDEC_00195	CDS	174				hypothetical protein
+NEBLGDEC_00196	gene	495				
+NEBLGDEC_00196	CDS	495				hypothetical protein
+NEBLGDEC_00197	gene	345	tatA			
+NEBLGDEC_00197	CDS	345	tatA			Sec-independent protein translocase protein TatA
+NEBLGDEC_00198	gene	231				
+NEBLGDEC_00198	CDS	231				hypothetical protein
+NEBLGDEC_00199	gene	699	lolD			
+NEBLGDEC_00199	CDS	699	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+NEBLGDEC_00200	gene	426				
+NEBLGDEC_00200	CDS	426				hypothetical protein
+NEBLGDEC_00201	gene	447				
+NEBLGDEC_00201	CDS	447				hypothetical protein
+NEBLGDEC_00202	gene	240				
+NEBLGDEC_00202	CDS	240				hypothetical protein
+NEBLGDEC_00203	gene	393				
+NEBLGDEC_00203	CDS	393				hypothetical protein
+NEBLGDEC_00204	gene	183				
+NEBLGDEC_00204	CDS	183				hypothetical protein
+NEBLGDEC_00205	gene	1311				
+NEBLGDEC_00205	CDS	1311				hypothetical protein
+NEBLGDEC_00206	gene	888				
+NEBLGDEC_00206	CDS	888				hypothetical protein
+NEBLGDEC_00207	gene	582				
+NEBLGDEC_00207	CDS	582				hypothetical protein
+NEBLGDEC_00208	gene	606				
+NEBLGDEC_00208	CDS	606				hypothetical protein
+NEBLGDEC_00209	gene	894				
+NEBLGDEC_00209	CDS	894		1.1.1.35	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+NEBLGDEC_00210	gene	2304				
+NEBLGDEC_00210	CDS	2304				hypothetical protein
+NEBLGDEC_00211	gene	165				
+NEBLGDEC_00211	CDS	165				hypothetical protein
+NEBLGDEC_00212	gene	1179				
+NEBLGDEC_00212	CDS	1179				hypothetical protein
+NEBLGDEC_00213	gene	1452				
+NEBLGDEC_00213	CDS	1452				hypothetical protein
+NEBLGDEC_00214	gene	906	amnB			
+NEBLGDEC_00214	CDS	906	amnB	1.13.11.74		2-aminophenol 1,6-dioxygenase beta subunit
+NEBLGDEC_00215	gene	1215				
+NEBLGDEC_00215	CDS	1215				hypothetical protein
+NEBLGDEC_00216	gene	1173	accA1			
+NEBLGDEC_00216	CDS	1173	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+NEBLGDEC_00217	gene	435	cfiA			
+NEBLGDEC_00217	CDS	435	cfiA	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+NEBLGDEC_00218	gene	975	serS			
+NEBLGDEC_00218	CDS	975	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+NEBLGDEC_00219	gene	762				
+NEBLGDEC_00219	CDS	762				hypothetical protein
+NEBLGDEC_00220	gene	420				
+NEBLGDEC_00220	CDS	420				hypothetical protein
+NEBLGDEC_00221	gene	891	nadK			
+NEBLGDEC_00221	CDS	891	nadK	2.7.1.23		NAD kinase
+NEBLGDEC_00222	gene	603	msrP			
+NEBLGDEC_00222	CDS	603	msrP	1.8.5.-		Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+NEBLGDEC_00223	gene	366				
+NEBLGDEC_00223	CDS	366				hypothetical protein
+NEBLGDEC_00224	gene	522				
+NEBLGDEC_00224	CDS	522				hypothetical protein
+NEBLGDEC_00225	gene	1485	glmM			
+NEBLGDEC_00225	CDS	1485	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+NEBLGDEC_00226	gene	648	glmU			
+NEBLGDEC_00226	CDS	648	glmU	2.7.7.23		Bifunctional protein GlmU
+NEBLGDEC_00227	gene	1641	pckA			
+NEBLGDEC_00227	CDS	1641	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+NEBLGDEC_00228	gene	309				
+NEBLGDEC_00228	CDS	309				hypothetical protein
+NEBLGDEC_00229	gene	453	decR			
+NEBLGDEC_00229	CDS	453	decR		COG1522	DNA-binding transcriptional activator DecR
+NEBLGDEC_00230	gene	351				
+NEBLGDEC_00230	CDS	351				hypothetical protein
+NEBLGDEC_00231	gene	330				
+NEBLGDEC_00231	CDS	330				hypothetical protein
+NEBLGDEC_00232	gene	318				
+NEBLGDEC_00232	CDS	318				hypothetical protein
+NEBLGDEC_00233	gene	255				
+NEBLGDEC_00233	CDS	255				hypothetical protein
+NEBLGDEC_00234	gene	264				
+NEBLGDEC_00234	CDS	264				hypothetical protein
+NEBLGDEC_00235	gene	729				
+NEBLGDEC_00235	CDS	729				hypothetical protein
+NEBLGDEC_00236	gene	567				
+NEBLGDEC_00236	CDS	567				hypothetical protein
+NEBLGDEC_00237	gene	1095				
+NEBLGDEC_00237	CDS	1095				hypothetical protein
+NEBLGDEC_00238	gene	1029	lysDH			
+NEBLGDEC_00238	CDS	1029	lysDH	1.4.1.18		Lysine 6-dehydrogenase
+NEBLGDEC_00239	gene	1365	pepP			
+NEBLGDEC_00239	CDS	1365	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+NEBLGDEC_00240	gene	1527				
+NEBLGDEC_00240	CDS	1527				hypothetical protein
+NEBLGDEC_00241	gene	357				
+NEBLGDEC_00241	CDS	357				hypothetical protein
+NEBLGDEC_00242	gene	474				
+NEBLGDEC_00242	CDS	474				hypothetical protein
+NEBLGDEC_00243	gene	849	pqqB			
+NEBLGDEC_00243	CDS	849	pqqB			Coenzyme PQQ synthesis protein B
+NEBLGDEC_00244	gene	1050				
+NEBLGDEC_00244	CDS	1050				hypothetical protein
+NEBLGDEC_00245	gene	795				
+NEBLGDEC_00245	CDS	795				hypothetical protein
+NEBLGDEC_00246	gene	2100	ligA			
+NEBLGDEC_00246	CDS	2100	ligA	6.5.1.2	COG0272	DNA ligase
+NEBLGDEC_00247	gene	666				
+NEBLGDEC_00247	CDS	666				hypothetical protein
+NEBLGDEC_00248	gene	564				
+NEBLGDEC_00248	CDS	564				hypothetical protein
+NEBLGDEC_00249	gene	912				
+NEBLGDEC_00249	CDS	912				putative epimerase/dehydratase
+NEBLGDEC_00250	gene	1434	groL			
+NEBLGDEC_00250	CDS	1434	groL		COG0459	60 kDa chaperonin
+NEBLGDEC_00251	gene	1041				
+NEBLGDEC_00251	CDS	1041				hypothetical protein
+NEBLGDEC_00252	gene	498				
+NEBLGDEC_00252	CDS	498				hypothetical protein
+NEBLGDEC_00253	gene	240				
+NEBLGDEC_00253	CDS	240				hypothetical protein
+NEBLGDEC_00254	gene	249				
+NEBLGDEC_00254	CDS	249				hypothetical protein
+NEBLGDEC_00255	gene	1011	gcvT			
+NEBLGDEC_00255	CDS	1011	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+NEBLGDEC_00256	gene	651				
+NEBLGDEC_00256	CDS	651				hypothetical protein
+NEBLGDEC_00257	gene	1389				
+NEBLGDEC_00257	CDS	1389				hypothetical protein
+NEBLGDEC_00258	gene	1152	ftsZ_1			
+NEBLGDEC_00258	CDS	1152	ftsZ_1			Cell division protein FtsZ
+NEBLGDEC_00259	gene	834				
+NEBLGDEC_00259	CDS	834				hypothetical protein
+NEBLGDEC_00260	gene	288				
+NEBLGDEC_00260	CDS	288				hypothetical protein
+NEBLGDEC_00261	gene	288				
+NEBLGDEC_00261	CDS	288				hypothetical protein
+NEBLGDEC_00262	gene	399				
+NEBLGDEC_00262	CDS	399				hypothetical protein
+NEBLGDEC_00263	gene	840				
+NEBLGDEC_00263	CDS	840				hypothetical protein
+NEBLGDEC_00264	gene	1230				
+NEBLGDEC_00264	CDS	1230				hypothetical protein
+NEBLGDEC_00265	gene	243				
+NEBLGDEC_00265	CDS	243				hypothetical protein
+NEBLGDEC_00266	gene	978				
+NEBLGDEC_00266	CDS	978				hypothetical protein
+NEBLGDEC_00267	gene	76				
+NEBLGDEC_00267	tRNA	76				tRNA-Asp(gtc)
+NEBLGDEC_00268	gene	795	mtnB			
+NEBLGDEC_00268	CDS	795	mtnB	4.2.1.109		Methylthioribulose-1-phosphate dehydratase
+NEBLGDEC_00269	gene	591	guaA			
+NEBLGDEC_00269	CDS	591	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+NEBLGDEC_00270	gene	150				
+NEBLGDEC_00270	CDS	150				hypothetical protein
+NEBLGDEC_00271	gene	1143				
+NEBLGDEC_00271	CDS	1143				hypothetical protein
+NEBLGDEC_00272	gene	77				
+NEBLGDEC_00272	tRNA	77				tRNA-Arg(cct)
+NEBLGDEC_00273	gene	207				
+NEBLGDEC_00273	CDS	207				hypothetical protein
+NEBLGDEC_00274	gene	261				
+NEBLGDEC_00274	CDS	261				hypothetical protein
+NEBLGDEC_00275	gene	1149	aspC_2			
+NEBLGDEC_00275	CDS	1149	aspC_2	2.6.1.1	COG0436	Aspartate aminotransferase
+NEBLGDEC_00276	gene	2010				
+NEBLGDEC_00276	CDS	2010				hypothetical protein
+NEBLGDEC_00277	gene	861				
+NEBLGDEC_00277	CDS	861				hypothetical protein
+NEBLGDEC_00278	gene	222				
+NEBLGDEC_00278	CDS	222				hypothetical protein
+NEBLGDEC_00279	gene	195				
+NEBLGDEC_00279	CDS	195				hypothetical protein
+NEBLGDEC_00280	gene	477				
+NEBLGDEC_00280	CDS	477				hypothetical protein
+NEBLGDEC_00281	gene	492				
+NEBLGDEC_00281	CDS	492				hypothetical protein
+NEBLGDEC_00282	gene	1455				
+NEBLGDEC_00282	CDS	1455				hypothetical protein
+NEBLGDEC_00283	gene	75				
+NEBLGDEC_00283	tRNA	75				tRNA-Thr(cgt)
+NEBLGDEC_00284	gene	357				
+NEBLGDEC_00284	CDS	357				hypothetical protein
+NEBLGDEC_00285	gene	1263	pgk/tpi			
+NEBLGDEC_00285	CDS	1263	pgk/tpi		COG0126	Bifunctional PGK/TIM
+NEBLGDEC_00286	gene	2514				
+NEBLGDEC_00286	CDS	2514				hypothetical protein
+NEBLGDEC_00287	gene	969	btuD			
+NEBLGDEC_00287	CDS	969	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NEBLGDEC_00288	gene	702				
+NEBLGDEC_00288	CDS	702				hypothetical protein
+NEBLGDEC_00289	gene	156				
+NEBLGDEC_00289	CDS	156				hypothetical protein
+NEBLGDEC_00290	gene	336	ndhI			
+NEBLGDEC_00290	CDS	336	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+NEBLGDEC_00291	gene	309				
+NEBLGDEC_00291	CDS	309				hypothetical protein
+NEBLGDEC_00292	gene	267				
+NEBLGDEC_00292	CDS	267				hypothetical protein
+NEBLGDEC_00293	gene	303	nuoK			
+NEBLGDEC_00293	CDS	303	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+NEBLGDEC_00294	gene	2319	nuoL			
+NEBLGDEC_00294	CDS	2319	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+NEBLGDEC_00295	gene	1245				
+NEBLGDEC_00295	CDS	1245				hypothetical protein
+NEBLGDEC_00296	gene	195				
+NEBLGDEC_00296	CDS	195				hypothetical protein
+NEBLGDEC_00297	gene	288				
+NEBLGDEC_00297	CDS	288				Ferredoxin
+NEBLGDEC_00298	gene	1092				
+NEBLGDEC_00298	CDS	1092				hypothetical protein
+NEBLGDEC_00299	gene	921	rsmA			
+NEBLGDEC_00299	CDS	921	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+NEBLGDEC_00300	gene	291				
+NEBLGDEC_00300	CDS	291				hypothetical protein
+NEBLGDEC_00301	gene	1083				
+NEBLGDEC_00301	CDS	1083				hypothetical protein
+NEBLGDEC_00302	gene	558				
+NEBLGDEC_00302	CDS	558				hypothetical protein
+NEBLGDEC_00303	gene	666	dnaJ			
+NEBLGDEC_00303	CDS	666	dnaJ		COG0484	Chaperone protein DnaJ
+NEBLGDEC_00304	gene	516				
+NEBLGDEC_00304	CDS	516				hypothetical protein
+NEBLGDEC_00305	gene	945				
+NEBLGDEC_00305	CDS	945				hypothetical protein
+NEBLGDEC_00306	gene	915				
+NEBLGDEC_00306	CDS	915				hypothetical protein
+NEBLGDEC_00307	gene	564				
+NEBLGDEC_00307	CDS	564				hypothetical protein
+NEBLGDEC_00308	gene	690				
+NEBLGDEC_00308	CDS	690				hypothetical protein
+NEBLGDEC_00309	gene	1866				
+NEBLGDEC_00309	CDS	1866				hypothetical protein
+NEBLGDEC_00310	gene	177				
+NEBLGDEC_00310	CDS	177				hypothetical protein
+NEBLGDEC_00311	gene	723				
+NEBLGDEC_00311	CDS	723				hypothetical protein
+NEBLGDEC_00312	gene	963				
+NEBLGDEC_00312	CDS	963				hypothetical protein
+NEBLGDEC_00313	gene	594				
+NEBLGDEC_00313	CDS	594				hypothetical protein
+NEBLGDEC_00314	gene	1512	nuoN			
+NEBLGDEC_00314	CDS	1512	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+NEBLGDEC_00315	gene	570	apt			
+NEBLGDEC_00315	CDS	570	apt	2.4.2.7		Adenine phosphoribosyltransferase
+NEBLGDEC_00316	gene	540				
+NEBLGDEC_00316	CDS	540				hypothetical protein
+NEBLGDEC_00317	gene	1212				
+NEBLGDEC_00317	CDS	1212				hypothetical protein
+NEBLGDEC_00318	gene	972				
+NEBLGDEC_00318	CDS	972				hypothetical protein
+NEBLGDEC_00319	gene	2667	mutS			
+NEBLGDEC_00319	CDS	2667	mutS		COG0249	DNA mismatch repair protein MutS
+NEBLGDEC_00320	gene	1863				
+NEBLGDEC_00320	CDS	1863				hypothetical protein
+NEBLGDEC_00321	gene	1107				
+NEBLGDEC_00321	CDS	1107				hypothetical protein
+NEBLGDEC_00322	gene	363				
+NEBLGDEC_00322	CDS	363				hypothetical protein
+NEBLGDEC_00323	gene	300				
+NEBLGDEC_00323	CDS	300				hypothetical protein
+NEBLGDEC_00324	gene	1029	ttuA			
+NEBLGDEC_00324	CDS	1029	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+NEBLGDEC_00325	gene	900				
+NEBLGDEC_00325	CDS	900				hypothetical protein
+NEBLGDEC_00326	gene	1011				
+NEBLGDEC_00326	CDS	1011				hypothetical protein
+NEBLGDEC_00327	gene	984	mccB			
+NEBLGDEC_00327	CDS	984	mccB	4.4.1.1	COG0626	Cystathionine gamma-lyase
+NEBLGDEC_00328	gene	1422				
+NEBLGDEC_00328	CDS	1422				hypothetical protein
+NEBLGDEC_00329	gene	378				
+NEBLGDEC_00329	CDS	378				hypothetical protein
+NEBLGDEC_00330	gene	816	yycJ			
+NEBLGDEC_00330	CDS	816	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+NEBLGDEC_00331	gene	813				
+NEBLGDEC_00331	CDS	813				hypothetical protein
+NEBLGDEC_00332	gene	267				
+NEBLGDEC_00332	CDS	267				hypothetical protein
+NEBLGDEC_00333	gene	642				
+NEBLGDEC_00333	CDS	642				hypothetical protein
+NEBLGDEC_00334	gene	405				
+NEBLGDEC_00334	CDS	405				hypothetical protein
+NEBLGDEC_00335	gene	819				
+NEBLGDEC_00335	CDS	819				hypothetical protein
+NEBLGDEC_00336	gene	243				
+NEBLGDEC_00336	CDS	243				hypothetical protein
+NEBLGDEC_00337	gene	336				
+NEBLGDEC_00337	CDS	336				hypothetical protein
+NEBLGDEC_00338	gene	324				
+NEBLGDEC_00338	CDS	324				hypothetical protein
+NEBLGDEC_00339	gene	315				
+NEBLGDEC_00339	CDS	315				hypothetical protein
+NEBLGDEC_00340	gene	426	rlmH			
+NEBLGDEC_00340	CDS	426	rlmH	2.1.1.177		Ribosomal RNA large subunit methyltransferase H
+NEBLGDEC_00341	gene	531	pta			
+NEBLGDEC_00341	CDS	531	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+NEBLGDEC_00342	gene	516	aniA			
+NEBLGDEC_00342	CDS	516	aniA	1.7.2.1	COG2132	Copper-containing nitrite reductase
+NEBLGDEC_00343	gene	483				
+NEBLGDEC_00343	CDS	483				hypothetical protein
+NEBLGDEC_00344	gene	642				
+NEBLGDEC_00344	CDS	642				hypothetical protein
+NEBLGDEC_00345	gene	858				
+NEBLGDEC_00345	CDS	858				hypothetical protein
+NEBLGDEC_00346	gene	741	ctaC			
+NEBLGDEC_00346	CDS	741	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+NEBLGDEC_00347	gene	2193				
+NEBLGDEC_00347	CDS	2193				hypothetical protein
+NEBLGDEC_00348	gene	672				
+NEBLGDEC_00348	CDS	672				hypothetical protein
+NEBLGDEC_00349	gene	714				
+NEBLGDEC_00349	CDS	714				hypothetical protein
+NEBLGDEC_00350	gene	654				
+NEBLGDEC_00350	CDS	654				hypothetical protein
+NEBLGDEC_00351	gene	780				
+NEBLGDEC_00351	CDS	780				hypothetical protein
+NEBLGDEC_00352	gene	1119				
+NEBLGDEC_00352	CDS	1119				hypothetical protein
+NEBLGDEC_00353	gene	675				
+NEBLGDEC_00353	CDS	675				hypothetical protein
+NEBLGDEC_00354	gene	1110				
+NEBLGDEC_00354	CDS	1110				hypothetical protein
+NEBLGDEC_00355	gene	3162				
+NEBLGDEC_00355	CDS	3162				hypothetical protein
+NEBLGDEC_00356	gene	249				
+NEBLGDEC_00356	CDS	249				hypothetical protein
+NEBLGDEC_00357	gene	1680				
+NEBLGDEC_00357	CDS	1680				hypothetical protein
+NEBLGDEC_00358	gene	483				
+NEBLGDEC_00358	CDS	483				hypothetical protein
+NEBLGDEC_00359	gene	696				
+NEBLGDEC_00359	CDS	696				hypothetical protein
+NEBLGDEC_00360	gene	774	rfbA			
+NEBLGDEC_00360	CDS	774	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+NEBLGDEC_00361	gene	795				
+NEBLGDEC_00361	CDS	795				hypothetical protein
+NEBLGDEC_00362	gene	435				
+NEBLGDEC_00362	CDS	435				hypothetical protein
+NEBLGDEC_00363	gene	288				
+NEBLGDEC_00363	CDS	288				hypothetical protein
+NEBLGDEC_00364	gene	1125	ribD			
+NEBLGDEC_00364	CDS	1125	ribD		COG0117	Riboflavin biosynthesis protein RibD
+NEBLGDEC_00365	gene	363				
+NEBLGDEC_00365	CDS	363				hypothetical protein
+NEBLGDEC_00366	gene	76				
+NEBLGDEC_00366	tRNA	76				tRNA-Arg(tcg)
+NEBLGDEC_00367	gene	1122				
+NEBLGDEC_00367	CDS	1122				hypothetical protein
+NEBLGDEC_00368	gene	279				
+NEBLGDEC_00368	CDS	279				hypothetical protein
+NEBLGDEC_00369	gene	240				
+NEBLGDEC_00369	CDS	240				hypothetical protein
+NEBLGDEC_00370	gene	795				
+NEBLGDEC_00370	CDS	795				hypothetical protein
+NEBLGDEC_00371	gene	954	fadM			
+NEBLGDEC_00371	CDS	954	fadM	1.5.5.2		Proline dehydrogenase 1
+NEBLGDEC_00372	gene	960				
+NEBLGDEC_00372	CDS	960				hypothetical protein
+NEBLGDEC_00373	gene	477				
+NEBLGDEC_00373	CDS	477		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+NEBLGDEC_00374	gene	771	ybhF			
+NEBLGDEC_00374	CDS	771	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+NEBLGDEC_00375	gene	945				
+NEBLGDEC_00375	CDS	945				hypothetical protein
+NEBLGDEC_00376	gene	456				
+NEBLGDEC_00376	CDS	456				hypothetical protein
+NEBLGDEC_00377	gene	858				
+NEBLGDEC_00377	CDS	858				hypothetical protein
+NEBLGDEC_00378	gene	1209				
+NEBLGDEC_00378	CDS	1209				hypothetical protein
+NEBLGDEC_00379	gene	672				
+NEBLGDEC_00379	CDS	672				hypothetical protein
+NEBLGDEC_00380	gene	1974				
+NEBLGDEC_00380	CDS	1974				hypothetical protein
+NEBLGDEC_00381	gene	522				
+NEBLGDEC_00381	CDS	522				hypothetical protein
+NEBLGDEC_00382	gene	1746				
+NEBLGDEC_00382	CDS	1746				hypothetical protein
+NEBLGDEC_00383	gene	585				
+NEBLGDEC_00383	CDS	585				hypothetical protein
+NEBLGDEC_00384	gene	783	pchA			
+NEBLGDEC_00384	CDS	783	pchA	1.2.1.96		4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+NEBLGDEC_00385	gene	858				
+NEBLGDEC_00385	CDS	858				hypothetical protein
+NEBLGDEC_00386	gene	1158				
+NEBLGDEC_00386	CDS	1158				hypothetical protein
+NEBLGDEC_00387	gene	354	pyrG			
+NEBLGDEC_00387	CDS	354	pyrG	6.3.4.2	COG0504	CTP synthase
+NEBLGDEC_00388	gene	1110				
+NEBLGDEC_00388	CDS	1110				hypothetical protein
+NEBLGDEC_00389	gene	441				
+NEBLGDEC_00389	CDS	441				hypothetical protein
+NEBLGDEC_00390	gene	1122	kynA			
+NEBLGDEC_00390	CDS	1122	kynA	1.13.11.11	COG3483	Tryptophan 2,3-dioxygenase
+NEBLGDEC_00391	gene	195				
+NEBLGDEC_00391	CDS	195				hypothetical protein
+NEBLGDEC_00392	gene	1113				
+NEBLGDEC_00392	CDS	1113				hypothetical protein
+NEBLGDEC_00393	gene	999				
+NEBLGDEC_00393	CDS	999				hypothetical protein
+NEBLGDEC_00394	gene	453				
+NEBLGDEC_00394	CDS	453				hypothetical protein
+NEBLGDEC_00395	gene	696				
+NEBLGDEC_00395	CDS	696				hypothetical protein
+NEBLGDEC_00396	gene	789	yutF			
+NEBLGDEC_00396	CDS	789	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+NEBLGDEC_00397	gene	1449				
+NEBLGDEC_00397	CDS	1449				hypothetical protein
+NEBLGDEC_00398	gene	2334	ydfJ			
+NEBLGDEC_00398	CDS	2334	ydfJ		COG2409	Membrane protein YdfJ
+NEBLGDEC_00399	gene	1716				
+NEBLGDEC_00399	CDS	1716				hypothetical protein
+NEBLGDEC_00400	gene	1011	fda			
+NEBLGDEC_00400	CDS	1011	fda	4.1.2.13		Fructose-bisphosphate aldolase class 1
+NEBLGDEC_00401	gene	297				
+NEBLGDEC_00401	CDS	297				hypothetical protein
+NEBLGDEC_00402	gene	798				
+NEBLGDEC_00402	CDS	798				hypothetical protein
+NEBLGDEC_00403	gene	2259				
+NEBLGDEC_00403	CDS	2259				hypothetical protein
+NEBLGDEC_00404	gene	1560				
+NEBLGDEC_00404	CDS	1560				hypothetical protein
+NEBLGDEC_00405	gene	324	trxA			
+NEBLGDEC_00405	CDS	324	trxA		COG0526	Thioredoxin 1
+NEBLGDEC_00406	gene	681	rpe			
+NEBLGDEC_00406	CDS	681	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+NEBLGDEC_00407	gene	1212	sucC			
+NEBLGDEC_00407	CDS	1212	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+NEBLGDEC_00408	gene	273				
+NEBLGDEC_00408	CDS	273				hypothetical protein
+NEBLGDEC_00409	gene	345				
+NEBLGDEC_00409	CDS	345				hypothetical protein
+NEBLGDEC_00410	gene	180				
+NEBLGDEC_00410	CDS	180				hypothetical protein
+NEBLGDEC_00411	gene	1569				
+NEBLGDEC_00411	CDS	1569				hypothetical protein
+NEBLGDEC_00412	gene	210				
+NEBLGDEC_00412	CDS	210				hypothetical protein
+NEBLGDEC_00413	gene	2325	bepA			
+NEBLGDEC_00413	CDS	2325	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+NEBLGDEC_00414	gene	234				
+NEBLGDEC_00414	CDS	234				hypothetical protein
+NEBLGDEC_00415	gene	1803	rpoB			
+NEBLGDEC_00415	CDS	1803	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+NEBLGDEC_00416	gene	1884				
+NEBLGDEC_00416	CDS	1884				hypothetical protein
+NEBLGDEC_00417	gene	1062				
+NEBLGDEC_00417	CDS	1062				hypothetical protein
+NEBLGDEC_00418	gene	417				
+NEBLGDEC_00418	CDS	417				hypothetical protein
+NEBLGDEC_00419	gene	222				
+NEBLGDEC_00419	CDS	222				hypothetical protein
+NEBLGDEC_00420	gene	1014				
+NEBLGDEC_00420	CDS	1014				hypothetical protein
+NEBLGDEC_00421	gene	1149				
+NEBLGDEC_00421	CDS	1149				hypothetical protein
+NEBLGDEC_00422	gene	153				
+NEBLGDEC_00422	CDS	153				hypothetical protein
+NEBLGDEC_00423	gene	693				
+NEBLGDEC_00423	CDS	693				hypothetical protein
+NEBLGDEC_00424	gene	1359				
+NEBLGDEC_00424	CDS	1359				hypothetical protein
+NEBLGDEC_00425	gene	1110				
+NEBLGDEC_00425	CDS	1110				hypothetical protein
+NEBLGDEC_00426	gene	609	pyk			
+NEBLGDEC_00426	CDS	609	pyk	2.7.1.40		Pyruvate kinase
+NEBLGDEC_00427	gene	618	ntpD			
+NEBLGDEC_00427	CDS	618	ntpD			V-type sodium ATPase subunit D
+NEBLGDEC_00428	gene	1383	atpB			
+NEBLGDEC_00428	CDS	1383	atpB		COG1156	V-type ATP synthase beta chain
+NEBLGDEC_00429	gene	957	atpA			
+NEBLGDEC_00429	CDS	957	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+NEBLGDEC_00430	gene	249	acrC			
+NEBLGDEC_00430	CDS	249	acrC	1.3.1.95		Acryloyl-CoA reductase (NADH)
+NEBLGDEC_00431	gene	73				
+NEBLGDEC_00431	tRNA	73				tRNA-Gln(ttg)
+NEBLGDEC_00432	gene	303				
+NEBLGDEC_00432	CDS	303				hypothetical protein
+NEBLGDEC_00433	gene	1782				
+NEBLGDEC_00433	CDS	1782				hypothetical protein
+NEBLGDEC_00434	gene	201	ndk			
+NEBLGDEC_00434	CDS	201	ndk	2.7.4.6		Nucleoside diphosphate kinase
+NEBLGDEC_00435	gene	1797	infB			
+NEBLGDEC_00435	CDS	1797	infB			Translation initiation factor IF-2
+NEBLGDEC_00436	gene	996				
+NEBLGDEC_00436	CDS	996				hypothetical protein
+NEBLGDEC_00437	gene	942	soj_1			
+NEBLGDEC_00437	CDS	942	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NEBLGDEC_00438	gene	228				
+NEBLGDEC_00438	CDS	228				hypothetical protein
+NEBLGDEC_00439	gene	249				
+NEBLGDEC_00439	CDS	249				hypothetical protein
+NEBLGDEC_00440	gene	2364				
+NEBLGDEC_00440	CDS	2364				hypothetical protein
+NEBLGDEC_00441	gene	903				
+NEBLGDEC_00441	CDS	903				hypothetical protein
+NEBLGDEC_00442	gene	591				
+NEBLGDEC_00442	CDS	591				hypothetical protein
+NEBLGDEC_00443	gene	669				
+NEBLGDEC_00443	CDS	669				hypothetical protein
+NEBLGDEC_00444	gene	567	mtnA			
+NEBLGDEC_00444	CDS	567	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+NEBLGDEC_00445	gene	1620				
+NEBLGDEC_00445	CDS	1620				hypothetical protein
+NEBLGDEC_00446	gene	2964				
+NEBLGDEC_00446	CDS	2964				hypothetical protein
+NEBLGDEC_00447	gene	77				
+NEBLGDEC_00447	tRNA	77				tRNA-Ile(gat)
+NEBLGDEC_00448	gene	591				
+NEBLGDEC_00448	CDS	591				hypothetical protein
+NEBLGDEC_00449	gene	1488	argD			
+NEBLGDEC_00449	CDS	1488	argD	2.6.1.11	COG4992	Acetylornithine/succinyldiaminopimelate aminotransferase
+NEBLGDEC_00450	gene	507				
+NEBLGDEC_00450	CDS	507				hypothetical protein
+NEBLGDEC_00451	gene	234				
+NEBLGDEC_00451	CDS	234		2.5.-.-		Deoxyhypusine synthase-like protein
+NEBLGDEC_00452	gene	717				
+NEBLGDEC_00452	CDS	717				hypothetical protein
+NEBLGDEC_00453	gene	771				
+NEBLGDEC_00453	CDS	771				hypothetical protein
+NEBLGDEC_00454	gene	1092				
+NEBLGDEC_00454	CDS	1092				hypothetical protein
+NEBLGDEC_00455	gene	1581				
+NEBLGDEC_00455	CDS	1581				hypothetical protein
+NEBLGDEC_00456	gene	666				
+NEBLGDEC_00456	CDS	666				hypothetical protein
+NEBLGDEC_00457	gene	600				
+NEBLGDEC_00457	CDS	600				hypothetical protein
+NEBLGDEC_00458	gene	1098				
+NEBLGDEC_00458	CDS	1098				hypothetical protein
+NEBLGDEC_00459	gene	216				
+NEBLGDEC_00459	CDS	216				hypothetical protein
+NEBLGDEC_00460	gene	624				
+NEBLGDEC_00460	CDS	624				hypothetical protein
+NEBLGDEC_00461	gene	1707	nadE			
+NEBLGDEC_00461	CDS	1707	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+NEBLGDEC_00462	gene	810				
+NEBLGDEC_00462	CDS	810				hypothetical protein
+NEBLGDEC_00463	gene	1740				
+NEBLGDEC_00463	CDS	1740				hypothetical protein
+NEBLGDEC_00464	gene	669	rutC			
+NEBLGDEC_00464	CDS	669	rutC	1.-.-.-		Putative aminoacrylate peracid reductase RutC
+NEBLGDEC_00465	gene	243				
+NEBLGDEC_00465	CDS	243				hypothetical protein
+NEBLGDEC_00466	gene	1395	algC			
+NEBLGDEC_00466	CDS	1395	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+NEBLGDEC_00467	gene	198				
+NEBLGDEC_00467	CDS	198				hypothetical protein
+NEBLGDEC_00468	gene	2013				
+NEBLGDEC_00468	CDS	2013				hypothetical protein
+NEBLGDEC_00469	gene	654				
+NEBLGDEC_00469	CDS	654				hypothetical protein
+NEBLGDEC_00470	gene	699	purC			
+NEBLGDEC_00470	CDS	699	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+NEBLGDEC_00471	gene	1311				
+NEBLGDEC_00471	CDS	1311				hypothetical protein
+NEBLGDEC_00472	gene	582				
+NEBLGDEC_00472	CDS	582				hypothetical protein
+NEBLGDEC_00473	gene	237				
+NEBLGDEC_00473	CDS	237				hypothetical protein
+NEBLGDEC_00474	gene	474				
+NEBLGDEC_00474	CDS	474				hypothetical protein
+NEBLGDEC_00475	gene	198				
+NEBLGDEC_00475	CDS	198				hypothetical protein
+NEBLGDEC_00476	gene	1107	xerC			
+NEBLGDEC_00476	CDS	1107	xerC			Tyrosine recombinase XerC
+NEBLGDEC_00477	gene	1263	gshB			
+NEBLGDEC_00477	CDS	1263	gshB	6.3.2.3		Glutathione synthetase
+NEBLGDEC_00478	gene	630				
+NEBLGDEC_00478	CDS	630				hypothetical protein
+NEBLGDEC_00479	gene	768				
+NEBLGDEC_00479	CDS	768				hypothetical protein
+NEBLGDEC_00480	gene	198				
+NEBLGDEC_00480	CDS	198				hypothetical protein
+NEBLGDEC_00481	gene	435				
+NEBLGDEC_00481	CDS	435				hypothetical protein
+NEBLGDEC_00482	gene	531	fumC			
+NEBLGDEC_00482	CDS	531	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+NEBLGDEC_00483	gene	138				
+NEBLGDEC_00483	CDS	138				hypothetical protein
+NEBLGDEC_00484	gene	1053				
+NEBLGDEC_00484	CDS	1053				hypothetical protein
+NEBLGDEC_00485	gene	174				
+NEBLGDEC_00485	CDS	174				hypothetical protein
+NEBLGDEC_00486	gene	165				
+NEBLGDEC_00486	CDS	165				hypothetical protein
+NEBLGDEC_00487	gene	261				
+NEBLGDEC_00487	CDS	261				hypothetical protein
+NEBLGDEC_00488	gene	147				
+NEBLGDEC_00488	CDS	147				hypothetical protein
+NEBLGDEC_00489	gene	714				
+NEBLGDEC_00489	CDS	714				hypothetical protein
+NEBLGDEC_00490	gene	138				
+NEBLGDEC_00490	CDS	138				hypothetical protein
+NEBLGDEC_00491	gene	330	rpsJ			
+NEBLGDEC_00491	CDS	330	rpsJ			30S ribosomal protein S10
+NEBLGDEC_00492	gene	1293	tuf			
+NEBLGDEC_00492	CDS	1293	tuf		COG0050	Elongation factor Tu
+NEBLGDEC_00493	gene	1161				
+NEBLGDEC_00493	CDS	1161				hypothetical protein
+NEBLGDEC_00494	gene	1137				
+NEBLGDEC_00494	CDS	1137				hypothetical protein
+NEBLGDEC_00495	gene	744	cinA			
+NEBLGDEC_00495	CDS	744	cinA			Putative competence-damage inducible protein
+NEBLGDEC_00496	gene	75				
+NEBLGDEC_00496	tRNA	75				tRNA-Val(tac)
+NEBLGDEC_00497	gene	978				
+NEBLGDEC_00497	CDS	978				hypothetical protein
+NEBLGDEC_00498	gene	3651				
+NEBLGDEC_00498	CDS	3651				hypothetical protein
+NEBLGDEC_00499	gene	1134				
+NEBLGDEC_00499	CDS	1134				hypothetical protein
+NEBLGDEC_00500	gene	327	copR			
+NEBLGDEC_00500	CDS	327	copR			Transcriptional activator protein CopR
+NEBLGDEC_00501	gene	711	degU			
+NEBLGDEC_00501	CDS	711	degU		COG2197	Transcriptional regulatory protein DegU
+NEBLGDEC_00502	gene	300	regX3			
+NEBLGDEC_00502	CDS	300	regX3		COG0745	Sensory transduction protein regX3
+NEBLGDEC_00503	gene	387				
+NEBLGDEC_00503	CDS	387				hypothetical protein
+NEBLGDEC_00504	gene	903	phnE			
+NEBLGDEC_00504	CDS	903	phnE		COG3639	Phosphate-import permease protein PhnE
+NEBLGDEC_00505	gene	216				
+NEBLGDEC_00505	CDS	216				hypothetical protein
+NEBLGDEC_00506	gene	87				
+NEBLGDEC_00506	tRNA	87				tRNA-Leu(tag)
+NEBLGDEC_00507	gene	360				
+NEBLGDEC_00507	CDS	360				hypothetical protein
+NEBLGDEC_00508	gene	963	panE			
+NEBLGDEC_00508	CDS	963	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+NEBLGDEC_00509	gene	1143	nadB			
+NEBLGDEC_00509	CDS	1143	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+NEBLGDEC_00510	gene	717	yknY			
+NEBLGDEC_00510	CDS	717	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+NEBLGDEC_00511	gene	1110	mshA			
+NEBLGDEC_00511	CDS	1110	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NEBLGDEC_00512	gene	2886				
+NEBLGDEC_00512	CDS	2886				hypothetical protein
+NEBLGDEC_00513	gene	504				
+NEBLGDEC_00513	CDS	504				hypothetical protein
+NEBLGDEC_00514	gene	810				
+NEBLGDEC_00514	CDS	810				hypothetical protein
+NEBLGDEC_00515	gene	1743				
+NEBLGDEC_00515	CDS	1743				hypothetical protein
+NEBLGDEC_00516	gene	2403				
+NEBLGDEC_00516	CDS	2403				hypothetical protein
+NEBLGDEC_00517	gene	351	pfdA			
+NEBLGDEC_00517	CDS	351	pfdA			Prefoldin subunit alpha
+NEBLGDEC_00518	gene	1377	ftsY			
+NEBLGDEC_00518	CDS	1377	ftsY			Signal recognition particle receptor FtsY
+NEBLGDEC_00519	gene	372				
+NEBLGDEC_00519	CDS	372				hypothetical protein
+NEBLGDEC_00520	gene	657				
+NEBLGDEC_00520	CDS	657				hypothetical protein
+NEBLGDEC_00521	gene	273				
+NEBLGDEC_00521	CDS	273				hypothetical protein
+NEBLGDEC_00522	gene	579	pyrF			
+NEBLGDEC_00522	CDS	579	pyrF			Orotidine 5'-phosphate decarboxylase
+NEBLGDEC_00523	gene	336	grxD			
+NEBLGDEC_00523	CDS	336	grxD		COG0278	Glutaredoxin 4
+NEBLGDEC_00524	gene	1275				
+NEBLGDEC_00524	CDS	1275				hypothetical protein
+NEBLGDEC_00525	gene	1011				
+NEBLGDEC_00525	CDS	1011				hypothetical protein
+NEBLGDEC_00526	gene	1935				
+NEBLGDEC_00526	CDS	1935				hypothetical protein
+NEBLGDEC_00527	gene	513				
+NEBLGDEC_00527	CDS	513				hypothetical protein
+NEBLGDEC_00528	gene	1050				
+NEBLGDEC_00528	CDS	1050				hypothetical protein
+NEBLGDEC_00529	gene	219				
+NEBLGDEC_00529	CDS	219				hypothetical protein
+NEBLGDEC_00530	gene	675				
+NEBLGDEC_00530	CDS	675				hypothetical protein
+NEBLGDEC_00531	gene	513				
+NEBLGDEC_00531	CDS	513				hypothetical protein
+NEBLGDEC_00532	gene	246				
+NEBLGDEC_00532	CDS	246				hypothetical protein
+NEBLGDEC_00533	gene	759				
+NEBLGDEC_00533	CDS	759				hypothetical protein
+NEBLGDEC_00534	gene	702				
+NEBLGDEC_00534	CDS	702				hypothetical protein
+NEBLGDEC_00535	gene	1185	leuB			
+NEBLGDEC_00535	CDS	1185	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+NEBLGDEC_00536	gene	633				
+NEBLGDEC_00536	CDS	633				hypothetical protein
+NEBLGDEC_00537	gene	549				
+NEBLGDEC_00537	CDS	549				hypothetical protein
+NEBLGDEC_00538	gene	939	soj_2			
+NEBLGDEC_00538	CDS	939	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NEBLGDEC_00539	gene	453				
+NEBLGDEC_00539	CDS	453				hypothetical protein
+NEBLGDEC_00540	gene	576				
+NEBLGDEC_00540	CDS	576				hypothetical protein
+NEBLGDEC_00541	gene	1191				
+NEBLGDEC_00541	CDS	1191				hypothetical protein
+NEBLGDEC_00542	gene	483				
+NEBLGDEC_00542	CDS	483				hypothetical protein
+NEBLGDEC_00543	gene	657				
+NEBLGDEC_00543	CDS	657				hypothetical protein
+NEBLGDEC_00544	gene	216				
+NEBLGDEC_00544	CDS	216				hypothetical protein
+NEBLGDEC_00545	gene	600	mobA			
+NEBLGDEC_00545	CDS	600	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+NEBLGDEC_00546	gene	615	purN			
+NEBLGDEC_00546	CDS	615	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+NEBLGDEC_00547	gene	474				
+NEBLGDEC_00547	CDS	474				hypothetical protein
+NEBLGDEC_00548	gene	1659	purH			
+NEBLGDEC_00548	CDS	1659	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+NEBLGDEC_00549	gene	1581	groL1			
+NEBLGDEC_00549	CDS	1581	groL1		COG0459	60 kDa chaperonin 1
+NEBLGDEC_00550	gene	1356				
+NEBLGDEC_00550	CDS	1356				hypothetical protein
+NEBLGDEC_00551	gene	387				
+NEBLGDEC_00551	CDS	387				hypothetical protein
+NEBLGDEC_00552	gene	1023	iolG			
+NEBLGDEC_00552	CDS	1023	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+NEBLGDEC_00553	gene	1203				
+NEBLGDEC_00553	CDS	1203				hypothetical protein
+NEBLGDEC_00554	gene	840				
+NEBLGDEC_00554	CDS	840				hypothetical protein
+NEBLGDEC_00555	gene	795				
+NEBLGDEC_00555	CDS	795				hypothetical protein
+NEBLGDEC_00556	gene	3540				
+NEBLGDEC_00556	CDS	3540				hypothetical protein
+NEBLGDEC_00557	gene	1233	ftsZ_2			
+NEBLGDEC_00557	CDS	1233	ftsZ_2			Cell division protein FtsZ
+NEBLGDEC_00558	gene	279				
+NEBLGDEC_00558	CDS	279				hypothetical protein
+NEBLGDEC_00559	gene	867				
+NEBLGDEC_00559	CDS	867				hypothetical protein
+NEBLGDEC_00560	gene	279				
+NEBLGDEC_00560	CDS	279				hypothetical protein
+NEBLGDEC_00561	gene	645	rplA			
+NEBLGDEC_00561	CDS	645	rplA		COG0081	50S ribosomal protein L1
+NEBLGDEC_00562	gene	1017				
+NEBLGDEC_00562	CDS	1017				hypothetical protein
+NEBLGDEC_00563	gene	306				
+NEBLGDEC_00563	CDS	306				hypothetical protein
+NEBLGDEC_00564	gene	444				
+NEBLGDEC_00564	CDS	444				hypothetical protein
+NEBLGDEC_00565	gene	1065				
+NEBLGDEC_00565	CDS	1065				hypothetical protein
+NEBLGDEC_00566	gene	678				
+NEBLGDEC_00566	CDS	678				hypothetical protein
+NEBLGDEC_00567	gene	1212				
+NEBLGDEC_00567	CDS	1212				hypothetical protein
+NEBLGDEC_00568	gene	423				
+NEBLGDEC_00568	CDS	423				hypothetical protein
+NEBLGDEC_00569	gene	150				
+NEBLGDEC_00569	CDS	150				hypothetical protein
+NEBLGDEC_00570	gene	729				
+NEBLGDEC_00570	CDS	729				hypothetical protein
+NEBLGDEC_00571	gene	795				
+NEBLGDEC_00571	CDS	795				hypothetical protein
+NEBLGDEC_00572	gene	2520				
+NEBLGDEC_00572	CDS	2520				hypothetical protein
+NEBLGDEC_00573	gene	2478	clsB			
+NEBLGDEC_00573	CDS	2478	clsB	2.7.8.-		Cardiolipin synthase B
+NEBLGDEC_00574	gene	1455				
+NEBLGDEC_00574	CDS	1455				hypothetical protein
+NEBLGDEC_00575	gene	450				
+NEBLGDEC_00575	CDS	450				hypothetical protein
+NEBLGDEC_00576	gene	969				
+NEBLGDEC_00576	CDS	969			COG0327	GTP cyclohydrolase 1 type 2 
+NEBLGDEC_00577	gene	426				
+NEBLGDEC_00577	CDS	426				hypothetical protein
+NEBLGDEC_00578	gene	2133				
+NEBLGDEC_00578	CDS	2133				hypothetical protein
+NEBLGDEC_00579	gene	1077				
+NEBLGDEC_00579	CDS	1077				hypothetical protein
+NEBLGDEC_00580	gene	444				
+NEBLGDEC_00580	CDS	444				hypothetical protein

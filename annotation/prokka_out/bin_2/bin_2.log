@@ -1,0 +1,161 @@
+[19:47:49] This is prokka 1.14.6
+[19:47:49] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[19:47:49] Homepage is https://github.com/tseemann/prokka
+[19:47:49] Local time is Mon May 17 19:47:49 2021
+[19:47:49] You are phennig
+[19:47:49] Operating system is linux
+[19:47:49] You have BioPerl 1.007001
+[19:47:49] System has 16 cores.
+[19:47:49] Will use maximum of 2 cores.
+[19:47:49] Annotating as >>> Bacteria <<<
+[19:47:49] Generating locus_tag from '../binning_and_qc/binning_out/binned_contigs_2.fa' contents.
+[19:47:49] Setting --locustag NEBLGDEC from MD5 7eb50decce4f78395aa2004c62805c98
+[19:47:49] Creating new output folder: ./prokka_out/bin_2
+[19:47:49] Running: mkdir -p \.\/prokka_out\/bin_2
+[19:47:49] Using filename prefix: bin_2.XXX
+[19:47:49] Setting HMMER_NCPU=1
+[19:47:49] Writing log to: ./prokka_out/bin_2/bin_2.log
+[19:47:49] Command: /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka --addgenes --metagenome --outdir ./prokka_out/bin_2 --cpus 2 --prefix bin_2 ../binning_and_qc/binning_out/binned_contigs_2.fa
+[19:47:49] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux
+[19:47:49] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/../common
+[19:47:49] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin
+[19:47:49] Looking for 'aragorn' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/aragorn
+[19:47:49] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[19:47:49] Looking for 'barrnap' - found /sw/bioinfo/barrnap/0.8/snowy/bin/barrnap
+[19:47:50] Determined barrnap version is 000008 from 'barrnap 0.8'
+[19:47:50] Looking for 'blastp' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/blastp
+[19:47:50] Determined blastp version is 002011 from 'blastp: 2.11.0+'
+[19:47:50] Looking for 'cmpress' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmpress
+[19:47:50] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[19:47:50] Looking for 'cmscan' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmscan
+[19:47:50] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[19:47:50] Looking for 'egrep' - found /usr/bin/egrep
+[19:47:50] Looking for 'find' - found /usr/bin/find
+[19:47:50] Looking for 'grep' - found /usr/bin/grep
+[19:47:50] Looking for 'hmmpress' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmpress
+[19:47:50] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[19:47:50] Looking for 'hmmscan' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmscan
+[19:47:50] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[19:47:50] Looking for 'java' - found /usr/bin/java
+[19:47:50] Looking for 'makeblastdb' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/makeblastdb
+[19:47:51] Determined makeblastdb version is 002011 from 'makeblastdb: 2.11.0+'
+[19:47:51] Looking for 'minced' - found /sw/apps/bioinfo/minced/0.2.0/snowy/minced
+[19:47:52] Determined minced version is 002000 from 'minced 0.2.0'
+[19:47:52] Looking for 'parallel' - found /sw/parallel/gnuparallel/20170122/snowy/bin/parallel
+[19:47:52] Determined parallel version is 20170122 from 'GNU parallel 20170122'
+[19:47:52] Looking for 'prodigal' - found /sw/apps/bioinfo/prodigal/2.6.3/snowy/bin/prodigal
+[19:47:52] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[19:47:52] Looking for 'prokka-genbank_to_fasta_db' - found /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka-genbank_to_fasta_db
+[19:47:52] Looking for 'sed' - found /usr/bin/sed
+[19:47:52] Looking for 'signalp' - found /sw/bioinfo/SignalP/4.1f/snowy/signalp
+[19:47:52] Determined signalp version is 004001 from '4.1 4749255'
+[19:47:52] Looking for 'tbl2asn' - found /sw/bioinfo/tbl2asn/25.8/snowy/tbl2asn
+[19:47:52] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[19:47:52] Using genetic code table 11.
+[19:47:52] Loading and checking input file: ../binning_and_qc/binning_out/binned_contigs_2.fa
+[19:47:52] Wrote 150 contigs totalling 569270 bp.
+[19:47:52] Predicting tRNAs and tmRNAs
+[19:47:52] Running: aragorn -l -gc11  -w \.\/prokka_out\/bin_2\/bin_2\.fna
+[19:47:52] 1 tRNA-Ser c[2620,2704] 35 (tga)
+[19:47:52] 1 tRNA-Phe c[853,927] 34 (gaa)
+[19:47:52] 1 tRNA-Gln [1285,1358] 35 (ctg)
+[19:47:52] 1 tRNA-Asp c[56,131] 35 (gtc)
+[19:47:52] 2 tRNA-Arg c[3321,3397] 35 (cct)
+[19:47:52] 1 tRNA-Thr [649,723] 34 (cgt)
+[19:47:52] 1 tRNA-Arg [1951,2026] 36 (tcg)
+[19:47:52] 1 tRNA-Gln c[696,768] 35 (ttg)
+[19:47:52] 1 tRNA-Ile c[1,77] 36 (gat)
+[19:47:52] 1 tRNA-Val c[2252,2326] 34 (tac)
+[19:47:52] 1 tRNA-Leu [2782,2868] 37 (tag)
+[19:47:52] Found 11 tRNAs
+[19:47:52] Predicting Ribosomal RNAs
+[19:47:52] Running Barrnap with 2 threads
+[19:47:53] Found 0 rRNAs
+[19:47:53] Skipping ncRNA search, enable with --rfam if desired.
+[19:47:53] Total of 11 tRNA + rRNA features
+[19:47:53] Searching for CRISPR repeats
+[19:47:53] Found 0 CRISPRs
+[19:47:53] Predicting coding sequences
+[19:47:53] Contigs total 569270 bp, so using meta mode
+[19:47:53] Running: prodigal -i \.\/prokka_out\/bin_2\/bin_2\.fna -c -m -g 11 -p meta -f sco -q
+[19:47:54] Excluding CDS which overlaps existing RNA (tRNA) at k105_67630:799..936 on + strand
+[19:47:55] Excluding CDS which overlaps existing RNA (tRNA) at k105_282155:3307..3900 on - strand
+[19:47:56] Excluding CDS which overlaps existing RNA (tRNA) at k105_325722:270..698 on + strand
+[19:47:57] Excluding CDS which overlaps existing RNA (tRNA) at k105_155044:1686..2795 on - strand
+[19:47:57] Excluding CDS which overlaps existing RNA (tRNA) at k105_155044:2839..3294 on - strand
+[19:47:57] Found 569 CDS
+[19:47:57] Connecting features back to sequences
+[19:47:57] Not using genus-specific database. Try --usegenus to enable it.
+[19:47:57] Annotating CDS, please be patient.
+[19:47:57] Will use 2 CPUs for similarity searching.
+[19:47:57] There are still 569 unannotated CDS left (started with 569)
+[19:47:57] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS with 2 CPUs
+[19:47:57] Running: cat \.\/prokka_out\/bin_2\/bin_2\.IS\.tmp\.43172\.faa | parallel --gnu --plain -j 2 --block 40743 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/prokka_out\/bin_2\/bin_2\.IS\.tmp\.43172\.blast 2> /dev/null
+[19:48:06] Deleting unwanted file: ./prokka_out/bin_2/bin_2.IS.tmp.43172.faa
+[19:48:06] Deleting unwanted file: ./prokka_out/bin_2/bin_2.IS.tmp.43172.blast
+[19:48:07] There are still 569 unannotated CDS left (started with 569)
+[19:48:07] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/AMR with 2 CPUs
+[19:48:07] Running: cat \.\/prokka_out\/bin_2\/bin_2\.AMR\.tmp\.43172\.faa | parallel --gnu --plain -j 2 --block 40743 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/prokka_out\/bin_2\/bin_2\.AMR\.tmp\.43172\.blast 2> /dev/null
+[19:48:14] Deleting unwanted file: ./prokka_out/bin_2/bin_2.AMR.tmp.43172.faa
+[19:48:14] Deleting unwanted file: ./prokka_out/bin_2/bin_2.AMR.tmp.43172.blast
+[19:48:14] There are still 569 unannotated CDS left (started with 569)
+[19:48:14] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/sprot with 2 CPUs
+[19:48:14] Running: cat \.\/prokka_out\/bin_2\/bin_2\.sprot\.tmp\.43172\.faa | parallel --gnu --plain -j 2 --block 40743 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/prokka_out\/bin_2\/bin_2\.sprot\.tmp\.43172\.blast 2> /dev/null
+[19:48:45] Modify product: Uncharacterized protein M6_Spy0233 => putative protein
+[19:48:46] Modify product: Uncharacterized epimerase/dehydratase SA0511 => putative epimerase/dehydratase
+[19:48:46] Modify product: Probable aspartate aminotransferase => putative aspartate aminotransferase
+[19:48:46] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[19:48:46] Modify product: UPF0051 protein Rv1462 => hypothetical protein
+[19:48:46] Modify product: Probable cysteine desulfurase => putative cysteine desulfurase
+[19:48:46] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[19:48:46] Modify product: Uncharacterized oxidoreductase MSMEG_2407/MSMEI_2346 => putative oxidoreductase/MSMEI_2346
+[19:48:46] Modify product: Probable multidrug ABC transporter ATP-binding protein YbhF => putative multidrug ABC transporter ATP-binding protein YbhF
+[19:48:46] Modify product: Uncharacterized ABC transporter ATP-binding protein YknY => putative ABC transporter ATP-binding protein YknY
+[19:48:46] Modify product: GTP cyclohydrolase 1 type 2 homolog => GTP cyclohydrolase 1 type 2 
+[19:48:46] Cleaned 11 /product names
+[19:48:46] Deleting unwanted file: ./prokka_out/bin_2/bin_2.sprot.tmp.43172.faa
+[19:48:46] Deleting unwanted file: ./prokka_out/bin_2/bin_2.sprot.tmp.43172.blast
+[19:48:46] There are still 458 unannotated CDS left (started with 569)
+[19:48:46] Will use hmmer3 to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm with 2 CPUs
+[19:48:46] Running: cat \.\/prokka_out\/bin_2\/bin_2\.HAMAP\.hmm\.tmp\.43172\.faa | parallel --gnu --plain -j 2 --block 31659 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm /dev/stdin > \.\/prokka_out\/bin_2\/bin_2\.HAMAP\.hmm\.tmp\.43172\.hmmer3 2> /dev/null
+[19:49:08] Deleting unwanted file: ./prokka_out/bin_2/bin_2.HAMAP.hmm.tmp.43172.faa
+[19:49:08] Deleting unwanted file: ./prokka_out/bin_2/bin_2.HAMAP.hmm.tmp.43172.hmmer3
+[19:49:08] Labelling remaining 414 proteins as 'hypothetical protein'
+[19:49:08] Found 138 unique /gene codes.
+[19:49:08] Fixed 2 duplicate /gene - aspC_1 aspC_2
+[19:49:08] Fixed 2 duplicate /gene - soj_1 soj_2
+[19:49:08] Fixed 2 duplicate /gene - ftsZ_1 ftsZ_2
+[19:49:08] Fixed 3 colliding /gene names.
+[19:49:08] Adding /locus_tag identifiers
+[19:49:08] Assigned 580 locus_tags to CDS and RNA features.
+[19:49:08] Writing outputs to ./prokka_out/bin_2/
+[19:49:08] Generating annotation statistics file
+[19:49:08] Generating Genbank and Sequin files
+[19:49:08] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \.\/prokka_out\/bin_2\/bin_2\.err -i \.\/prokka_out\/bin_2\/bin_2\.fsa 2> /dev/null
+[19:49:10] Deleting unwanted file: ./prokka_out/bin_2/errorsummary.val
+[19:49:10] Deleting unwanted file: ./prokka_out/bin_2/bin_2.dr
+[19:49:10] Deleting unwanted file: ./prokka_out/bin_2/bin_2.fixedproducts
+[19:49:10] Deleting unwanted file: ./prokka_out/bin_2/bin_2.ecn
+[19:49:10] Deleting unwanted file: ./prokka_out/bin_2/bin_2.val
+[19:49:10] Repairing broken .GBK output that tbl2asn produces...
+[19:49:10] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \.\/prokka_out\/bin_2\/bin_2\.gbf > \.\/prokka_out\/bin_2\/bin_2\.gbk
+[19:49:10] Deleting unwanted file: ./prokka_out/bin_2/bin_2.gbf
+[19:49:10] Output files:
+[19:49:10] ./prokka_out/bin_2/bin_2.log
+[19:49:10] ./prokka_out/bin_2/bin_2.fna
+[19:49:10] ./prokka_out/bin_2/bin_2.gff
+[19:49:10] ./prokka_out/bin_2/bin_2.faa
+[19:49:10] ./prokka_out/bin_2/bin_2.ffn
+[19:49:10] ./prokka_out/bin_2/bin_2.tbl
+[19:49:10] ./prokka_out/bin_2/bin_2.fsa
+[19:49:10] ./prokka_out/bin_2/bin_2.tsv
+[19:49:10] ./prokka_out/bin_2/bin_2.txt
+[19:49:10] ./prokka_out/bin_2/bin_2.gbk
+[19:49:10] ./prokka_out/bin_2/bin_2.sqn
+[19:49:10] ./prokka_out/bin_2/bin_2.err
+[19:49:10] Annotation finished successfully.
+[19:49:10] Walltime used: 1.35 minutes
+[19:49:10] If you use this result please cite the Prokka paper:
+[19:49:10] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[19:49:10] Type 'prokka --citation' for more details.
+[19:49:10] Share and enjoy!
