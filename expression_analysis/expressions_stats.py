@@ -107,7 +107,7 @@ for bin_key in bin_stats.keys():
 	plt.scatter(xv,yv,label="{}".format(bin_key))
 plt.title("Genes with same expression level per bin\nexcluding genes with unique expression level\nor expression level of 0")
 plt.ylabel("number of genes")
-plt.xlabel("expression level")
+plt.xlabel("expression level (mRNA reads mapped to gene)")
 plt.legend()
 plt.show()
 
