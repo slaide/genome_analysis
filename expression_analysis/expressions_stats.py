@@ -24,18 +24,31 @@ for expression_level_file in os.listdir('.'):
 		lines=[line for line in lines if len(line)>0]
 
 		segments=[line.split('\t') for line in lines]
+		
 		for (sequence_name,source,feature,start,end,noclue1,noclue2,noclue3,features) in segments:
 			if feature in features_found:
 				features_found[feature]+=1
 			else:
 				features_found[feature]=1
 
-		segments=[
-			(sequence_name,source,feature,start,end,noclue1,noclue2,noclue3,features) 
-			for (sequence_name,source,feature,start,end,noclue1,noclue2,noclue3,features) 
-			in segments 
-			if feature=="CDS"
-		]
+		segments=filter(lambda line:line[2]=='CDS',segments)
+		segments=list(segments)
+		#print("number of segments in current bin after filtering of non-cds features:",len(segments))
+
+		def get_product_name_from_line(line):
+			attributes=line[8].split(';')
+			found=None
+			for attribute in attributes:
+				(key,value)=attribute.split('=')
+				if key=='product':
+					found=value
+			assert found!=None
+
+			return found
+
+		segments=filter(lambda line:get_product_name_from_line(line) not in "hypothetical protein,putative protein".split(','),segments)
+		segments=list(segments)
+		#print("number of segments in current bin after filtering of hypothetical proteins:",len(segments))
 
 		sequence_data={}
 
@@ -76,20 +89,27 @@ for expression_level_file in os.listdir('.'):
 			[gene_id,count]=line.split(',')
 			count=int(count[:-1])
 
-			sequence_data[gene_id]['count']=count
+			if gene_id in sequence_data:
+				sequence_data[gene_id]['count']=count
+			else:
+				# gene encodes hypothetical protein, which we ignore
+				pass
 
 	stats=bin_stats[bin_num]
 
-	hypothetical_proteins_expressed=0
-	hypothetical_proteins_not_expressed=0
-	for gene_id in stats.keys():
-		gene=stats[gene_id]
-		product_value=gene["product"]
-		if product_value in "hypothetical protein,putative protein".split(','):
-			if gene['count']==0:
-				hypothetical_proteins_not_expressed+=1
-			else:
-				hypothetical_proteins_expressed+=1
+	# this is now impossible, because further up hypothetical and putative proteins are removed
+	hypothetical_proteins_present=False
+	if hypothetical_proteins_present:
+		hypothetical_proteins_expressed=0
+		hypothetical_proteins_not_expressed=0
+		for gene_id in stats.keys():
+			gene=stats[gene_id]
+			product_value=gene["product"]
+			if product_value in "hypothetical protein,putative protein".split(','):
+				if gene['count']==0:
+					hypothetical_proteins_not_expressed+=1
+				else:
+					hypothetical_proteins_expressed+=1
 
 for (key,value) in features_found.items():
 	print('|',key,'|',value,'|')
@@ -97,35 +117,38 @@ for (key,value) in features_found.items():
 # sort dictionary by bin key for better tables further down
 bin_stats={key: value for key, value in sorted(bin_stats.items(), key=lambda item: item[0])}
 
-plot_expression_levels=False
+plot_expression_levels=True
 
 for bin_key in bin_stats.keys():
-	expression_levels=[
-		gene['count']
-		for gene
-		in bin_stats[bin_key].values()
-	]
-	expression_level_stuff={}
-	for level in expression_levels:
-		if level in expression_level_stuff:
-			expression_level_stuff[level]+=1
-		else:
-			expression_level_stuff[level]=1
+	expression_levels=filter(lambda gene:gene['product'] not in "hypothetical protein,putative protein".split(','),bin_stats[bin_key].values())
+	expression_levels=sorted(expression_levels, key=lambda item: item['count'],reverse=True)
+	top_n=5
+	for gene in expression_levels[:top_n]:
+		expression_level=gene['count']
+		product_name=gene['product']
+		print('|',bin_key,'|',expression_level,'|',product_name,'|')
+	expression_levels=map(lambda gene:gene['count'],expression_levels)
 
-	expression_level_stuff=[els for els in expression_level_stuff.items()]
+	expression_level_abundances={}
+	for level in expression_levels:
+		if level in expression_level_abundances:
+			expression_level_abundances[level]+=1
+		else:
+			expression_level_abundances[level]=1
+
+	expression_level_abundances=list(expression_level_abundances.items())
 	#sum of all levels to normalize to max expression per bin
-	whole_expression=sum([level for (level,value) in expression_level_stuff])
+	whole_expression=sum([level for (level,value) in expression_level_abundances])
 	#sum of all genes to normalize to number of genes per bin
-	whole_count=sum([value for (level,value) in expression_level_stuff])
+	whole_count=sum([value for (level,value) in expression_level_abundances])
 
 	#allow all genes, not only those expressed (expression level >0) and those with non-unique expression level (count>1). the latter is used to make the plot more compact, and the former is used to restrict the plot to 'really' expressed genes
 	allow_all=False
 	#level=intensity of expression
 	#count=number of genes at given expression level
-	xv=[level for (level,count) in expression_level_stuff if allow_all or (level>0 and count >1)]
-	yv=[count for (level,count) in expression_level_stuff if allow_all or (level>0 and count >1)]
+	xv=[level for (level,count) in expression_level_abundances if allow_all or (level>0 and count >1)]
+	yv=[count for (level,count) in expression_level_abundances if allow_all or (level>0 and count >1)]
 
-	
 	if plot_expression_levels:
 		plt.scatter(xv,yv,label="{}".format(bin_key))
 
@@ -137,26 +160,29 @@ if plot_expression_levels:
 	plt.show()
 
 # calculate fraction of hypothetical proteins
-fraction_hypothetical_proteins=[
-	(
-		sum([
-			1
-			for gene
-			in filter(lambda gene: gene['product'] in "hypothetical protein,putative protein".split(','),bin_stats[bin_key].values())
-		])/len(bin_stats[bin_key].keys()),
-		bin_key
-	)
-	for bin_key
-	in bin_stats.keys()
-]
+if hypothetical_proteins_present:
+	fraction_hypothetical_proteins=[
+		(
+			sum([
+				1
+				for gene
+				in filter(lambda gene: gene['product'] in "hypothetical protein,putative protein".split(','),bin_stats[bin_key].values())
+			])/len(bin_stats[bin_key].keys()),
+			bin_key
+		)
+		for bin_key
+		in bin_stats.keys()
+	]
 
+	print_hypothetical_protein_fractions=False
 
-print_hypothetical_protein_fractions=False
+	if print_hypothetical_protein_fractions:
+		print(max([value for value,num in fraction_hypothetical_proteins]))
+		print(min([value for value,num in fraction_hypothetical_proteins]))
+		print(sum([value for value,num in fraction_hypothetical_proteins])/len(fraction_hypothetical_proteins))
 
-if print_hypothetical_protein_fractions:
-	print(max([value for value,num in fraction_hypothetical_proteins]))
-	print(min([value for value,num in fraction_hypothetical_proteins]))
-	print(sum([value for value,num in fraction_hypothetical_proteins])/len(fraction_hypothetical_proteins))
+# save bins that express same products
+bins_per_gene={}
 
 for bin_key in bin_stats.keys():
 	# count number of genes expressing identical products
@@ -167,6 +193,11 @@ for bin_key in bin_stats.keys():
 
 		# we have no useful information on these currently, so they are omitted for this analysis
 		if gene_product not in "hypothetical protein,putative protein".split(','):
+			if gene_product in bins_per_gene:
+				bins_per_gene[gene_product][bin_key]=True
+			else:
+				bins_per_gene[gene_product]={bin_key:True}
+
 			if gene_product not in product_abundances:
 				product_abundances[gene_product]=1
 			else:
@@ -175,8 +206,16 @@ for bin_key in bin_stats.keys():
 	# sort dictionary for better tables further below
 	product_abundances={key: value for key, value in sorted(product_abundances.items(), key=lambda item: item[1],reverse=True)}
 
-	for (product_name,product_abundance) in product_abundances.items():
-		if product_abundance>5:
+	# print genes with copy number above threshold, or instead the n most often copied genes across the genome
+	print_abundances_above_threshold_instead_of_top=True
+
+	if  print_abundances_above_threshold_instead_of_top:
+		for (product_name,product_abundance) in product_abundances.items():
+			if product_abundance>5:
+				print('|',bin_key,'|',product_abundance,'|',product_name,'|')
+	else:
+		top_n=5
+		for (product_name,product_abundance) in list(product_abundances.items())[:top_n]:
 			print('|',bin_key,'|',product_abundance,'|',product_name,'|')
 
 	# count number of genes with same number of copies
@@ -190,6 +229,11 @@ for bin_key in bin_stats.keys():
 	# print(bin_key,abundances)
 
 	plt.scatter([abundance for (abundance,count) in abundances.items()],[count for (abundance,count) in abundances.items()],label="{}".format(bin_key))
+
+print("number of bins in which genes with identical product is present")
+for (product,bins) in bins_per_gene.items():
+	if len(bins)>13:
+		print('|',len(bins), '|',product,'|')
 
 plt.title("Number of genes with same copy number in each bin")
 plt.ylabel("Number of genes with same copy number")
