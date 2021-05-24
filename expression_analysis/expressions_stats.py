@@ -9,6 +9,9 @@ bin_stats={}
 
 features_found={}
 
+#keep hypothetical proteins
+hypothetical_proteins_present=True
+
 for expression_level_file in os.listdir('.'):
 	if not expression_level_file.endswith('.csv'):
 		continue
@@ -46,15 +49,16 @@ for expression_level_file in os.listdir('.'):
 
 			return found
 
-		segments=filter(lambda line:get_product_name_from_line(line) not in "hypothetical protein,putative protein".split(','),segments)
-		segments=list(segments)
+		if not hypothetical_proteins_present:
+			segments=filter(lambda line:get_product_name_from_line(line) not in "hypothetical protein,putative protein".split(','),segments)
+			segments=list(segments)
 		#print("number of segments in current bin after filtering of hypothetical proteins:",len(segments))
 
 		sequence_data={}
 
 		for (sequence_name,source,feature,start,end,noclue1,noclue2,noclue3,attributes) in segments:
 			attributes=attributes.split(';')
-			named_attributes={}
+			named_attributes={'length':int(end)-int(start)}
 
 			for feature in attributes:
 				(name,value)=feature.split('=')
@@ -66,7 +70,7 @@ for expression_level_file in os.listdir('.'):
 				data={}
 				data["product"]=named_attributes["product"]
 				#copy these attributes, if available
-				for possible_attribute in "gene Name".split():
+				for possible_attribute in "gene Name length".split():
 					if possible_attribute in named_attributes:
 						data[possible_attribute]=named_attributes[possible_attribute]
 
@@ -81,6 +85,8 @@ for expression_level_file in os.listdir('.'):
 		lines=file.readlines()
 		special_lines=lines[-5:]
 		lines=lines[:-5]
+
+		print(bin_num,(1-int(special_lines[3].split(',')[1])/1557254)*100)
 	
 		num_genes=len(lines)
 		
@@ -98,7 +104,6 @@ for expression_level_file in os.listdir('.'):
 	stats=bin_stats[bin_num]
 
 	# this is now impossible, because further up hypothetical and putative proteins are removed
-	hypothetical_proteins_present=False
 	if hypothetical_proteins_present:
 		hypothetical_proteins_expressed=0
 		hypothetical_proteins_not_expressed=0
@@ -120,13 +125,33 @@ bin_stats={key: value for key, value in sorted(bin_stats.items(), key=lambda ite
 plot_expression_levels=True
 
 for bin_key in bin_stats.keys():
-	expression_levels=filter(lambda gene:gene['product'] not in "hypothetical protein,putative protein".split(','),bin_stats[bin_key].values())
+	if not hypothetical_proteins_present:
+		expression_levels=filter(lambda gene:gene['product'] not in "hypothetical protein,putative protein".split(','),bin_stats[bin_key].values())
+	else:
+		expression_levels=bin_stats[bin_key].values()
 	expression_levels=sorted(expression_levels, key=lambda item: item['count'],reverse=True)
 	top_n=5
-	for gene in expression_levels[:top_n]:
+
+	total_reads_mapped_to_bin=sum([
+		gene['count']
+		for gene 
+		in bin_stats[bin_key].values()
+	])
+
+	# do not include hypothetical proteins here
+	for gene in list(filter(lambda gene:gene['product'] not in "hypothetical protein,putative protein".split(','),expression_levels))[:top_n]:
 		expression_level=gene['count']
 		product_name=gene['product']
-		print('|',bin_key,'|',expression_level,'|',product_name,'|')
+
+		'''
+		RPKM =   numReads / ( geneLength/1000 * totalNumReads/1,000,000 )
+
+		numReads - number of reads mapped to a gene sequence
+		geneLength - length of the gene sequence
+		totalNumReads - total number of mapped reads of a sample
+		'''
+		rpkm=gene['count']/((gene['length']/1000)*(total_reads_mapped_to_bin/1000000))
+		print('|',bin_key,'|',expression_level,'|',"{:11.2f}".format(rpkm),'|',product_name,'|')
 	expression_levels=map(lambda gene:gene['count'],expression_levels)
 
 	expression_level_abundances={}
@@ -153,7 +178,10 @@ for bin_key in bin_stats.keys():
 		plt.scatter(xv,yv,label="{}".format(bin_key))
 
 if plot_expression_levels:
-	plt.title("Genes with same expression level per bin\nexcluding genes with unique expression level\nor expression level of 0")
+	if allow_all:
+		plt.title("Genes with same expression level per bin")
+	else:
+		plt.title("Genes with same expression level per bin\nexcluding genes with unique expression level\nor expression level of 0")
 	plt.ylabel("number of genes")
 	plt.xlabel("expression level (mRNA reads mapped to gene)")
 	plt.legend()
@@ -239,4 +267,4 @@ plt.title("Number of genes with same copy number in each bin")
 plt.ylabel("Number of genes with same copy number")
 plt.xlabel("Copy number")
 plt.legend()
-# plt.show()
+#plt.show()
